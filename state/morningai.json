@@ -29,83 +29,103 @@
       "items": [
         {
           "title": "Box、米連邦政府のCDOに機関の記録を統制されたAI基盤として管理するよう提言。所有者・メタデータ・権限・来歴の整備が必要と指摘",
-          "link": "https://blog.box.com/federal-cio-box-jason-gray-scaling-impact-across-government-responsible-ai"
+          "link": "https://blog.box.com/federal-cio-box-jason-gray-scaling-impact-across-government-responsible-ai",
+          "date": "2026-10-23T22:00:49.340000+00:00"
         },
         {
           "title": "Google Research、結核AIスクリーニングをオープン基盤モデルへ移行。インドネシアはMedGemmaで年5,000万人の検診を目指す",
-          "link": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/"
+          "link": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+          "date": "2026-10-23T19:57:40.765000+00:00"
         },
         {
           "title": "OpenAI、フロンティアモデルの学習環境を最強モデルでレッドチーミングし封じ込めを強化。10月1日にRL学習を再開",
-          "link": "https://openai.com/index/securing-our-frontier-model-training-environment"
+          "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "date": "2026-10-23T19:55:38.022000+00:00"
         },
         {
           "title": "Claude Duet、パスワードやサインイントークンをモデルから隔離し支払いや削除の前にユーザーの承認を求める設計を採用",
-          "link": "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security"
+          "link": "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security",
+          "date": "2026-10-23T19:52:51.321000+00:00"
         },
         {
           "title": "Moonshot の Kimi K3.1 Pro、Intelligence Index で前モデル比11ポイント上昇し Terminal-Bench 4.0 で全モデル首位",
-          "link": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks"
+          "link": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
+          "date": "2026-10-23T18:50:53.087000+00:00"
         },
         {
           "title": "Google、Gemini 4 Argonで開発者が作った3D地球儀やマルチプレイヤーゲームなど5作品を紹介",
-          "link": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/"
+          "link": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+          "date": "2026-10-23T18:49:34.620000+00:00"
         },
         {
           "title": "Claude、サブエージェントをスキルとツールで単一エージェントループへ畳み込む手順を解説。eval で1つずつ比較し悪化時のみ残す",
-          "link": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop"
+          "link": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+          "date": "2026-10-23T18:47:53.737000+00:00"
         },
         {
           "title": "Kimi、3Tクラスのオープンウェイトモデル Kimi K3.1 Proを提供開始。サイバー関連データを除去し重みは11月4日までに公開",
-          "link": "https://www.kimi.com/en/blog/kimi-k3-1-pro"
+          "link": "https://www.kimi.com/en/blog/kimi-k3-1-pro",
+          "date": "2026-10-23T17:45:22.659000+00:00"
         },
         {
           "title": "Ai2とペンシルベニア大学、文献に照らして研究アイデアを練り直すLitPivotを開発。17人の研究者による実験で文献への裏付けが向上",
-          "link": "https://huggingface.co/blog/allenai/litpivot"
+          "link": "https://huggingface.co/blog/allenai/litpivot",
+          "date": "2026-10-23T16:42:33.938000+00:00"
         },
         {
           "title": "OpenAI、Habitatの基盤Azure Cosmos DBをマルチテナント中心に戻し、読み取りp50を約120msから約10msに短縮",
-          "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+          "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "date": "2026-10-23T16:40:56.318000+00:00"
         },
         {
           "title": "Anthropic、AISIの評価中に実在のGitHubリポジトリを攻撃したClaude Mythos 5を分析。原因は無謀さと偏った推論",
-          "link": "https://www.anthropic.com/research/alignment-assessment-ukaisi"
+          "link": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+          "date": "2026-10-23T13:36:03.194000+00:00"
         },
         {
           "title": "Hugging Face、Hubの人気モデルがAWS Trainiumで無改変で動くか調べられるSpaceを公開。実行スクリプトも入手できる",
-          "link": "https://huggingface.co/blog/torch-neuronx-model-support"
+          "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "date": "2026-10-23T13:33:51.729000+00:00"
         },
         {
           "title": "OpenAIとポーランドのNASK国立研究所、AIの安全性・セキュリティ研究で協力を探る合意に署名。AIの評価手法や脆弱性の特定を共同研究",
-          "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+          "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "date": "2026-10-23T06:23:36.780000+00:00"
         },
         {
           "title": "Sakana AI、オントロジーを基盤にAIエージェントを構築・実行・運用するプラットフォーム「Sakana Aquarium」を発表",
-          "link": "https://sakana.ai/aquarium-release/"
+          "link": "https://sakana.ai/aquarium-release/",
+          "date": "2026-10-23T00:15:08.363000+00:00"
         },
         {
           "title": "MicrosoftとHugging Face、データベース採点をRL報酬にQwen3.8-27Bを学習し、全試行成功タスクが38から107に増加",
-          "link": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+          "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+          "date": "2026-10-22T23:12:43.852000+00:00"
         },
         {
           "title": "AnthropicとTheorem、ClaudeでOSS-Fuzzの123ライブラリのRISC-Vバイナリがクラッシュしないことを形式証明",
-          "link": "https://www.anthropic.com/research/formal-verification"
+          "link": "https://www.anthropic.com/research/formal-verification",
+          "date": "2026-10-22T22:09:45.330000+00:00"
         },
         {
           "title": "Anthropic、生命科学の研究者を公募。Claudeを使いAnthropicの研究者と8–12週間共同研究、費用負担なし",
-          "link": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"
+          "link": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+          "date": "2026-10-22T22:08:01.458000+00:00"
         },
         {
           "title": "Claude Models on Google Cloud (Anthropic managed)が一般提供開始、Claude Platformの全機能に対応",
-          "link": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed"
+          "link": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
+          "date": "2026-10-22T22:05:58.017000+00:00"
         },
         {
           "title": "Hugging Face、DNA言語モデル「Carbon-X」を公開。GPT-6.1 Solに迫る精度を約1/1,800のコストで実現",
-          "link": "https://huggingface.co/HuggingFaceBio/Carbon-X"
+          "link": "https://huggingface.co/HuggingFaceBio/Carbon-X",
+          "date": "2026-10-22T22:00:02.866000+00:00"
         },
         {
           "title": "Walmart、AI エージェント経由の買い物向けに Agent Profiles を今後1か月以内に提供。顧客が支出上限を設定できる",
-          "link": "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
+          "link": "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers",
+          "date": "2026-10-22T21:58:36.669000+00:00"
         }
       ]
     }

@@ -99,14 +99,21 @@ def make_digest(site, new_items):
         "guid": f"{site['id']}-{updated.astimezone(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}",
         "title": f"{site['name']}({local.year}年{local.month}月{local.day}日 {local.hour}:{local.minute:02d})",
         "date": updated.astimezone(timezone.utc).isoformat(),
-        "items": [{"title": i["title"], "link": i["link"]} for i in new_items],
+        "items": [
+            {"title": i["title"], "link": i["link"], "date": i["date"].isoformat() if i["date"] else None}
+            for i in new_items
+        ],
     }
 
 
 def digest_html(digest):
     parts = []
     for item in digest["items"]:
-        parts.append(f'<p>{escape(item["title"])}<br><a href="{escape(item["link"])}">{escape(item["link"])}</a></p>')
+        title = escape(item["title"])
+        if item.get("date"):
+            local = datetime.fromisoformat(item["date"]).astimezone(JST)
+            title = f"[{local.month}/{local.day} {local.hour}:{local.minute:02d}] {title}"
+        parts.append(f'<p>{title}<br><a href="{escape(item["link"])}">{escape(item["link"])}</a></p>')
     return "\n".join(parts)
 
 
