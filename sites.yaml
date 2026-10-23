@@ -1,0 +1,14 @@
+# 対象サイトの定義。サイトを追加するときはここに追記する。
+#
+# 必須: id / name / url / item / title / link
+# 任意: date（掲載日時。まとめ記事の更新日時に使う。なければ取得時刻）/ max_items / description
+#
+# セレクタの書き方: "css" ならテキスト、"css@属性名" なら属性値を取る
+
+- id: morningai
+  name: Morning AI
+  url: https://morningaiapp.com
+  item: article
+  title: h2 a
+  link: h2 a@href
+  date: time@datetime

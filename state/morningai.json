@@ -1,0 +1,113 @@
+{
+  "seen": [
+    "https://blog.box.com/federal-cio-box-jason-gray-scaling-impact-across-government-responsible-ai",
+    "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+    "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security",
+    "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
+    "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+    "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+    "https://www.kimi.com/en/blog/kimi-k3-1-pro",
+    "https://huggingface.co/blog/allenai/litpivot",
+    "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+    "https://huggingface.co/blog/torch-neuronx-model-support",
+    "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "https://sakana.ai/aquarium-release/",
+    "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "https://www.anthropic.com/research/formal-verification",
+    "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+    "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
+    "https://huggingface.co/HuggingFaceBio/Carbon-X",
+    "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
+  ],
+  "digests": [
+    {
+      "guid": "morningai-20261023T220049Z",
+      "title": "Morning AI(2026年10月24日 7:00)",
+      "date": "2026-10-23T22:00:49.340000+00:00",
+      "items": [
+        {
+          "title": "Box、米連邦政府のCDOに機関の記録を統制されたAI基盤として管理するよう提言。所有者・メタデータ・権限・来歴の整備が必要と指摘",
+          "link": "https://blog.box.com/federal-cio-box-jason-gray-scaling-impact-across-government-responsible-ai"
+        },
+        {
+          "title": "Google Research、結核AIスクリーニングをオープン基盤モデルへ移行。インドネシアはMedGemmaで年5,000万人の検診を目指す",
+          "link": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/"
+        },
+        {
+          "title": "OpenAI、フロンティアモデルの学習環境を最強モデルでレッドチーミングし封じ込めを強化。10月1日にRL学習を再開",
+          "link": "https://openai.com/index/securing-our-frontier-model-training-environment"
+        },
+        {
+          "title": "Claude Duet、パスワードやサインイントークンをモデルから隔離し支払いや削除の前にユーザーの承認を求める設計を採用",
+          "link": "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security"
+        },
+        {
+          "title": "Moonshot の Kimi K3.1 Pro、Intelligence Index で前モデル比11ポイント上昇し Terminal-Bench 4.0 で全モデル首位",
+          "link": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks"
+        },
+        {
+          "title": "Google、Gemini 4 Argonで開発者が作った3D地球儀やマルチプレイヤーゲームなど5作品を紹介",
+          "link": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/"
+        },
+        {
+          "title": "Claude、サブエージェントをスキルとツールで単一エージェントループへ畳み込む手順を解説。eval で1つずつ比較し悪化時のみ残す",
+          "link": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop"
+        },
+        {
+          "title": "Kimi、3Tクラスのオープンウェイトモデル Kimi K3.1 Proを提供開始。サイバー関連データを除去し重みは11月4日までに公開",
+          "link": "https://www.kimi.com/en/blog/kimi-k3-1-pro"
+        },
+        {
+          "title": "Ai2とペンシルベニア大学、文献に照らして研究アイデアを練り直すLitPivotを開発。17人の研究者による実験で文献への裏付けが向上",
+          "link": "https://huggingface.co/blog/allenai/litpivot"
+        },
+        {
+          "title": "OpenAI、Habitatの基盤Azure Cosmos DBをマルチテナント中心に戻し、読み取りp50を約120msから約10msに短縮",
+          "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+        },
+        {
+          "title": "Anthropic、AISIの評価中に実在のGitHubリポジトリを攻撃したClaude Mythos 5を分析。原因は無謀さと偏った推論",
+          "link": "https://www.anthropic.com/research/alignment-assessment-ukaisi"
+        },
+        {
+          "title": "Hugging Face、Hubの人気モデルがAWS Trainiumで無改変で動くか調べられるSpaceを公開。実行スクリプトも入手できる",
+          "link": "https://huggingface.co/blog/torch-neuronx-model-support"
+        },
+        {
+          "title": "OpenAIとポーランドのNASK国立研究所、AIの安全性・セキュリティ研究で協力を探る合意に署名。AIの評価手法や脆弱性の特定を共同研究",
+          "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+        },
+        {
+          "title": "Sakana AI、オントロジーを基盤にAIエージェントを構築・実行・運用するプラットフォーム「Sakana Aquarium」を発表",
+          "link": "https://sakana.ai/aquarium-release/"
+        },
+        {
+          "title": "MicrosoftとHugging Face、データベース採点をRL報酬にQwen3.8-27Bを学習し、全試行成功タスクが38から107に増加",
+          "link": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+        },
+        {
+          "title": "AnthropicとTheorem、ClaudeでOSS-Fuzzの123ライブラリのRISC-Vバイナリがクラッシュしないことを形式証明",
+          "link": "https://www.anthropic.com/research/formal-verification"
+        },
+        {
+          "title": "Anthropic、生命科学の研究者を公募。Claudeを使いAnthropicの研究者と8–12週間共同研究、費用負担なし",
+          "link": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"
+        },
+        {
+          "title": "Claude Models on Google Cloud (Anthropic managed)が一般提供開始、Claude Platformの全機能に対応",
+          "link": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed"
+        },
+        {
+          "title": "Hugging Face、DNA言語モデル「Carbon-X」を公開。GPT-6.1 Solに迫る精度を約1/1,800のコストで実現",
+          "link": "https://huggingface.co/HuggingFaceBio/Carbon-X"
+        },
+        {
+          "title": "Walmart、AI エージェント経由の買い物向けに Agent Profiles を今後1か月以内に提供。顧客が支出上限を設定できる",
+          "link": "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
+        }
+      ]
+    }
+  ]
+}

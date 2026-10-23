@@ -1,0 +1,43 @@
+name: build feeds
+
+on:
+  schedule:
+    - cron: "0 21 * * *"   # JST 6:00
+    - cron: "0 9 * * *"    # JST 18:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-feeds
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      # 一部のサイトが失敗しても、成功したサイトのフィードはcommitする
+      - name: Build
+        id: build
+        continue-on-error: true
+        run: python build.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs state
+          git diff --cached --quiet || git commit -m "フィードを更新" && git push
+
+      - name: Report failure
+        if: steps.build.outcome == 'failure'
+        run: |
+          echo "::error::取得に失敗したサイトがあります。Buildステップのログを確認してください"
+          exit 1
