@@ -1,7 +1,8 @@
 # 対象サイトの定義。サイトを追加するときはここに追記する。
 #
 # 必須: id / name / url / item / title / link
-# 任意: date（掲載日時。まとめ記事の更新日時に使う。なければ取得時刻）/ max_items / description
+# 任意: date（掲載日時。まとめ記事の更新日時に使う。なければ取得時刻）/ start・end（会期）/ extra（補足情報のリスト）
+#       pages（複数ページを順に読む上限）/ order: start（まとめ記事の中を開始日順に）/ max_items / description
 #
 # セレクタの書き方: "css" ならテキスト、"css@属性名" なら属性値を取る
 
@@ -12,3 +13,16 @@
   title: h2 a
   link: h2 a@href
   date: time@datetime
+
+- id: artagenda
+  name: アートアジェンダ 展覧会
+  url: https://www.artagenda.jp/exhibition/index?sort=1   # 全国・開催中＆開催予定
+  pages: 40                                               # 空のページに当たったら止まる
+  item: article.artEvent
+  title: h3.exhDtl__ttl a
+  link: h3.exhDtl__ttl a@href
+  start: p.exhDtl__ymd time@datetime                      # 会期の開始日
+  end: p.exhDtl__ymd time:nth-of-type(2)@datetime         # 会期の終了日
+  extra:
+    - p.exhDtl__pla a                                     # 会場｜都道府県
+  order: start                                            # まとめ記事の中を開始日の近い順に

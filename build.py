@@ -56,13 +56,36 @@ def parse_date(value):
     return dt if dt.tzinfo else dt.replace(tzinfo=JST)
 
 
-def extract(site):
-    res = requests.get(site["url"], headers={"User-Agent": USER_AGENT}, timeout=30)
+def page_url(url, page):
+    if page == 1:
+        return url
+    return f"{url}{'&' if '?' in url else '?'}page={page}"
+
+
+def short_date(dt):
+    """会期表示用。今年なら 10/24、それ以外は 2027/1/30。"""
+    local = dt.astimezone(JST)
+    if local.year == datetime.now(JST).year:
+        return f"{local.month}/{local.day}"
+    return f"{local.year}/{local.month}/{local.day}"
+
+
+def make_label(date, start, end):
+    """記事タイトルの前に付ける [ ] の中身。会期があれば会期、なければ掲載日時。"""
+    if start:
+        return f"{short_date(start)}〜{short_date(end)}" if end else f"{short_date(start)}〜"
+    if date:
+        local = date.astimezone(JST)
+        return f"{local.month}/{local.day} {local.hour}:{local.minute:02d}"
+    return None
+
+
+def extract_page(site, url, items, seen_links):
+    res = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
     res.raise_for_status()
     soup = BeautifulSoup(res.content, "html.parser")
 
-    items = []
-    seen_links = set()
+    added = 0
     for el in soup.select(site["item"]):
         title = select_value(el, site["title"])
         link = select_value(el, site["link"])
@@ -73,10 +96,27 @@ def extract(site):
             continue
         seen_links.add(link)
         date = parse_date(select_value(el, site["date"])) if site.get("date") else None
-        items.append({"title": title, "link": link, "date": date})
-        if len(items) >= site.get("max_items", 50):
+        start = parse_date(select_value(el, site["start"])) if site.get("start") else None
+        end = parse_date(select_value(el, site["end"])) if site.get("end") else None
+        extra = [v for v in (select_value(el, s) for s in site.get("extra", [])) if v]
+        items.append({
+            "title": title, "link": link, "date": date, "start": start,
+            "label": make_label(date, start, end), "extra": extra,
+        })
+        added += 1
+    return added
+
+
+def extract(site):
+    """一覧ページを取得する。pages を指定すると、空のページに当たるまで順に読む。"""
+    items = []
+    seen_links = set()
+    for page in range(1, site.get("pages", 1) + 1):
+        if page > 1:
+            time.sleep(3)
+        if not extract_page(site, page_url(site["url"], page), items, seen_links):
             break
-    return items
+    return items[:site.get("max_items", 1000)]
 
 
 def load_state(site_id):
@@ -101,20 +141,39 @@ def make_digest(site, new_items):
         "title": f"{site['name']}({local.year}年{local.month}月{local.day}日 {local.hour}:{local.minute:02d})",
         "date": updated.astimezone(timezone.utc).isoformat(),
         "items": [
-            {"title": i["title"], "link": i["link"], "date": i["date"].isoformat() if i["date"] else None}
+            {"title": i["title"], "link": i["link"], "label": i["label"], "extra": i["extra"]}
             for i in new_items
         ],
     }
 
 
+def make_first_digest(site, count):
+    """初回は掲載中の記事を記録するだけにし、その旨を1件だけ出す（フィードを空にしないため）。"""
+    now = datetime.now(timezone.utc)
+    local = now.astimezone(JST)
+    return {
+        "guid": f"{site['id']}-{now.strftime('%Y%m%dT%H%M%SZ')}",
+        "title": f"{site['name']}(取得開始 {local.year}年{local.month}月{local.day}日)",
+        "date": now.isoformat(),
+        "items": [],
+        "note": f"掲載中の{count}件を記録しました。次回の更新から、新しく掲載されたものだけをお届けします。",
+    }
+
+
 def digest_html(digest):
     parts = []
+    if digest.get("note"):
+        parts.append(f"<p>{escape(digest['note'])}</p>")
     for item in digest["items"]:
         title = escape(item["title"])
-        if item.get("date"):
-            local = datetime.fromisoformat(item["date"]).astimezone(JST)
-            title = f"[{local.month}/{local.day} {local.hour}:{local.minute:02d}] {title}"
-        parts.append(f'<p>{title}<br><a href="{escape(item["link"])}">{escape(item["link"])}</a></p>')
+        label = item.get("label")
+        if not label and item.get("date"):  # 旧形式のstate
+            label = make_label(datetime.fromisoformat(item["date"]), None, None)
+        if label:
+            title = f"[{escape(label)}] {title}"
+        lines = [title] + [escape(e) for e in item.get("extra", [])]
+        lines.append(f'<a href="{escape(item["link"])}">{escape(item["link"])}</a>')
+        parts.append(f"<p>{'<br>'.join(lines)}</p>")
     return "\n".join(parts)
 
 
@@ -153,28 +212,40 @@ def process(site, dry_run):
     if not items:
         raise RuntimeError("記事を1件も抽出できませんでした（セレクタがページ構造と合っていない可能性）")
 
+    state_exists = (STATE_DIR / f"{site['id']}.json").exists()
     state = load_state(site["id"])
     seen = set(state["seen"])
     new_items = [i for i in items if i["link"] not in seen]
-    digest = make_digest(site, new_items) if new_items else None
+    if site.get("order") == "start":
+        far = datetime.max.replace(tzinfo=timezone.utc)
+        new_items.sort(key=lambda i: i["start"] or far)
 
+    if not state_exists:
+        digest = make_first_digest(site, len(items))
+    elif new_items:
+        digest = make_digest(site, new_items)
+    else:
+        digest = None
+
+    print(f"[{site['id']}] 抽出 {len(items)} 件 / 新着 {len(new_items)} 件" + ("（初回のため記録のみ）" if not state_exists else ""))
     if dry_run:
-        print(f"[{site['id']}] 抽出 {len(items)} 件 / 新着 {len(new_items)} 件")
-        for i in items:
-            mark = "NEW" if i["link"] not in seen else "   "
-            date = i["date"].astimezone(JST).strftime("%m-%d %H:%M") if i["date"] else "-----------"
-            print(f"  {mark} {date}  {i['title'][:50]}")
-            print(f"                     {i['link']}")
+        for i in (new_items if state_exists else items):
+            print(f"  [{i['label'] or '-'}] {i['title'][:60]}")
+            for e in i["extra"]:
+                print(f"      {e}")
+            print(f"      {i['link']}")
         if digest:
             print(f"  → まとめ記事: {digest['title']}")
         return
 
     if digest:
         state["digests"] = [digest] + state["digests"][:MAX_DIGESTS - 1]
-        state["seen"] = ([i["link"] for i in new_items] + state["seen"])[:MAX_SEEN]
-        save_state(site["id"], state)
+    # 一覧に今載っている記事は必ず覚えておく（上限で忘れて再び新着扱いになるのを防ぐ）
+    current = [i["link"] for i in items]
+    rest = [u for u in state["seen"] if u not in set(current)]
+    state["seen"] = (current + rest)[:max(MAX_SEEN, len(current))]
+    save_state(site["id"], state)
     write_feed(site, state["digests"])
-    print(f"[{site['id']}] 抽出 {len(items)} 件 / 新着 {len(new_items)} 件")
 
 
 def main():

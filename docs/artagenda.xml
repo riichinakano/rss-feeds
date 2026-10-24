@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>アートアジェンダ 展覧会</title>
+    <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
+    <description>アートアジェンダ 展覧会 の新着まとめ</description>
+    <language>ja</language>
+    <atom:link href="https://riichinakano.github.io/rss-feeds/artagenda.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2026 05:50:58 +0000</lastBuildDate>
+    <item>
+      <title>アートアジェンダ 展覧会(取得開始 2026年10月24日)</title>
+      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
+      <guid isPermaLink="false">artagenda-20261024T055058Z</guid>
+      <pubDate>Sat, 24 Oct 2026 05:50:58 +0000</pubDate>
+      <description>&lt;p&gt;掲載中の464件を記録しました。次回の更新から、新しく掲載されたものだけをお届けします。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

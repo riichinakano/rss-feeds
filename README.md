@@ -8,6 +8,7 @@ Feedly等で購読する前提で、閲覧画面・データベースは持た�
 | サイト | 購読URL |
 |---|---|
 | Morning AI | https://riichinakano.github.io/rss-feeds/morningai.xml |
+| アートアジェンダ 展覧会（全国・開催中＆開催予定の新着掲載） | https://riichinakano.github.io/rss-feeds/artagenda.xml |
 
 ## 仕組み
 
