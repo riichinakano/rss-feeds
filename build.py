@@ -48,8 +48,9 @@ def select_value(el, spec):
 def parse_date(value):
     if not value:
         return None
+    value = value.strip().replace("Z", "+00:00").replace("/", "-").replace(".", "-")
     try:
-        dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        dt = datetime.fromisoformat(value)
     except ValueError:
         return None
     return dt if dt.tzinfo else dt.replace(tzinfo=JST)
