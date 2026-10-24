@@ -6,7 +6,14 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 23 Oct 2026 22:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 22:53:43 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年10月25日 7:53)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261024T225343Z</guid>
+      <pubDate>Sat, 24 Oct 2026 22:53:43 +0000</pubDate>
+      <description>&lt;p&gt;CodeRabbit、Deep Scan利用料を組織ごとに最大5,000ドル分負担。11月8日まで2人以上の組織が対象&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/one-million-security-scans-and-fixes"&gt;https://www.coderabbit.ai/ja/blog/one-million-security-scans-and-fixes&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年10月24日 7:00)</title>
       <link>https://morningaiapp.com</link>

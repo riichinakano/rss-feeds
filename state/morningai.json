@@ -1,5 +1,6 @@
 {
   "seen": [
+    "https://www.coderabbit.ai/ja/blog/one-million-security-scans-and-fixes",
     "https://blog.box.com/federal-cio-box-jason-gray-scaling-impact-across-government-responsible-ai",
     "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
     "https://openai.com/index/securing-our-frontier-model-training-environment",
@@ -22,6 +23,19 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261024T225343Z",
+      "title": "Morning AI(2026年10月25日 7:53)",
+      "date": "2026-10-24T22:53:43.886481+00:00",
+      "items": [
+        {
+          "title": "CodeRabbit、Deep Scan利用料を組織ごとに最大5,000ドル分負担。11月8日まで2人以上の組織が対象",
+          "link": "https://www.coderabbit.ai/ja/blog/one-million-security-scans-and-fixes",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261023T220049Z",
       "title": "Morning AI(2026年10月24日 7:00)",
