@@ -80,9 +80,22 @@ def make_label(date, start, end):
     return None
 
 
+def fetch(url, attempts=3):
+    """一時的なエラー（502など）に備えて、間をあけて再試行する。"""
+    for n in range(1, attempts + 1):
+        try:
+            res = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
+            res.raise_for_status()
+            return res
+        except requests.RequestException as e:
+            if n == attempts:
+                raise
+            print(f"  再試行 {n}/{attempts - 1}: {e}", file=sys.stderr)
+            time.sleep(10 * n)
+
+
 def extract_page(site, url, items, seen_links):
-    res = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
-    res.raise_for_status()
+    res = fetch(url)
     soup = BeautifulSoup(res.content, "html.parser")
 
     added = 0
