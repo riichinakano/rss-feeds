@@ -1,5 +1,8 @@
 {
   "seen": [
+    "https://ollama.com/blog/speech-models",
+    "https://block.xyz/dessa",
+    "https://www.php.net/archive/2026.php#2026-10-23-1",
     "https://www.coderabbit.ai/ja/blog/one-million-security-scans-and-fixes",
     "https://blog.box.com/federal-cio-box-jason-gray-scaling-impact-across-government-responsible-ai",
     "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
@@ -23,6 +26,31 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261025T133145Z",
+      "title": "Morning AI(2026年10月25日 22:31)",
+      "date": "2026-10-25T13:31:45.784612+00:00",
+      "items": [
+        {
+          "title": "Ollama がテキスト読み上げに対応し Gradium の Phonon を macOS で提供。純正ランタイムより35%高速",
+          "link": "https://ollama.com/blog/speech-models",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Block, Inc.がdessa.comのプライバシーノーティスを施行。収集情報をCash AppやSquareなどグループ会社と共有",
+          "link": "https://block.xyz/dessa",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "PHP、起こりにくいRCE経路への対策としてsession.upload_progress.enabled=0を推奨。次の定例リリースで修正",
+          "link": "https://www.php.net/archive/2026.php#2026-10-23-1",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261024T225343Z",
       "title": "Morning AI(2026年10月25日 7:53)",

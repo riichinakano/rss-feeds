@@ -6,7 +6,16 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 24 Oct 2026 22:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:31:45 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年10月25日 22:31)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261025T133145Z</guid>
+      <pubDate>Sun, 25 Oct 2026 13:31:45 +0000</pubDate>
+      <description>&lt;p&gt;Ollama がテキスト読み上げに対応し Gradium の Phonon を macOS で提供。純正ランタイムより35%高速&lt;br&gt;&lt;a href="https://ollama.com/blog/speech-models"&gt;https://ollama.com/blog/speech-models&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Block, Inc.がdessa.comのプライバシーノーティスを施行。収集情報をCash AppやSquareなどグループ会社と共有&lt;br&gt;&lt;a href="https://block.xyz/dessa"&gt;https://block.xyz/dessa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PHP、起こりにくいRCE経路への対策としてsession.upload_progress.enabled=0を推奨。次の定例リリースで修正&lt;br&gt;&lt;a href="https://www.php.net/archive/2026.php#2026-10-23-1"&gt;https://www.php.net/archive/2026.php#2026-10-23-1&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年10月25日 7:53)</title>
       <link>https://morningaiapp.com</link>

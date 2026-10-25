@@ -1,5 +1,11 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12887",
+    "https://www.artagenda.jp/exhibition/detail/12888",
+    "https://www.artagenda.jp/exhibition/detail/12889",
+    "https://www.artagenda.jp/exhibition/detail/12890",
+    "https://www.artagenda.jp/exhibition/detail/12288",
+    "https://www.artagenda.jp/exhibition/detail/11551",
     "https://www.artagenda.jp/exhibition/detail/12038",
     "https://www.artagenda.jp/exhibition/detail/12040",
     "https://www.artagenda.jp/exhibition/detail/12684",
@@ -445,7 +451,6 @@
     "https://www.artagenda.jp/exhibition/detail/11695",
     "https://www.artagenda.jp/exhibition/detail/11587",
     "https://www.artagenda.jp/exhibition/detail/11591",
-    "https://www.artagenda.jp/exhibition/detail/11551",
     "https://www.artagenda.jp/exhibition/detail/11546",
     "https://www.artagenda.jp/exhibition/detail/11550",
     "https://www.artagenda.jp/exhibition/detail/11507",
@@ -466,6 +471,53 @@
     "https://www.artagenda.jp/exhibition/detail/4402"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261025T133353Z",
+      "title": "アートアジェンダ 展覧会(2026年10月25日 22:33)",
+      "date": "2026-10-25T13:33:53.655141+00:00",
+      "items": [
+        {
+          "title": "いま、私は現代アートと出会う",
+          "link": "https://www.artagenda.jp/exhibition/detail/12288",
+          "label": "11/14〜2027/1/24",
+          "extra": [
+            "宮城県美術館｜宮城県"
+          ]
+        },
+        {
+          "title": "日本のやきもの ―京焼と古伊万里、茶道具の美",
+          "link": "https://www.artagenda.jp/exhibition/detail/12887",
+          "label": "2027/4/10〜2027/6/27",
+          "extra": [
+            "静嘉堂文庫美術館（静嘉堂＠丸の内）｜東京都"
+          ]
+        },
+        {
+          "title": "みやこのかたな ―京物と大和物の系譜",
+          "link": "https://www.artagenda.jp/exhibition/detail/12888",
+          "label": "2027/7/10〜2027/9/26",
+          "extra": [
+            "静嘉堂文庫美術館（静嘉堂＠丸の内）｜東京都"
+          ]
+        },
+        {
+          "title": "静嘉堂＠丸の内 5周年記念展 美の福音 ―幻の名作、山本芳翠《天女》《十二支》一挙公開",
+          "link": "https://www.artagenda.jp/exhibition/detail/12889",
+          "label": "2027/10/9〜2028/1/10",
+          "extra": [
+            "静嘉堂文庫美術館（静嘉堂＠丸の内）｜東京都"
+          ]
+        },
+        {
+          "title": "ちいさきものは、みなうつくし ―岩﨑家のお雛さまとミニチュアの世界",
+          "link": "https://www.artagenda.jp/exhibition/detail/12890",
+          "label": "2028/1/22〜2029/3/20",
+          "extra": [
+            "静嘉堂文庫美術館（静嘉堂＠丸の内）｜東京都"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261024T060124Z",
       "title": "アートアジェンダ 展覧会(2026年10月24日 15:01)",
