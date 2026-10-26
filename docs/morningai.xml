@@ -6,7 +6,17 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 25 Oct 2026 13:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:46:22 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年10月27日 0:46)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261026T154622Z</guid>
+      <pubDate>Mon, 26 Oct 2026 15:46:22 +0000</pubDate>
+      <description>&lt;p&gt;Fanatics、OpenAIのモデルでコーディネート商品を推薦するShop the Lookを公開。エンゲージメントが従来比10%向上&lt;br&gt;&lt;a href="https://openai.com/index/fanatics-streamline-fan-experience"&gt;https://openai.com/index/fanatics-streamline-fan-experience&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Amazon、10月29日の第3四半期決算を前に前回決算以降の発表を振り返る。Bedrockへの新モデル追加やTorchNeuronなど&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview"&gt;https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic、新規株式公開に向け米SECにForm S-1を提出。Nasdaqに銘柄コード「ANT」で上場予定&lt;br&gt;&lt;a href="https://www.anthropic.com/news/s1-sec"&gt;https://www.anthropic.com/news/s1-sec&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Box、中小企業がコンテンツ管理を見直すべき7つのサインを提示。シャドーAIもAIの成果不足も根は同じと指摘&lt;br&gt;&lt;a href="https://blog.box.com/7-signs-you-need-smarter-content-system"&gt;https://blog.box.com/7-signs-you-need-smarter-content-system&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年10月25日 22:31)</title>
       <link>https://morningaiapp.com</link>

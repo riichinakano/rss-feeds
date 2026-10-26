@@ -1,5 +1,9 @@
 {
   "seen": [
+    "https://openai.com/index/fanatics-streamline-fan-experience",
+    "https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview",
+    "https://www.anthropic.com/news/s1-sec",
+    "https://blog.box.com/7-signs-you-need-smarter-content-system",
     "https://ollama.com/blog/speech-models",
     "https://block.xyz/dessa",
     "https://www.php.net/archive/2026.php#2026-10-23-1",
@@ -26,6 +30,37 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261026T154622Z",
+      "title": "Morning AI(2026年10月27日 0:46)",
+      "date": "2026-10-26T15:46:22.102993+00:00",
+      "items": [
+        {
+          "title": "Fanatics、OpenAIのモデルでコーディネート商品を推薦するShop the Lookを公開。エンゲージメントが従来比10%向上",
+          "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Amazon、10月29日の第3四半期決算を前に前回決算以降の発表を振り返る。Bedrockへの新モデル追加やTorchNeuronなど",
+          "link": "https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic、新規株式公開に向け米SECにForm S-1を提出。Nasdaqに銘柄コード「ANT」で上場予定",
+          "link": "https://www.anthropic.com/news/s1-sec",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Box、中小企業がコンテンツ管理を見直すべき7つのサインを提示。シャドーAIもAIの成果不足も根は同じと指摘",
+          "link": "https://blog.box.com/7-signs-you-need-smarter-content-system",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261025T133145Z",
       "title": "Morning AI(2026年10月25日 22:31)",

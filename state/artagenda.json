@@ -1,5 +1,14 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12728",
+    "https://www.artagenda.jp/exhibition/detail/11936",
+    "https://www.artagenda.jp/exhibition/detail/11805",
+    "https://www.artagenda.jp/exhibition/detail/12926",
+    "https://www.artagenda.jp/exhibition/detail/12927",
+    "https://www.artagenda.jp/exhibition/detail/12928",
+    "https://www.artagenda.jp/exhibition/detail/12929",
+    "https://www.artagenda.jp/exhibition/detail/12921",
+    "https://www.artagenda.jp/exhibition/detail/12923",
     "https://www.artagenda.jp/exhibition/detail/12887",
     "https://www.artagenda.jp/exhibition/detail/12888",
     "https://www.artagenda.jp/exhibition/detail/12889",
@@ -219,7 +228,6 @@
     "https://www.artagenda.jp/exhibition/detail/12154",
     "https://www.artagenda.jp/exhibition/detail/12819",
     "https://www.artagenda.jp/exhibition/detail/12816",
-    "https://www.artagenda.jp/exhibition/detail/11805",
     "https://www.artagenda.jp/exhibition/detail/12691",
     "https://www.artagenda.jp/exhibition/detail/12522",
     "https://www.artagenda.jp/exhibition/detail/12523",
@@ -284,7 +292,6 @@
     "https://www.artagenda.jp/exhibition/detail/12822",
     "https://www.artagenda.jp/exhibition/detail/12821",
     "https://www.artagenda.jp/exhibition/detail/12552",
-    "https://www.artagenda.jp/exhibition/detail/11936",
     "https://www.artagenda.jp/exhibition/detail/11890",
     "https://www.artagenda.jp/exhibition/detail/12194",
     "https://www.artagenda.jp/exhibition/detail/12790",
@@ -378,10 +385,8 @@
     "https://www.artagenda.jp/exhibition/detail/12734",
     "https://www.artagenda.jp/exhibition/detail/12744",
     "https://www.artagenda.jp/exhibition/detail/11509",
-    "https://www.artagenda.jp/exhibition/detail/12683",
     "https://www.artagenda.jp/exhibition/detail/12688",
     "https://www.artagenda.jp/exhibition/detail/12729",
-    "https://www.artagenda.jp/exhibition/detail/12728",
     "https://www.artagenda.jp/exhibition/detail/12689",
     "https://www.artagenda.jp/exhibition/detail/12668",
     "https://www.artagenda.jp/exhibition/detail/11738",
@@ -414,7 +419,6 @@
     "https://www.artagenda.jp/exhibition/detail/12575",
     "https://www.artagenda.jp/exhibition/detail/12088",
     "https://www.artagenda.jp/exhibition/detail/12562",
-    "https://www.artagenda.jp/exhibition/detail/12231",
     "https://www.artagenda.jp/exhibition/detail/11918",
     "https://www.artagenda.jp/exhibition/detail/12518",
     "https://www.artagenda.jp/exhibition/detail/12190",
@@ -462,6 +466,8 @@
     "https://www.artagenda.jp/exhibition/detail/4734",
     "https://www.artagenda.jp/exhibition/detail/3960",
     "https://www.artagenda.jp/exhibition/detail/4402",
+    "https://www.artagenda.jp/exhibition/detail/12683",
+    "https://www.artagenda.jp/exhibition/detail/12231",
     "https://www.artagenda.jp/exhibition/detail/12148",
     "https://www.artagenda.jp/exhibition/detail/12659",
     "https://www.artagenda.jp/exhibition/detail/12600",
@@ -471,6 +477,61 @@
     "https://www.artagenda.jp/exhibition/detail/11755"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261026T154824Z",
+      "title": "アートアジェンダ 展覧会(2026年10月27日 0:48)",
+      "date": "2026-10-26T15:48:24.316399+00:00",
+      "items": [
+        {
+          "title": "Osaka Directory 14 Supported by RICHARD MILLE 迫 鉄平",
+          "link": "https://www.artagenda.jp/exhibition/detail/12921",
+          "label": "12/19〜2027/1/17",
+          "extra": [
+            "大阪中之島美術館｜大阪府"
+          ]
+        },
+        {
+          "title": "第2回 MIMOCA EYE / ミモカアイ",
+          "link": "https://www.artagenda.jp/exhibition/detail/12926",
+          "label": "2027/4/24〜2027/7/19",
+          "extra": [
+            "丸亀市猪熊弦一郎現代美術館｜香川県"
+          ]
+        },
+        {
+          "title": "奥山由之展 大いなる矛盾／視線の行き交い",
+          "link": "https://www.artagenda.jp/exhibition/detail/12927",
+          "label": "2027/8/7〜2027/12/5",
+          "extra": [
+            "丸亀市猪熊弦一郎現代美術館｜香川県"
+          ]
+        },
+        {
+          "title": "パウル・クレー あいだの世界",
+          "link": "https://www.artagenda.jp/exhibition/detail/12923",
+          "label": "2027/9/11〜2027/12/26",
+          "extra": [
+            "国立国際美術館｜大阪府"
+          ]
+        },
+        {
+          "title": "中田真裕展（仮）",
+          "link": "https://www.artagenda.jp/exhibition/detail/12928",
+          "label": "2027/12/18〜2028/4/9",
+          "extra": [
+            "丸亀市猪熊弦一郎現代美術館｜香川県"
+          ]
+        },
+        {
+          "title": "猪熊弦一郎と猫",
+          "link": "https://www.artagenda.jp/exhibition/detail/12929",
+          "label": "2027/12/18〜2028/4/9",
+          "extra": [
+            "丸亀市猪熊弦一郎現代美術館｜香川県"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261025T133353Z",
       "title": "アートアジェンダ 展覧会(2026年10月25日 22:33)",
