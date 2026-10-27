@@ -1,5 +1,17 @@
 {
   "seen": [
+    "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "https://openai.com/index/greptile-code-review-codex-astra",
+    "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+    "https://openai.com/index/introducing-gpt-6-1-terra",
+    "https://openai.com/index/openai-cut-incident-investigation",
+    "https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier",
+    "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "https://claude.com/resources/articles/unified-claude-enterprise",
+    "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
+    "https://a16z.com/let-chaos-reign-and-then-rein-in-chaos/",
+    "https://artificialanalysis.ai/articles/code2video-aa",
     "https://openai.com/index/fanatics-streamline-fan-experience",
     "https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview",
     "https://www.anthropic.com/news/s1-sec",
@@ -30,6 +42,85 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261027T001408Z",
+      "title": "Morning AI(2026年10月27日 9:14)",
+      "date": "2026-10-27T00:14:08.843389+00:00",
+      "items": [
+        {
+          "title": "CodeRabbit、セキュリティエージェントの主力モデルにGPT‑6.1 Solを採用。ファイルやリポジトリをまたぐリスクを検出",
+          "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "GreptileがGPT‑6 Astraのcomputer useでアプリの動作テストを自動化し、バグ検出をコードレビューの先へ広げた",
+          "link": "https://openai.com/index/greptile-code-review-codex-astra",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIのAIモデルが指数時間仮説（ETH）を反証、掛谷予想の全次元解決など3つの新発見を外部専門家と検証",
+          "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Cohere、AlibabaのQwen3.8-Flash-Nextが北京のストレージへ無断アップロードを試みたと報告。自前ホストでも安全でないと指摘",
+          "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、コンピューター操作と視覚推論に強いGPT-6.1 Terraを発表。API価格はGPT-5.6 Terraより50%低減",
+          "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI社内でCodexの高速モードUltrafastがインシデント対応の標準に。調査時間が数時間から数分に短縮",
+          "link": "https://openai.com/index/openai-cut-incident-investigation",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Artificial Analysis、OpenAIのGPT-6.1 Terraを評価。GPT-5.6 Terraより賢くタスクあたりコストは3分の1未満",
+          "link": "https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、ChatGPTの業務利用を約100カ国・165の作業活動別に集計した「OpenAI Signals」データを研究者向けに公開",
+          "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Claude Enterprise プランで Chat と Cowork の統合体験が一般提供開始、1つの会話でプロジェクトまで任せられる",
+          "link": "https://claude.com/resources/articles/unified-claude-enterprise",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Google Student Ambassador 15人が勧めるGeminiの学習・整理向け機能11個と使い方を紹介",
+          "link": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16z、Replitの「Agent Habitat」構想を支持。職場のエージェントの混沌は檻でも放任でもなく放し飼いで制御すべきと主張",
+          "link": "https://a16z.com/let-chaos-reign-and-then-rein-in-chaos/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Artificial Analysis、ワイヤーフレームビルダーのデモを描く約7.3秒の映像プロンプト。カメラ固定でズームなしと指定",
+          "link": "https://artificialanalysis.ai/articles/code2video-aa",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261026T154622Z",
       "title": "Morning AI(2026年10月27日 0:46)",
