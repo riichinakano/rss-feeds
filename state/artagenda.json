@@ -1,5 +1,9 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12916",
+    "https://www.artagenda.jp/exhibition/detail/12299",
+    "https://www.artagenda.jp/exhibition/detail/12660",
+    "https://www.artagenda.jp/exhibition/detail/11614",
     "https://www.artagenda.jp/exhibition/detail/12728",
     "https://www.artagenda.jp/exhibition/detail/11936",
     "https://www.artagenda.jp/exhibition/detail/11805",
@@ -89,7 +93,6 @@
     "https://www.artagenda.jp/exhibition/detail/12084",
     "https://www.artagenda.jp/exhibition/detail/11916",
     "https://www.artagenda.jp/exhibition/detail/12507",
-    "https://www.artagenda.jp/exhibition/detail/12660",
     "https://www.artagenda.jp/exhibition/detail/12883",
     "https://www.artagenda.jp/exhibition/detail/11891",
     "https://www.artagenda.jp/exhibition/detail/12856",
@@ -477,6 +480,37 @@
     "https://www.artagenda.jp/exhibition/detail/11755"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261027T150729Z",
+      "title": "アートアジェンダ 展覧会(2026年10月28日 0:07)",
+      "date": "2026-10-27T15:07:29.184327+00:00",
+      "items": [
+        {
+          "title": "ヘンリー・ムーア展 －彫刻の森美術館所蔵作品による－",
+          "link": "https://www.artagenda.jp/exhibition/detail/12299",
+          "label": "11/21〜12/13",
+          "extra": [
+            "岩手県立美術館｜岩手県"
+          ]
+        },
+        {
+          "title": "恩地孝四郎と創作版画の作家たち",
+          "link": "https://www.artagenda.jp/exhibition/detail/12916",
+          "label": "11/27〜2027/2/23",
+          "extra": [
+            "町田市立国際版画美術館｜東京都"
+          ]
+        },
+        {
+          "title": "MOTアニュアル2027 身を通す",
+          "link": "https://www.artagenda.jp/exhibition/detail/11614",
+          "label": "2027/2/20〜2027/5/30",
+          "extra": [
+            "東京都現代美術館｜東京都"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261026T154824Z",
       "title": "アートアジェンダ 展覧会(2026年10月27日 0:48)",

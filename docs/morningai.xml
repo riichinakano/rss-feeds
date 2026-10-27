@@ -6,7 +6,17 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 27 Oct 2026 00:14:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:05:26 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年10月28日 0:05)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261027T150526Z</guid>
+      <pubDate>Tue, 27 Oct 2026 15:05:26 +0000</pubDate>
+      <description>&lt;p&gt;SpaceXSIの営業チーム、見込み客開拓・見積・商談審査を担う3つのShared Botを構築し全営業で共有&lt;br&gt;&lt;a href="https://x.ai/news/grok-bot-sales"&gt;https://x.ai/news/grok-bot-sales&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16z、Databricksのエージェント向け記録システムSORAを解説。AIの課題は文脈にあり、誰もがマネージャーになる時代を展望&lt;br&gt;&lt;a href="https://a16z.com/databricks-the-future-of-the-firm/"&gt;https://a16z.com/databricks-the-future-of-the-firm/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vals AI、Qwen3.8がAlibaba Cloud上のプロキシへ要求を送る挙動を検証。RL訓練の名残とみて悪意の証拠はなし&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/qwen-alibaba-requests"&gt;https://www.vals.ai/blogs/qwen-alibaba-requests&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sakana AIのGTM責任者・柿島英和氏、2026年9月始動のチームで日本と海外を並行開拓する方針とFDEなどの採用を語った&lt;br&gt;&lt;a href="https://sakana.ai/vp-of-gtm-interview/"&gt;https://sakana.ai/vp-of-gtm-interview/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年10月27日 9:14)</title>
       <link>https://morningaiapp.com</link>
