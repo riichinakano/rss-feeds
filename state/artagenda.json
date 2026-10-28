@@ -1,5 +1,7 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12592",
+    "https://www.artagenda.jp/exhibition/detail/12370",
     "https://www.artagenda.jp/exhibition/detail/11802",
     "https://www.artagenda.jp/exhibition/detail/12841",
     "https://www.artagenda.jp/exhibition/detail/12916",
@@ -323,7 +325,6 @@
     "https://www.artagenda.jp/exhibition/detail/12603",
     "https://www.artagenda.jp/exhibition/detail/12056",
     "https://www.artagenda.jp/exhibition/detail/12174",
-    "https://www.artagenda.jp/exhibition/detail/12287",
     "https://www.artagenda.jp/exhibition/detail/12773",
     "https://www.artagenda.jp/exhibition/detail/12401",
     "https://www.artagenda.jp/exhibition/detail/12646",
@@ -335,7 +336,6 @@
     "https://www.artagenda.jp/exhibition/detail/12223",
     "https://www.artagenda.jp/exhibition/detail/12752",
     "https://www.artagenda.jp/exhibition/detail/11812",
-    "https://www.artagenda.jp/exhibition/detail/12311",
     "https://www.artagenda.jp/exhibition/detail/12532",
     "https://www.artagenda.jp/exhibition/detail/11921",
     "https://www.artagenda.jp/exhibition/detail/11909",
@@ -469,6 +469,8 @@
     "https://www.artagenda.jp/exhibition/detail/4734",
     "https://www.artagenda.jp/exhibition/detail/3960",
     "https://www.artagenda.jp/exhibition/detail/4402",
+    "https://www.artagenda.jp/exhibition/detail/12287",
+    "https://www.artagenda.jp/exhibition/detail/12311",
     "https://www.artagenda.jp/exhibition/detail/12683",
     "https://www.artagenda.jp/exhibition/detail/12231",
     "https://www.artagenda.jp/exhibition/detail/12148",
@@ -480,6 +482,29 @@
     "https://www.artagenda.jp/exhibition/detail/11755"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261028T154304Z",
+      "title": "アートアジェンダ 展覧会(2026年10月29日 0:43)",
+      "date": "2026-10-28T15:43:04.537822+00:00",
+      "items": [
+        {
+          "title": "2026イタリア・ボローニャ国際絵本原画展",
+          "link": "https://www.artagenda.jp/exhibition/detail/12370",
+          "label": "11/7〜12/13",
+          "extra": [
+            "石川県七尾美術館｜石川県"
+          ]
+        },
+        {
+          "title": "エコーズ・ビトゥイーン：日本・ドイツ・スイスのアーティストによるブック・アートという実…",
+          "link": "https://www.artagenda.jp/exhibition/detail/12592",
+          "label": "11/14〜2027/1/17",
+          "extra": [
+            "うらわ美術館｜埼玉県"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261027T150729Z",
       "title": "アートアジェンダ 展覧会(2026年10月28日 0:07)",

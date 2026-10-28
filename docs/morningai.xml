@@ -6,7 +6,18 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Oct 2026 00:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:40:50 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年10月29日 0:40)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261028T154050Z</guid>
+      <pubDate>Wed, 28 Oct 2026 15:40:50 +0000</pubDate>
+      <description>&lt;p&gt;Amazon、全機種に最新版Alexaを搭載した新世代Alexaデバイスを発表。Echo Show 16やEcho Timeなど&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/devices/new-alexa-devices-2026"&gt;https://www.aboutamazon.com/news/devices/new-alexa-devices-2026&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Legora、OpenAIのモデルで法務AIを構築。Fortune 100顧客で契約処理時間を90%短縮、弁護士1人あたり週9.5時間を創出&lt;br&gt;&lt;a href="https://openai.com/index/legora-agentic-operating-system-for-legal-work"&gt;https://openai.com/index/legora-agentic-operating-system-for-legal-work&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vals AIなど、米国移民法ベンチマークで25のAIモデルを評価。首位のClaude Fable 5.1でも完全正答は26.3%&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/can-ai-get-immigration-right"&gt;https://www.vals.ai/blogs/can-ai-get-immigration-right&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Amazon、SDEの役割ガイドラインを改定。AIの使い方は定めず、顧客・事業・チームへのインパクトに焦点を当てた&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai"&gt;https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Artificial AnalysisがIntelligence Index v5を公開、Indexの60%を非公開データに基づく評価で構成&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5"&gt;https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年10月28日 9:15)</title>
       <link>https://morningaiapp.com</link>

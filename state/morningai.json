@@ -1,5 +1,10 @@
 {
   "seen": [
+    "https://www.aboutamazon.com/news/devices/new-alexa-devices-2026",
+    "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "https://www.vals.ai/blogs/can-ai-get-immigration-right",
+    "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
+    "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
     "https://www.anthropic.com/news/expanding-partnership-gsa",
     "https://openai.com/index/retell-ai",
     "https://openrouter.ai/blog/announcements/csam-screening/",
@@ -66,6 +71,43 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261028T154050Z",
+      "title": "Morning AI(2026年10月29日 0:40)",
+      "date": "2026-10-28T15:40:50.988455+00:00",
+      "items": [
+        {
+          "title": "Amazon、全機種に最新版Alexaを搭載した新世代Alexaデバイスを発表。Echo Show 16やEcho Timeなど",
+          "link": "https://www.aboutamazon.com/news/devices/new-alexa-devices-2026",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Legora、OpenAIのモデルで法務AIを構築。Fortune 100顧客で契約処理時間を90%短縮、弁護士1人あたり週9.5時間を創出",
+          "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Vals AIなど、米国移民法ベンチマークで25のAIモデルを評価。首位のClaude Fable 5.1でも完全正答は26.3%",
+          "link": "https://www.vals.ai/blogs/can-ai-get-immigration-right",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Amazon、SDEの役割ガイドラインを改定。AIの使い方は定めず、顧客・事業・チームへのインパクトに焦点を当てた",
+          "link": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Artificial AnalysisがIntelligence Index v5を公開、Indexの60%を非公開データに基づく評価で構成",
+          "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261028T001508Z",
       "title": "Morning AI(2026年10月28日 9:15)",
