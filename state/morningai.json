@@ -1,5 +1,25 @@
 {
   "seen": [
+    "https://www.anthropic.com/news/expanding-partnership-gsa",
+    "https://openai.com/index/retell-ai",
+    "https://openrouter.ai/blog/announcements/csam-screening/",
+    "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+    "https://www.anthropic.com/research/early-progress-drug-development",
+    "https://claude.com/resources/articles/claude-for-financial-advisors",
+    "https://www.vals.ai/blogs/thomson-exposition",
+    "https://www.anthropic.com/research/agents-judgment-calls",
+    "https://openai.com/index/check-point-daybreak",
+    "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
+    "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "https://huggingface.co/blog/LiquidAI/lfm3",
+    "https://openai.com/index/oracle-apps-in-chatgpt",
+    "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
+    "https://huggingface.co/blog/allenai/novelty-bench",
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
+    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "https://developers.googleblog.com/fast-reliable-a2ui/",
+    "https://microsoft.ai/news/mai-image-2-7-debut/",
     "https://x.ai/news/grok-bot-sales",
     "https://a16z.com/databricks-the-future-of-the-firm/",
     "https://www.vals.ai/blogs/qwen-alibaba-requests",
@@ -46,6 +66,133 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261028T001508Z",
+      "title": "Morning AI(2026年10月28日 9:15)",
+      "date": "2026-10-28T00:15:08.808575+00:00",
+      "items": [
+        {
+          "title": "Anthropic、GSAとの新契約で政府機関向けにClaude全製品を40%割引。節約額は推定10億ドル",
+          "link": "https://www.anthropic.com/news/expanding-partnership-gsa",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Retell AI、OpenAIモデルで月1億件超の通話を処理。Codex活用で従業員1人あたり年間売上ランレート160万ドル",
+          "link": "https://openai.com/index/retell-ai",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenRouter、ZDR対象を含む全推論リクエストにCSAMスクリーニングを導入へ。フラグ付き内容は人間のレビュー用に保持",
+          "link": "https://openrouter.ai/blog/announcements/csam-screening/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "AppleがApple Creator Studioを更新、Final Cut ProへのMotionVFX内蔵やAIアシスタントを追加",
+          "link": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic、創薬企業6社との共同研究でClaudeを分子設計から臨床試験計画まで投入。Envedaでは製造文書のレビュー時間を89%削減",
+          "link": "https://www.anthropic.com/research/early-progress-drug-development",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Claude、金融アドバイザーの面談準備や記録を支援するコネクタとスキル「Claude for Financial Advisors」を公開",
+          "link": "https://claude.com/resources/articles/claude-for-financial-advisors",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Vals AI、Thomson問題の証明手法を解説し、同じ手法で次はN = 10とN = 9に届くがN = 32には新たな発想が必要と分析",
+          "link": "https://www.vals.ai/blogs/thomson-exposition",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic、Claude Codeで分析する専門家50人を検証。密かに設定したエージェントの傾きに判断の86%が一致",
+          "link": "https://www.anthropic.com/research/agents-judgment-calls",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Check Point、OpenAI Daybreakで脆弱性リサーチを数時間から数分に短縮し顧客向け防御の作成を加速",
+          "link": "https://openai.com/index/check-point-daybreak",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic、約30の非営利団体と作ったClaude for Nonprofitsプラグインを公開。Claude Corps拡張も計画",
+          "link": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic Frontier Red Team、未公開モデルでChromeやLinuxの重大な脆弱性を突く5つの攻撃チェーンを作成",
+          "link": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google Research、LLMが睡眠中に記憶を固定化する「sleep framework」を発表。10Mトークンまで長文脈を保持",
+          "link": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Liquid AI、2Bクラスのマルチモーダル6モデル「LFM3」をオープンウェイトで公開。単一GPUでファインチューニングできる",
+          "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIがOracleとの提携を拡大、ChatGPTでOracleのアプリとデータを使える「Oracle AI Workspace」をOracleが開発中",
+          "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、会話型コマースの試作「HappyDelivery」をLangGraphとGeminiで実装。3ターンの注文コストは$0.0061",
+          "link": "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Ai2、LLMによる研究アイデアの新規性判定を検証するベンチマークを公開。プロンプトの数語の違いで精度が50ポイント超変動",
+          "link": "https://huggingface.co/blog/allenai/novelty-bench",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google DeepMind、world model「Genie 4」を発表。自然言語でシーンをリアルタイム操作でき、ネイティブ音声も生成",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "DeepMind、音声や対話もネイティブに生成するリアルタイム世界モデル「Genie 4」を研究プレビューとして公開",
+          "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、A2UIの新デフォルト形式A2UI Expressでレイテンシ最大3倍削減。Jevなどのdecision modelで最大80倍高速",
+          "link": "https://developers.googleblog.com/fast-reliable-a2ui/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Microsoft AIが画像編集モデルMAI Image 2.7をプレビュー公開。Arena Editで3位",
+          "link": "https://microsoft.ai/news/mai-image-2-7-debut/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261027T150526Z",
       "title": "Morning AI(2026年10月28日 0:05)",
