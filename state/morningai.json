@@ -1,5 +1,12 @@
 {
   "seen": [
+    "https://huggingface.co/blog/mistral-large4",
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "https://a16z.com/american-dynamism-50-2026/",
+    "https://huggingface.co/blog/anydecisionmodel",
+    "https://sakana.ai/us-midterms-analysis/",
+    "https://sakana.ai/api-platform-earlyaccess/",
+    "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
     "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
     "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
     "https://openai.com/index/openai-servicenow-partnership-expansion",
@@ -91,6 +98,55 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261029T154831Z",
+      "title": "Morning AI(2026年10月30日 0:48)",
+      "date": "2026-10-29T15:48:31.899340+00:00",
+      "items": [
+        {
+          "title": "Mistral、約1Tパラメータの Mistral Large 4 をオープンウェイトで公開。脆弱性を再現して修正するテストで82%",
+          "link": "https://huggingface.co/blog/mistral-large4",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "IBMがGranite Switch 4.1.1を公開。ベースモデルは変えず、ASRモデルとDecision adapterの更新だけで提供",
+          "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16z、今年の American Dynamism 50 を発表。生産能力を抑止力と位置づけ、米国の産業基盤を再建する企業を選出",
+          "link": "https://a16z.com/american-dynamism-50-2026/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Hugging Face、Apple端末で音声認識と判断を行うAnySpeechRecognizerとAnyDecisionModelを公開",
+          "link": "https://huggingface.co/blog/anydecisionmodel",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Sakana AI、テキサス州上院選のX上の反応約71万件をAIで分析し、評価の転換が主要評価機関の判断より約2か月早く現れたと示した",
+          "link": "https://sakana.ai/us-midterms-analysis/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Sakana AIが企業向けSakana API Platformのアーリーアクセスを開始。OpenAI互換でFuguを管理機能付きで提供",
+          "link": "https://sakana.ai/api-platform-earlyaccess/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenRouter、LLMでPDFの表をstrictなJSONスキーマで抽出する手順を解説。PDFを直接読むモデルは全644セル正解",
+          "link": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261029T003614Z",
       "title": "Morning AI(2026年10月29日 9:36)",

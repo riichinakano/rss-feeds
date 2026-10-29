@@ -6,7 +6,20 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 29 Oct 2026 00:36:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:48:31 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年10月30日 0:48)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261029T154831Z</guid>
+      <pubDate>Thu, 29 Oct 2026 15:48:31 +0000</pubDate>
+      <description>&lt;p&gt;Mistral、約1Tパラメータの Mistral Large 4 をオープンウェイトで公開。脆弱性を再現して修正するテストで82%&lt;br&gt;&lt;a href="https://huggingface.co/blog/mistral-large4"&gt;https://huggingface.co/blog/mistral-large4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;IBMがGranite Switch 4.1.1を公開。ベースモデルは変えず、ASRモデルとDecision adapterの更新だけで提供&lt;br&gt;&lt;a href="https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"&gt;https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16z、今年の American Dynamism 50 を発表。生産能力を抑止力と位置づけ、米国の産業基盤を再建する企業を選出&lt;br&gt;&lt;a href="https://a16z.com/american-dynamism-50-2026/"&gt;https://a16z.com/american-dynamism-50-2026/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、Apple端末で音声認識と判断を行うAnySpeechRecognizerとAnyDecisionModelを公開&lt;br&gt;&lt;a href="https://huggingface.co/blog/anydecisionmodel"&gt;https://huggingface.co/blog/anydecisionmodel&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sakana AI、テキサス州上院選のX上の反応約71万件をAIで分析し、評価の転換が主要評価機関の判断より約2か月早く現れたと示した&lt;br&gt;&lt;a href="https://sakana.ai/us-midterms-analysis/"&gt;https://sakana.ai/us-midterms-analysis/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sakana AIが企業向けSakana API Platformのアーリーアクセスを開始。OpenAI互換でFuguを管理機能付きで提供&lt;br&gt;&lt;a href="https://sakana.ai/api-platform-earlyaccess/"&gt;https://sakana.ai/api-platform-earlyaccess/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenRouter、LLMでPDFの表をstrictなJSONスキーマで抽出する手順を解説。PDFを直接読むモデルは全644セル正解&lt;br&gt;&lt;a href="https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/"&gt;https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年10月29日 9:36)</title>
       <link>https://morningaiapp.com</link>

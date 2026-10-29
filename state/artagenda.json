@@ -1,5 +1,16 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12791",
+    "https://www.artagenda.jp/exhibition/detail/12176",
+    "https://www.artagenda.jp/exhibition/detail/12770",
+    "https://www.artagenda.jp/exhibition/detail/11758",
+    "https://www.artagenda.jp/exhibition/detail/11757",
+    "https://www.artagenda.jp/exhibition/detail/12810",
+    "https://www.artagenda.jp/exhibition/detail/12783",
+    "https://www.artagenda.jp/exhibition/detail/12894",
+    "https://www.artagenda.jp/exhibition/detail/11641",
+    "https://www.artagenda.jp/exhibition/detail/12936",
+    "https://www.artagenda.jp/exhibition/detail/12302",
     "https://www.artagenda.jp/exhibition/detail/12814",
     "https://www.artagenda.jp/exhibition/detail/12592",
     "https://www.artagenda.jp/exhibition/detail/12370",
@@ -179,7 +190,6 @@
     "https://www.artagenda.jp/exhibition/detail/12559",
     "https://www.artagenda.jp/exhibition/detail/12140",
     "https://www.artagenda.jp/exhibition/detail/12843",
-    "https://www.artagenda.jp/exhibition/detail/12783",
     "https://www.artagenda.jp/exhibition/detail/11677",
     "https://www.artagenda.jp/exhibition/detail/12035",
     "https://www.artagenda.jp/exhibition/detail/12415",
@@ -258,7 +268,6 @@
     "https://www.artagenda.jp/exhibition/detail/12380",
     "https://www.artagenda.jp/exhibition/detail/12823",
     "https://www.artagenda.jp/exhibition/detail/12376",
-    "https://www.artagenda.jp/exhibition/detail/12810",
     "https://www.artagenda.jp/exhibition/detail/12722",
     "https://www.artagenda.jp/exhibition/detail/12078",
     "https://www.artagenda.jp/exhibition/detail/11590",
@@ -308,8 +317,6 @@
     "https://www.artagenda.jp/exhibition/detail/11869",
     "https://www.artagenda.jp/exhibition/detail/12817",
     "https://www.artagenda.jp/exhibition/detail/12605",
-    "https://www.artagenda.jp/exhibition/detail/11757",
-    "https://www.artagenda.jp/exhibition/detail/11758",
     "https://www.artagenda.jp/exhibition/detail/12172",
     "https://www.artagenda.jp/exhibition/detail/12509",
     "https://www.artagenda.jp/exhibition/detail/12531",
@@ -371,20 +378,17 @@
     "https://www.artagenda.jp/exhibition/detail/11615",
     "https://www.artagenda.jp/exhibition/detail/12718",
     "https://www.artagenda.jp/exhibition/detail/12554",
-    "https://www.artagenda.jp/exhibition/detail/12791",
     "https://www.artagenda.jp/exhibition/detail/11980",
     "https://www.artagenda.jp/exhibition/detail/11545",
     "https://www.artagenda.jp/exhibition/detail/12751",
     "https://www.artagenda.jp/exhibition/detail/12789",
     "https://www.artagenda.jp/exhibition/detail/12779",
     "https://www.artagenda.jp/exhibition/detail/12655",
-    "https://www.artagenda.jp/exhibition/detail/12770",
     "https://www.artagenda.jp/exhibition/detail/12737",
     "https://www.artagenda.jp/exhibition/detail/12738",
     "https://www.artagenda.jp/exhibition/detail/12740",
     "https://www.artagenda.jp/exhibition/detail/12741",
     "https://www.artagenda.jp/exhibition/detail/12756",
-    "https://www.artagenda.jp/exhibition/detail/12302",
     "https://www.artagenda.jp/exhibition/detail/12734",
     "https://www.artagenda.jp/exhibition/detail/12744",
     "https://www.artagenda.jp/exhibition/detail/11509",
@@ -407,7 +411,6 @@
     "https://www.artagenda.jp/exhibition/detail/11730",
     "https://www.artagenda.jp/exhibition/detail/12708",
     "https://www.artagenda.jp/exhibition/detail/12669",
-    "https://www.artagenda.jp/exhibition/detail/12176",
     "https://www.artagenda.jp/exhibition/detail/12571",
     "https://www.artagenda.jp/exhibition/detail/12635",
     "https://www.artagenda.jp/exhibition/detail/12662",
@@ -440,7 +443,6 @@
     "https://www.artagenda.jp/exhibition/detail/12142",
     "https://www.artagenda.jp/exhibition/detail/11740",
     "https://www.artagenda.jp/exhibition/detail/11815",
-    "https://www.artagenda.jp/exhibition/detail/11641",
     "https://www.artagenda.jp/exhibition/detail/11983",
     "https://www.artagenda.jp/exhibition/detail/11821",
     "https://www.artagenda.jp/exhibition/detail/11975",
@@ -482,6 +484,29 @@
     "https://www.artagenda.jp/exhibition/detail/11755"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261029T155043Z",
+      "title": "アートアジェンダ 展覧会(2026年10月30日 0:50)",
+      "date": "2026-10-29T15:50:43.838334+00:00",
+      "items": [
+        {
+          "title": "企画展「謎のいきもの」",
+          "link": "https://www.artagenda.jp/exhibition/detail/12936",
+          "label": "11/28〜2027/3/28",
+          "extra": [
+            "岡本太郎記念館｜東京都"
+          ]
+        },
+        {
+          "title": "「銀河鉄道９９９」５０周年プロジェクト 松本零士展 創作の旅路",
+          "link": "https://www.artagenda.jp/exhibition/detail/12894",
+          "label": "2027/7/31〜2027/9/26",
+          "extra": [
+            "あべのハルカス美術館｜大阪府"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261028T154304Z",
       "title": "アートアジェンダ 展覧会(2026年10月29日 0:43)",
