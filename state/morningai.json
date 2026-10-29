@@ -1,5 +1,25 @@
 {
   "seen": [
+    "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
+    "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+    "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+    "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+    "https://openai.com/index/the-future-of-the-firm",
+    "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
+    "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+    "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+    "https://www.aboutamazon.com/news/innovation/trainium-ai-chip-prime-360-nba-highlights",
+    "https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost",
+    "https://openai.com/index/legora",
+    "https://openrouter.ai/blog/tutorials/claude-529-overloaded/",
+    "https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud",
+    "https://a16z.com/the-new-security-agenda/",
+    "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
     "https://www.aboutamazon.com/news/devices/new-alexa-devices-2026",
     "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
     "https://www.vals.ai/blogs/can-ai-get-immigration-right",
@@ -71,6 +91,133 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261029T003614Z",
+      "title": "Morning AI(2026年10月29日 9:36)",
+      "date": "2026-10-29T00:36:14.865318+00:00",
+      "items": [
+        {
+          "title": "Anthropicの採用担当マネージャー、AI時代は経験年数より意欲が勝ると主張。ジュニアに週末で作るプロトタイプを推奨",
+          "link": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic、AI for Scienceプログラムを拡大し世界20の科学財団・研究機関・研究グループにClaudeクレジットを提供",
+          "link": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIとServiceNowが提携を拡大。ChatGPTを離れずにServiceNowのインシデント検索やレコード更新ができる",
+          "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "GoogleのGemini 4 Carbon、Intelligence Index v5で首位。コーディングではClaude Opus 5.5に次ぐ2位",
+          "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Geminiアプリ、微視的な仕組みから宇宙までを層ごとに視覚的に探索できるimmersive explorationsを追加",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI社員2人、AIが組織図の「下・横・間」に入る3つのシナリオを考察。働き手は解雇より「昇進」すると予測",
+          "link": "https://openai.com/index/the-future-of-the-firm",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "IDCが調査基盤IDC QuantaをMCPコネクタでClaudeに提供。顧客は質問するだけで出典付きの分析を数分で受け取れる",
+          "link": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Agents CLI v1.8.0のevalでエージェント品質を改善・監視する手順を解説。平均でなくケース別内訳で判断",
+          "link": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Connected Apps Platformのプレビュー版を公開。開発者がSearchとGeminiに機能を直接組み込める",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "GoogleとXREAL、Android XR搭載で初の有線XRグラス「XREAL AURA」を発売。価格は1,099米ドルから",
+          "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Gemini 4 Carbonを発表。サイバー防御で最高水準の性能、まず一部の防御担当者に先行提供",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google DeepMindがサイバー防御と長時間タスクに強い「Gemini 4 Carbon」を発表。まず一部のサイバー防御者に限定提供",
+          "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Claude for Legal、すぐ使える法務アーティファクトのギャラリーを公開。契約レビューや規制追跡などを同僚と共有可能",
+          "link": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Amazonの独自AIチップTrainium、NBA on PrimeのPrime 360で拡散モデル推論のレイテンシを40%以上短縮",
+          "link": "https://www.aboutamazon.com/news/innovation/trainium-ai-chip-prime-360-nba-highlights",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Artificial Analysis、Copilot Fusion を評価。タスク単価 $5.59 で Claude Code の約半分",
+          "link": "https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Legoraが法務業務向けエージェント型OSをOpenAIのモデルとCodexで構築、Fortune 100顧客の契約処理期間を90%短縮",
+          "link": "https://openai.com/index/legora",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenRouter、Claudeの529 overloaded_error対策を解説。同じモデルを別プロバイダーへフェイルオーバー",
+          "link": "https://openrouter.ai/blog/tutorials/claude-529-overloaded/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Claude、Google Cloud上のClaude Codeのコスト管理とROI証明をControl・Track・Proveの3レバーで解説",
+          "link": "https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16zがCISO 100人を調査、2027年の優先施策の上位7つはすべてAI関連。87%がセキュリティ支出増を予想",
+          "link": "https://a16z.com/the-new-security-agenda/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "NVIDIA、文字起こし・話者識別・翻訳を担うオープンモデルNemotron 3.5 Transcribeを公開。40言語の文字起こしに対応",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261028T154050Z",
       "title": "Morning AI(2026年10月29日 0:40)",

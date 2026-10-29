@@ -6,7 +6,33 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Oct 2026 15:40:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:36:14 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年10月29日 9:36)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261029T003614Z</guid>
+      <pubDate>Thu, 29 Oct 2026 00:36:14 +0000</pubDate>
+      <description>&lt;p&gt;Anthropicの採用担当マネージャー、AI時代は経験年数より意欲が勝ると主張。ジュニアに週末で作るプロトタイプを推奨&lt;br&gt;&lt;a href="https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/"&gt;https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic、AI for Scienceプログラムを拡大し世界20の科学財団・研究機関・研究グループにClaudeクレジットを提供&lt;br&gt;&lt;a href="https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"&gt;https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIとServiceNowが提携を拡大。ChatGPTを離れずにServiceNowのインシデント検索やレコード更新ができる&lt;br&gt;&lt;a href="https://openai.com/index/openai-servicenow-partnership-expansion"&gt;https://openai.com/index/openai-servicenow-partnership-expansion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GoogleのGemini 4 Carbon、Intelligence Index v5で首位。コーディングではClaude Opus 5.5に次ぐ2位&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1"&gt;https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Geminiアプリ、微視的な仕組みから宇宙までを層ごとに視覚的に探索できるimmersive explorationsを追加&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI社員2人、AIが組織図の「下・横・間」に入る3つのシナリオを考察。働き手は解雇より「昇進」すると予測&lt;br&gt;&lt;a href="https://openai.com/index/the-future-of-the-firm"&gt;https://openai.com/index/the-future-of-the-firm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;IDCが調査基盤IDC QuantaをMCPコネクタでClaudeに提供。顧客は質問するだけで出典付きの分析を数分で受け取れる&lt;br&gt;&lt;a href="https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company"&gt;https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、Agents CLI v1.8.0のevalでエージェント品質を改善・監視する手順を解説。平均でなくケース別内訳で判断&lt;br&gt;&lt;a href="https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/"&gt;https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、Connected Apps Platformのプレビュー版を公開。開発者がSearchとGeminiに機能を直接組み込める&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/"&gt;https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GoogleとXREAL、Android XR搭載で初の有線XRグラス「XREAL AURA」を発売。価格は1,099米ドルから&lt;br&gt;&lt;a href="https://blog.google/products-and-platforms/platforms/android/xreal-aura/"&gt;https://blog.google/products-and-platforms/platforms/android/xreal-aura/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、Gemini 4 Carbonを発表。サイバー防御で最高水準の性能、まず一部の防御担当者に先行提供&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"&gt;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google DeepMindがサイバー防御と長時間タスクに強い「Gemini 4 Carbon」を発表。まず一部のサイバー防御者に限定提供&lt;br&gt;&lt;a href="https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"&gt;https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude for Legal、すぐ使える法務アーティファクトのギャラリーを公開。契約レビューや規制追跡などを同僚と共有可能&lt;br&gt;&lt;a href="https://claude.com/resources/articles/introducing-artifacts-for-legal-work"&gt;https://claude.com/resources/articles/introducing-artifacts-for-legal-work&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Amazonの独自AIチップTrainium、NBA on PrimeのPrime 360で拡散モデル推論のレイテンシを40%以上短縮&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/innovation/trainium-ai-chip-prime-360-nba-highlights"&gt;https://www.aboutamazon.com/news/innovation/trainium-ai-chip-prime-360-nba-highlights&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Artificial Analysis、Copilot Fusion を評価。タスク単価 $5.59 で Claude Code の約半分&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost"&gt;https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Legoraが法務業務向けエージェント型OSをOpenAIのモデルとCodexで構築、Fortune 100顧客の契約処理期間を90%短縮&lt;br&gt;&lt;a href="https://openai.com/index/legora"&gt;https://openai.com/index/legora&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenRouter、Claudeの529 overloaded_error対策を解説。同じモデルを別プロバイダーへフェイルオーバー&lt;br&gt;&lt;a href="https://openrouter.ai/blog/tutorials/claude-529-overloaded/"&gt;https://openrouter.ai/blog/tutorials/claude-529-overloaded/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude、Google Cloud上のClaude Codeのコスト管理とROI証明をControl・Track・Proveの3レバーで解説&lt;br&gt;&lt;a href="https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud"&gt;https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16zがCISO 100人を調査、2027年の優先施策の上位7つはすべてAI関連。87%がセキュリティ支出増を予想&lt;br&gt;&lt;a href="https://a16z.com/the-new-security-agenda/"&gt;https://a16z.com/the-new-security-agenda/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NVIDIA、文字起こし・話者識別・翻訳を担うオープンモデルNemotron 3.5 Transcribeを公開。40言語の文字起こしに対応&lt;br&gt;&lt;a href="https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"&gt;https://huggingface.co/blog/nvidia/nemotron-transcribe-granary&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年10月29日 0:40)</title>
       <link>https://morningaiapp.com</link>
