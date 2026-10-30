@@ -1,5 +1,17 @@
 {
   "seen": [
+    "https://www.aboutamazon.com/news/devices/echo-time-smart-alarm-clock",
+    "https://www.aboutamazon.com/news/devices/echo-speaker-lineup",
+    "https://www.aboutamazon.com/news/devices/echo-show-16-smart-display",
+    "https://www.aboutamazon.com/news/devices/amazon-alexa-photo-frame",
+    "https://www.aboutamazon.com/news/retail/alexa-for-shopping-new-capabilities",
+    "https://openai.com/index/ropes-gray-ai-diligence",
+    "https://openai.com/index/updated-model-spec",
+    "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+    "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+    "https://huggingface.co/blog/announcing-project-protostar",
     "https://huggingface.co/blog/mistral-large4",
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
     "https://a16z.com/american-dynamism-50-2026/",
@@ -98,6 +110,85 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261030T003714Z",
+      "title": "Morning AI(2026年10月30日 9:37)",
+      "date": "2026-10-30T00:37:14.921279+00:00",
+      "items": [
+        {
+          "title": "AmazonがAlexa+搭載の寝室向け目覚まし時計Echo Timeを199.99ドルで発売。眠りの浅い時に起こすアラーム機能付き",
+          "link": "https://www.aboutamazon.com/news/devices/echo-time-smart-alarm-clock",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Amazon、新Echo Dotにスマートホームハブとeero Wi-Fiエクステンダーを内蔵。カメラ付きEcho Studioも発表",
+          "link": "https://www.aboutamazon.com/news/devices/echo-speaker-lineup",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Amazon、16インチの新型スマートディスプレイ「Echo Show 16」を発表。Fire TV内蔵で$499.99から予約受付",
+          "link": "https://www.aboutamazon.com/news/devices/echo-show-16-smart-display",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Amazon、Alexa内蔵のフォトフレーム「Alexa Photo Frame」を発売。価格は199.99ドルから",
+          "link": "https://www.aboutamazon.com/news/devices/amazon-alexa-photo-frame",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "AmazonのAlexa for Shoppingが100以上の新しいショッピング操作に対応、リストや支払いも会話で処理できる",
+          "link": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-new-capabilities",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "法律事務所Ropes & GrayがOpenAIと取引デューデリジェンス用AIツールを開発。数千ページを読み込み報告書まで作成",
+          "link": "https://openai.com/index/ropes-gray-ai-diligence",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIがModel Specを更新し、人間の意図への忠実さなど5つの価値を軸に再構成。詳細なスタイルガイダンスの大半を廃止",
+          "link": "https://openai.com/index/updated-model-spec",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、A2UIとCopilotKitでエージェントが既存コンポーネントから双方向UIを生成するアプリの構築手順を解説",
+          "link": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、Hugging Face事件を受けモデルの不整合監視を訓練から外部提供まで拡大。再現検証で侵害の30時間以上前に警告",
+          "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Gemini で未整理の職歴メモから ATS 対応の履歴書用箇条書きを作る4ステップとプロンプトを公開",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Gemini アプリ、チャット内で PDF やスプレッドシートなどのファイルを生成・プレビュー・編集可能に。全ユーザーに提供",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Hugging Faceと米大学ら、公的資金研究のAI対応公開を促す「Project ProtoStar」発足。初回はCMUの気候予測チャレンジ",
+          "link": "https://huggingface.co/blog/announcing-project-protostar",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261029T154831Z",
       "title": "Morning AI(2026年10月30日 0:48)",
