@@ -6,7 +6,15 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Oct 2026 00:37:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:29:20 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年10月31日 0:29)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261030T152920Z</guid>
+      <pubDate>Fri, 30 Oct 2026 15:29:20 +0000</pubDate>
+      <description>&lt;p&gt;Difyが「Dify Business Template Spotlight」を開始。掲載作品にProfessionalプラン1か月分&lt;br&gt;&lt;a href="https://dify.ai/blog/build-for-business-join-the-dify-solutions-template-spotlight"&gt;https://dify.ai/blog/build-for-business-join-the-dify-solutions-template-spotlight&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenRouter、Claude Codeの実セッション費用をモデル別に公開。Sonnet 5.5はOpus 5.5の約半分&lt;br&gt;&lt;a href="https://openrouter.ai/blog/insights/claude-code-cost/"&gt;https://openrouter.ai/blog/insights/claude-code-cost/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年10月30日 9:37)</title>
       <link>https://morningaiapp.com</link>

@@ -1,5 +1,7 @@
 {
   "seen": [
+    "https://dify.ai/blog/build-for-business-join-the-dify-solutions-template-spotlight",
+    "https://openrouter.ai/blog/insights/claude-code-cost/",
     "https://www.aboutamazon.com/news/devices/echo-time-smart-alarm-clock",
     "https://www.aboutamazon.com/news/devices/echo-speaker-lineup",
     "https://www.aboutamazon.com/news/devices/echo-show-16-smart-display",
@@ -110,6 +112,25 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261030T152920Z",
+      "title": "Morning AI(2026年10月31日 0:29)",
+      "date": "2026-10-30T15:29:20.164709+00:00",
+      "items": [
+        {
+          "title": "Difyが「Dify Business Template Spotlight」を開始。掲載作品にProfessionalプラン1か月分",
+          "link": "https://dify.ai/blog/build-for-business-join-the-dify-solutions-template-spotlight",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenRouter、Claude Codeの実セッション費用をモデル別に公開。Sonnet 5.5はOpus 5.5の約半分",
+          "link": "https://openrouter.ai/blog/insights/claude-code-cost/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261030T003714Z",
       "title": "Morning AI(2026年10月30日 9:37)",
