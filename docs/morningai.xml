@@ -6,7 +6,23 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Oct 2026 15:29:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:23:03 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年10月31日 9:23)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261031T002303Z</guid>
+      <pubDate>Sat, 31 Oct 2026 00:23:03 +0000</pubDate>
+      <description>&lt;p&gt;ClaudeがMaxプランを改称しMax 20xはUltraに。認証済みUltraアカウントの5時間制限を撤廃&lt;br&gt;&lt;a href="https://x.com/claudeai/status/2116220869479428500"&gt;https://x.com/claudeai/status/2116220869479428500&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、New York Timesの訴訟に反論しAI訓練へのフェアユース適用を主張。米国政府などが支持の意見書を提出&lt;br&gt;&lt;a href="https://openai.com/index/fair-use-benefits-everyone"&gt;https://openai.com/index/fair-use-benefits-everyone&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NVIDIA社員がNemotron Voice Agentで話すお化け屋敷MonsterHouseを製作。1台のワークステーションで動作&lt;br&gt;&lt;a href="https://huggingface.co/blog/nvidia/nemotron-halloween"&gt;https://huggingface.co/blog/nvidia/nemotron-halloween&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、生成AI学習へのコンテンツ利用可否を示すrobots.txtの共通シグナルを尊重へ。複数のAI事業者に一度に意思表示できる&lt;br&gt;&lt;a href="https://openai.com/index/helping-websites-express-ai-training-preferences"&gt;https://openai.com/index/helping-websites-express-ai-training-preferences&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Amazon CEOのAndy Jassy、AWSは前年比39.3%成長で6四半期連続の加速。CoreとAIの需要が互いを押し上げる構図を説明&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings"&gt;https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AmazonのAndy Jassy CEO、Stores事業は過小評価されていると主張。小売の約80%が今も実店舗で、成長はまだ初期段階と強調&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/company-news/amazon-stores-growth-q3-2026-earnings"&gt;https://www.aboutamazon.com/news/company-news/amazon-stores-growth-q3-2026-earnings&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Amazon CEOのAndy Jassy、自社チップ事業は前年比3桁%成長。GravitonとTrainiumの受注額はともに前年比20倍超&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/company-news/amazon-custom-chips-demand-q3-2026-earnings"&gt;https://www.aboutamazon.com/news/company-news/amazon-custom-chips-demand-q3-2026-earnings&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、ChatGPTの暴力対策を強化し10代への武器情報を制限。Community Safety Reportを2027年初めに公開&lt;br&gt;&lt;a href="https://openai.com/index/community-safety-report-and-new-protections-for-teens"&gt;https://openai.com/index/community-safety-report-and-new-protections-for-teens&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Credit Saison、ChatGPT Enterprise のパイロットで ROI 954%。終了から1か月で全社導入を決めた&lt;br&gt;&lt;a href="https://openai.com/index/credit-saison"&gt;https://openai.com/index/credit-saison&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16z、AI時代の創業者像は「ソロ創業者が有利」のような新しい型に置き換えず、従来の前提のどれが本質的かを見直すべきと主張&lt;br&gt;&lt;a href="https://a16z.com/new-founder-archetypes-in-the-ai-age/"&gt;https://a16z.com/new-founder-archetypes-in-the-ai-age/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年10月31日 0:29)</title>
       <link>https://morningaiapp.com</link>

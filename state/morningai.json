@@ -1,5 +1,15 @@
 {
   "seen": [
+    "https://x.com/claudeai/status/2116220869479428500",
+    "https://openai.com/index/fair-use-benefits-everyone",
+    "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings",
+    "https://www.aboutamazon.com/news/company-news/amazon-stores-growth-q3-2026-earnings",
+    "https://www.aboutamazon.com/news/company-news/amazon-custom-chips-demand-q3-2026-earnings",
+    "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "https://openai.com/index/credit-saison",
+    "https://a16z.com/new-founder-archetypes-in-the-ai-age/",
     "https://dify.ai/blog/build-for-business-join-the-dify-solutions-template-spotlight",
     "https://openrouter.ai/blog/insights/claude-code-cost/",
     "https://www.aboutamazon.com/news/devices/echo-time-smart-alarm-clock",
@@ -112,6 +122,73 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261031T002303Z",
+      "title": "Morning AI(2026年10月31日 9:23)",
+      "date": "2026-10-31T00:23:03.306534+00:00",
+      "items": [
+        {
+          "title": "ClaudeがMaxプランを改称しMax 20xはUltraに。認証済みUltraアカウントの5時間制限を撤廃",
+          "link": "https://x.com/claudeai/status/2116220869479428500",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、New York Timesの訴訟に反論しAI訓練へのフェアユース適用を主張。米国政府などが支持の意見書を提出",
+          "link": "https://openai.com/index/fair-use-benefits-everyone",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "NVIDIA社員がNemotron Voice Agentで話すお化け屋敷MonsterHouseを製作。1台のワークステーションで動作",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、生成AI学習へのコンテンツ利用可否を示すrobots.txtの共通シグナルを尊重へ。複数のAI事業者に一度に意思表示できる",
+          "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Amazon CEOのAndy Jassy、AWSは前年比39.3%成長で6四半期連続の加速。CoreとAIの需要が互いを押し上げる構図を説明",
+          "link": "https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "AmazonのAndy Jassy CEO、Stores事業は過小評価されていると主張。小売の約80%が今も実店舗で、成長はまだ初期段階と強調",
+          "link": "https://www.aboutamazon.com/news/company-news/amazon-stores-growth-q3-2026-earnings",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Amazon CEOのAndy Jassy、自社チップ事業は前年比3桁%成長。GravitonとTrainiumの受注額はともに前年比20倍超",
+          "link": "https://www.aboutamazon.com/news/company-news/amazon-custom-chips-demand-q3-2026-earnings",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、ChatGPTの暴力対策を強化し10代への武器情報を制限。Community Safety Reportを2027年初めに公開",
+          "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Credit Saison、ChatGPT Enterprise のパイロットで ROI 954%。終了から1か月で全社導入を決めた",
+          "link": "https://openai.com/index/credit-saison",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16z、AI時代の創業者像は「ソロ創業者が有利」のような新しい型に置き換えず、従来の前提のどれが本質的かを見直すべきと主張",
+          "link": "https://a16z.com/new-founder-archetypes-in-the-ai-age/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261030T152920Z",
       "title": "Morning AI(2026年10月31日 0:29)",
