@@ -6,7 +6,14 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 31 Oct 2026 00:23:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 14:57:52 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年10月31日 23:57)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261031T145752Z</guid>
+      <pubDate>Sat, 31 Oct 2026 14:57:52 +0000</pubDate>
+      <description>&lt;p&gt;OpenRouter、Agent SDKで常時稼働AIエージェントを自作する手順を公開。1回の実行コストは$0.0003〜$0.0012&lt;br&gt;&lt;a href="https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/"&gt;https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年10月31日 9:23)</title>
       <link>https://morningaiapp.com</link>

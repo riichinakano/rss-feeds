@@ -1,5 +1,6 @@
 {
   "seen": [
+    "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/",
     "https://x.com/claudeai/status/2116220869479428500",
     "https://openai.com/index/fair-use-benefits-everyone",
     "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -122,6 +123,19 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261031T145752Z",
+      "title": "Morning AI(2026年10月31日 23:57)",
+      "date": "2026-10-31T14:57:52.636410+00:00",
+      "items": [
+        {
+          "title": "OpenRouter、Agent SDKで常時稼働AIエージェントを自作する手順を公開。1回の実行コストは$0.0003〜$0.0012",
+          "link": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261031T002303Z",
       "title": "Morning AI(2026年10月31日 9:23)",
