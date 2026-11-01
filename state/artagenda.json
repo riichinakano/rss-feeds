@@ -1,5 +1,9 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/11932",
+    "https://www.artagenda.jp/exhibition/detail/11974",
+    "https://www.artagenda.jp/exhibition/detail/11582",
+    "https://www.artagenda.jp/exhibition/detail/12644",
     "https://www.artagenda.jp/exhibition/detail/12883",
     "https://www.artagenda.jp/exhibition/detail/12402",
     "https://www.artagenda.jp/exhibition/detail/11536",
@@ -116,13 +120,11 @@
     "https://www.artagenda.jp/exhibition/detail/11951",
     "https://www.artagenda.jp/exhibition/detail/12795",
     "https://www.artagenda.jp/exhibition/detail/12742",
-    "https://www.artagenda.jp/exhibition/detail/12730",
     "https://www.artagenda.jp/exhibition/detail/12577",
     "https://www.artagenda.jp/exhibition/detail/12884",
     "https://www.artagenda.jp/exhibition/detail/12632",
     "https://www.artagenda.jp/exhibition/detail/12799",
     "https://www.artagenda.jp/exhibition/detail/11627",
-    "https://www.artagenda.jp/exhibition/detail/11582",
     "https://www.artagenda.jp/exhibition/detail/12084",
     "https://www.artagenda.jp/exhibition/detail/11916",
     "https://www.artagenda.jp/exhibition/detail/12507",
@@ -288,7 +290,6 @@
     "https://www.artagenda.jp/exhibition/detail/11544",
     "https://www.artagenda.jp/exhibition/detail/12543",
     "https://www.artagenda.jp/exhibition/detail/12712",
-    "https://www.artagenda.jp/exhibition/detail/11974",
     "https://www.artagenda.jp/exhibition/detail/11444",
     "https://www.artagenda.jp/exhibition/detail/12535",
     "https://www.artagenda.jp/exhibition/detail/12213",
@@ -357,9 +358,6 @@
     "https://www.artagenda.jp/exhibition/detail/11770",
     "https://www.artagenda.jp/exhibition/detail/12513",
     "https://www.artagenda.jp/exhibition/detail/12079",
-    "https://www.artagenda.jp/exhibition/detail/12602",
-    "https://www.artagenda.jp/exhibition/detail/12601",
-    "https://www.artagenda.jp/exhibition/detail/12644",
     "https://www.artagenda.jp/exhibition/detail/12715",
     "https://www.artagenda.jp/exhibition/detail/12750",
     "https://www.artagenda.jp/exhibition/detail/11585",
@@ -472,6 +470,9 @@
     "https://www.artagenda.jp/exhibition/detail/4734",
     "https://www.artagenda.jp/exhibition/detail/3960",
     "https://www.artagenda.jp/exhibition/detail/4402",
+    "https://www.artagenda.jp/exhibition/detail/12730",
+    "https://www.artagenda.jp/exhibition/detail/12602",
+    "https://www.artagenda.jp/exhibition/detail/12601",
     "https://www.artagenda.jp/exhibition/detail/12754",
     "https://www.artagenda.jp/exhibition/detail/12554",
     "https://www.artagenda.jp/exhibition/detail/12287",
@@ -487,6 +488,21 @@
     "https://www.artagenda.jp/exhibition/detail/11755"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261101T154502Z",
+      "title": "アートアジェンダ 展覧会(2026年11月2日 0:45)",
+      "date": "2026-11-01T15:45:02.337432+00:00",
+      "items": [
+        {
+          "title": "ヨシタケシンスケ展かもしれない",
+          "link": "https://www.artagenda.jp/exhibition/detail/11932",
+          "label": "11/21〜2027/1/11",
+          "extra": [
+            "八戸市美術館｜青森県"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261030T153135Z",
       "title": "アートアジェンダ 展覧会(2026年10月31日 0:31)",
