@@ -1,5 +1,7 @@
 {
   "seen": [
+    "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "https://github.com/deepseek-ai/dsh-superagent-prototype/",
     "https://cursor.com/blog/claude-code-extension-security-notice",
     "https://openrouter.ai/blog/tutorials/ai-code-review/",
     "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/",
@@ -125,6 +127,25 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261102T001532Z",
+      "title": "Morning AI(2026年11月2日 9:15)",
+      "date": "2026-11-02T00:15:32.111583+00:00",
+      "items": [
+        {
+          "title": "ChatGPTのグラフとPreview機能の連鎖で、共有リンクを開くだけでアカウントを乗っ取れる脆弱性。OpenAIが修正した",
+          "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "DeepSeek、研究用プロトタイプ「dsh-superagent」を公開。依頼かチームのルールで許された時だけ動くコーディングエージェント",
+          "link": "https://github.com/deepseek-ai/dsh-superagent-prototype/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261101T154240Z",
       "title": "Morning AI(2026年11月2日 0:42)",
@@ -823,19 +844,6 @@
         {
           "title": "PHP、起こりにくいRCE経路への対策としてsession.upload_progress.enabled=0を推奨。次の定例リリースで修正",
           "link": "https://www.php.net/archive/2026.php#2026-10-23-1",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261024T225343Z",
-      "title": "Morning AI(2026年10月25日 7:53)",
-      "date": "2026-10-24T22:53:43.886481+00:00",
-      "items": [
-        {
-          "title": "CodeRabbit、Deep Scan利用料を組織ごとに最大5,000ドル分負担。11月8日まで2人以上の組織が対象",
-          "link": "https://www.coderabbit.ai/ja/blog/one-million-security-scans-and-fixes",
           "label": null,
           "extra": []
         }
