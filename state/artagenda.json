@@ -1,9 +1,20 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/11551",
+    "https://www.artagenda.jp/exhibition/detail/12435",
+    "https://www.artagenda.jp/exhibition/detail/12513",
+    "https://www.artagenda.jp/exhibition/detail/12816",
+    "https://www.artagenda.jp/exhibition/detail/12558",
+    "https://www.artagenda.jp/exhibition/detail/12396",
+    "https://www.artagenda.jp/exhibition/detail/12897",
+    "https://www.artagenda.jp/exhibition/detail/11618",
+    "https://www.artagenda.jp/exhibition/detail/11691",
     "https://www.artagenda.jp/exhibition/detail/11932",
+    "https://www.artagenda.jp/exhibition/detail/12937",
     "https://www.artagenda.jp/exhibition/detail/11974",
     "https://www.artagenda.jp/exhibition/detail/11582",
     "https://www.artagenda.jp/exhibition/detail/12644",
+    "https://www.artagenda.jp/exhibition/detail/12366",
     "https://www.artagenda.jp/exhibition/detail/12883",
     "https://www.artagenda.jp/exhibition/detail/12402",
     "https://www.artagenda.jp/exhibition/detail/11536",
@@ -57,7 +68,6 @@
     "https://www.artagenda.jp/exhibition/detail/12889",
     "https://www.artagenda.jp/exhibition/detail/12890",
     "https://www.artagenda.jp/exhibition/detail/12288",
-    "https://www.artagenda.jp/exhibition/detail/11551",
     "https://www.artagenda.jp/exhibition/detail/12038",
     "https://www.artagenda.jp/exhibition/detail/12040",
     "https://www.artagenda.jp/exhibition/detail/12684",
@@ -91,7 +101,6 @@
     "https://www.artagenda.jp/exhibition/detail/12354",
     "https://www.artagenda.jp/exhibition/detail/12658",
     "https://www.artagenda.jp/exhibition/detail/12548",
-    "https://www.artagenda.jp/exhibition/detail/12897",
     "https://www.artagenda.jp/exhibition/detail/12909",
     "https://www.artagenda.jp/exhibition/detail/12566",
     "https://www.artagenda.jp/exhibition/detail/12863",
@@ -256,7 +265,6 @@
     "https://www.artagenda.jp/exhibition/detail/12152",
     "https://www.artagenda.jp/exhibition/detail/12154",
     "https://www.artagenda.jp/exhibition/detail/12819",
-    "https://www.artagenda.jp/exhibition/detail/12816",
     "https://www.artagenda.jp/exhibition/detail/12691",
     "https://www.artagenda.jp/exhibition/detail/12522",
     "https://www.artagenda.jp/exhibition/detail/12523",
@@ -356,7 +364,6 @@
     "https://www.artagenda.jp/exhibition/detail/12721",
     "https://www.artagenda.jp/exhibition/detail/11520",
     "https://www.artagenda.jp/exhibition/detail/11770",
-    "https://www.artagenda.jp/exhibition/detail/12513",
     "https://www.artagenda.jp/exhibition/detail/12079",
     "https://www.artagenda.jp/exhibition/detail/12715",
     "https://www.artagenda.jp/exhibition/detail/12750",
@@ -366,7 +373,6 @@
     "https://www.artagenda.jp/exhibition/detail/12780",
     "https://www.artagenda.jp/exhibition/detail/12747",
     "https://www.artagenda.jp/exhibition/detail/12748",
-    "https://www.artagenda.jp/exhibition/detail/12435",
     "https://www.artagenda.jp/exhibition/detail/12226",
     "https://www.artagenda.jp/exhibition/detail/12796",
     "https://www.artagenda.jp/exhibition/detail/12797",
@@ -448,7 +454,6 @@
     "https://www.artagenda.jp/exhibition/detail/10183",
     "https://www.artagenda.jp/exhibition/detail/11911",
     "https://www.artagenda.jp/exhibition/detail/11739",
-    "https://www.artagenda.jp/exhibition/detail/11691",
     "https://www.artagenda.jp/exhibition/detail/11695",
     "https://www.artagenda.jp/exhibition/detail/11587",
     "https://www.artagenda.jp/exhibition/detail/11591",
@@ -488,6 +493,53 @@
     "https://www.artagenda.jp/exhibition/detail/11755"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261102T190648Z",
+      "title": "アートアジェンダ 展覧会(2026年11月3日 4:06)",
+      "date": "2026-11-02T19:06:48.109229+00:00",
+      "items": [
+        {
+          "title": "企画展「画鬼暁斎 妖怪画ワンダーランド」展",
+          "link": "https://www.artagenda.jp/exhibition/detail/12366",
+          "label": "11/1〜12/20",
+          "extra": [
+            "公益財団法人 河鍋暁斎記念美術館｜埼玉県"
+          ]
+        },
+        {
+          "title": "企画展「荒川豊蔵の交遊録ー豊蔵と白洲正子」",
+          "link": "https://www.artagenda.jp/exhibition/detail/12937",
+          "label": "11/21〜2027/3/14",
+          "extra": [
+            "荒川豊蔵資料館｜岐阜県"
+          ]
+        },
+        {
+          "title": "銅版画家・駒井哲郎 掌上にひろがる星座のように",
+          "link": "https://www.artagenda.jp/exhibition/detail/12396",
+          "label": "11/28〜2027/1/31",
+          "extra": [
+            "世田谷美術館｜東京都"
+          ]
+        },
+        {
+          "title": "リニューアル10周年記念名品展 国宝「紅白梅図屏風」",
+          "link": "https://www.artagenda.jp/exhibition/detail/12558",
+          "label": "2027/1/9〜2027/2/24",
+          "extra": [
+            "MOA美術館｜静岡県"
+          ]
+        },
+        {
+          "title": "サンプライド財団共催展 スペクトロシンセシスⅤ ならば、発明せよ",
+          "link": "https://www.artagenda.jp/exhibition/detail/11618",
+          "label": "2027/2/6〜2027/5/16",
+          "extra": [
+            "東京都現代美術館｜東京都"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261101T154502Z",
       "title": "アートアジェンダ 展覧会(2026年11月2日 0:45)",

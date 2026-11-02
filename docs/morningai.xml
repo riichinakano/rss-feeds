@@ -6,7 +6,21 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Nov 2026 00:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 19:04:38 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月3日 4:04)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261102T190438Z</guid>
+      <pubDate>Mon, 02 Nov 2026 19:04:38 +0000</pubDate>
+      <description>&lt;p&gt;Google、10月にGemini 4 Argonを世界展開。2週間後に過去最強のGemini 4 Carbonを発表&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"&gt;https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、日常タスクでのAI性能を測る評価「LifeVal」を公開。GPT‑6 Astraは予約や買い物など例示タスクで100%&lt;br&gt;&lt;a href="https://openai.com/index/lifeval"&gt;https://openai.com/index/lifeval&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIがGrid Protectors Programを開始。電力網の逼迫時に需要を下げ、ジョージア州で最大1,000メガワットを調整&lt;br&gt;&lt;a href="https://openai.com/index/grid-protectors-program"&gt;https://openai.com/index/grid-protectors-program&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16zがTutor IntelligenceのSeries Bをリード。人間の遠隔操作で現場投入しながらモデルを構築する手法を評価&lt;br&gt;&lt;a href="https://a16z.com/announcement/investing-in-tutor-intelligence/"&gt;https://a16z.com/announcement/investing-in-tutor-intelligence/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16z、AIアプリ企業は顧客の最善の代替手段に総コスト・品質・速度・リスクで勝たなければプレミアム価格を維持できないと指摘&lt;br&gt;&lt;a href="https://a16z.com/how-ai-applications-earn-their-premium/"&gt;https://a16z.com/how-ai-applications-earn-their-premium/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16z、元米国家安全保障担当副補佐官のAndy Baker氏をGlobal Affairsのアドバイザーに起用。投資先の海外政府との提携を支援&lt;br&gt;&lt;a href="https://a16z.com/welcome-andy-baker/"&gt;https://a16z.com/welcome-andy-baker/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google DeepMind、計画審査AI「PlanAssist」をイングランドの12自治体に追加提供。担当官の審査時間を最大58%短縮&lt;br&gt;&lt;a href="https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"&gt;https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sakana AI、一から事前学習するLLM「Sakana Sawara（仮称）」を発表。Sawara Smallは2027年春に公開予定&lt;br&gt;&lt;a href="https://sakana.ai/symposium-2026/"&gt;https://sakana.ai/symposium-2026/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月2日 9:15)</title>
       <link>https://morningaiapp.com</link>
@@ -185,15 +199,6 @@
 &lt;p&gt;Amazon、10月29日の第3四半期決算を前に前回決算以降の発表を振り返る。Bedrockへの新モデル追加やTorchNeuronなど&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview"&gt;https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Anthropic、新規株式公開に向け米SECにForm S-1を提出。Nasdaqに銘柄コード「ANT」で上場予定&lt;br&gt;&lt;a href="https://www.anthropic.com/news/s1-sec"&gt;https://www.anthropic.com/news/s1-sec&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Box、中小企業がコンテンツ管理を見直すべき7つのサインを提示。シャドーAIもAIの成果不足も根は同じと指摘&lt;br&gt;&lt;a href="https://blog.box.com/7-signs-you-need-smarter-content-system"&gt;https://blog.box.com/7-signs-you-need-smarter-content-system&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年10月25日 22:31)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261025T133145Z</guid>
-      <pubDate>Sun, 25 Oct 2026 13:31:45 +0000</pubDate>
-      <description>&lt;p&gt;Ollama がテキスト読み上げに対応し Gradium の Phonon を macOS で提供。純正ランタイムより35%高速&lt;br&gt;&lt;a href="https://ollama.com/blog/speech-models"&gt;https://ollama.com/blog/speech-models&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Block, Inc.がdessa.comのプライバシーノーティスを施行。収集情報をCash AppやSquareなどグループ会社と共有&lt;br&gt;&lt;a href="https://block.xyz/dessa"&gt;https://block.xyz/dessa&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;PHP、起こりにくいRCE経路への対策としてsession.upload_progress.enabled=0を推奨。次の定例リリースで修正&lt;br&gt;&lt;a href="https://www.php.net/archive/2026.php#2026-10-23-1"&gt;https://www.php.net/archive/2026.php#2026-10-23-1&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

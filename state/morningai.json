@@ -1,5 +1,13 @@
 {
   "seen": [
+    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "https://openai.com/index/lifeval",
+    "https://openai.com/index/grid-protectors-program",
+    "https://a16z.com/announcement/investing-in-tutor-intelligence/",
+    "https://a16z.com/how-ai-applications-earn-their-premium/",
+    "https://a16z.com/welcome-andy-baker/",
+    "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "https://sakana.ai/symposium-2026/",
     "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
     "https://github.com/deepseek-ai/dsh-superagent-prototype/",
     "https://cursor.com/blog/claude-code-extension-security-notice",
@@ -127,6 +135,61 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261102T190438Z",
+      "title": "Morning AI(2026年11月3日 4:04)",
+      "date": "2026-11-02T19:04:38.266153+00:00",
+      "items": [
+        {
+          "title": "Google、10月にGemini 4 Argonを世界展開。2週間後に過去最強のGemini 4 Carbonを発表",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、日常タスクでのAI性能を測る評価「LifeVal」を公開。GPT‑6 Astraは予約や買い物など例示タスクで100%",
+          "link": "https://openai.com/index/lifeval",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIがGrid Protectors Programを開始。電力網の逼迫時に需要を下げ、ジョージア州で最大1,000メガワットを調整",
+          "link": "https://openai.com/index/grid-protectors-program",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16zがTutor IntelligenceのSeries Bをリード。人間の遠隔操作で現場投入しながらモデルを構築する手法を評価",
+          "link": "https://a16z.com/announcement/investing-in-tutor-intelligence/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16z、AIアプリ企業は顧客の最善の代替手段に総コスト・品質・速度・リスクで勝たなければプレミアム価格を維持できないと指摘",
+          "link": "https://a16z.com/how-ai-applications-earn-their-premium/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16z、元米国家安全保障担当副補佐官のAndy Baker氏をGlobal Affairsのアドバイザーに起用。投資先の海外政府との提携を支援",
+          "link": "https://a16z.com/welcome-andy-baker/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google DeepMind、計画審査AI「PlanAssist」をイングランドの12自治体に追加提供。担当官の審査時間を最大58%短縮",
+          "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Sakana AI、一から事前学習するLLM「Sakana Sawara（仮称）」を発表。Sawara Smallは2027年春に公開予定",
+          "link": "https://sakana.ai/symposium-2026/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261102T001532Z",
       "title": "Morning AI(2026年11月2日 9:15)",
@@ -819,31 +882,6 @@
         {
           "title": "Box、中小企業がコンテンツ管理を見直すべき7つのサインを提示。シャドーAIもAIの成果不足も根は同じと指摘",
           "link": "https://blog.box.com/7-signs-you-need-smarter-content-system",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261025T133145Z",
-      "title": "Morning AI(2026年10月25日 22:31)",
-      "date": "2026-10-25T13:31:45.784612+00:00",
-      "items": [
-        {
-          "title": "Ollama がテキスト読み上げに対応し Gradium の Phonon を macOS で提供。純正ランタイムより35%高速",
-          "link": "https://ollama.com/blog/speech-models",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Block, Inc.がdessa.comのプライバシーノーティスを施行。収集情報をCash AppやSquareなどグループ会社と共有",
-          "link": "https://block.xyz/dessa",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "PHP、起こりにくいRCE経路への対策としてsession.upload_progress.enabled=0を推奨。次の定例リリースで修正",
-          "link": "https://www.php.net/archive/2026.php#2026-10-23-1",
           "label": null,
           "extra": []
         }
