@@ -6,7 +6,21 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Nov 2026 19:04:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 02:45:42 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月3日 11:45)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261103T024542Z</guid>
+      <pubDate>Tue, 03 Nov 2026 02:45:42 +0000</pubDate>
+      <description>&lt;p&gt;OpenAIが元米陸軍長官のDan Driscoll氏を新設の国家安全保障近代化担当シニアカウンセラーに任命。米同盟国と連携したAI活用を助言&lt;br&gt;&lt;a href="https://openai.com/index/dan-driscoll-joins-openai"&gt;https://openai.com/index/dan-driscoll-joins-openai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、Codexの並列開発に耐える新Gitバックエンド「Pando」をモノレポに導入。pushを中央値でほぼ5倍高速化&lt;br&gt;&lt;a href="https://openai.com/index/scaling-git-at-openai"&gt;https://openai.com/index/scaling-git-at-openai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ChatGPTのPlus・Pro・Businessプラン、12月からChatGPTとCodexで利用枠を共有しトークン単位で計測&lt;br&gt;&lt;a href="https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"&gt;https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DeepSeek、DeepSeek Harness の Creator Mode 紹介動画に登場する7つのプラグインデモのプロンプトを公開&lt;br&gt;&lt;a href="https://cdn.deepseek.com/harness/dsh-creator-mode-prompt-collection-en.html"&gt;https://cdn.deepseek.com/harness/dsh-creator-mode-prompt-collection-en.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SEC、自動ツールでSEC.govにアクセスする際はuser agentでの申告を要求。上限は毎秒10リクエスト&lt;br&gt;&lt;a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm"&gt;https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SpaceXSIのデータサイエンスチーム、Grok Botで「Data Bot」を全社に提供。先週だけで約70時間分の作業を肩代わり&lt;br&gt;&lt;a href="https://x.ai/news/data-bot"&gt;https://x.ai/news/data-bot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Qodo、Codex向けプラグインで組織のルールとコードベースの知識を提供。リポジトリをまたぐP0バグの検出を支援&lt;br&gt;&lt;a href="https://openai.com/index/qodo-codex-plugin"&gt;https://openai.com/index/qodo-codex-plugin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude Enterprise で Smart reports など3機能が一般提供に。チームの仕事内容とコストを可視化できる&lt;br&gt;&lt;a href="https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets"&gt;https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月3日 4:04)</title>
       <link>https://morningaiapp.com</link>
@@ -189,16 +203,6 @@
 &lt;p&gt;Google、Google Student Ambassador 15人が勧めるGeminiの学習・整理向け機能11個と使い方を紹介&lt;br&gt;&lt;a href="https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/"&gt;https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;a16z、Replitの「Agent Habitat」構想を支持。職場のエージェントの混沌は檻でも放任でもなく放し飼いで制御すべきと主張&lt;br&gt;&lt;a href="https://a16z.com/let-chaos-reign-and-then-rein-in-chaos/"&gt;https://a16z.com/let-chaos-reign-and-then-rein-in-chaos/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Artificial Analysis、ワイヤーフレームビルダーのデモを描く約7.3秒の映像プロンプト。カメラ固定でズームなしと指定&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/code2video-aa"&gt;https://artificialanalysis.ai/articles/code2video-aa&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年10月27日 0:46)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261026T154622Z</guid>
-      <pubDate>Mon, 26 Oct 2026 15:46:22 +0000</pubDate>
-      <description>&lt;p&gt;Fanatics、OpenAIのモデルでコーディネート商品を推薦するShop the Lookを公開。エンゲージメントが従来比10%向上&lt;br&gt;&lt;a href="https://openai.com/index/fanatics-streamline-fan-experience"&gt;https://openai.com/index/fanatics-streamline-fan-experience&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Amazon、10月29日の第3四半期決算を前に前回決算以降の発表を振り返る。Bedrockへの新モデル追加やTorchNeuronなど&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview"&gt;https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic、新規株式公開に向け米SECにForm S-1を提出。Nasdaqに銘柄コード「ANT」で上場予定&lt;br&gt;&lt;a href="https://www.anthropic.com/news/s1-sec"&gt;https://www.anthropic.com/news/s1-sec&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Box、中小企業がコンテンツ管理を見直すべき7つのサインを提示。シャドーAIもAIの成果不足も根は同じと指摘&lt;br&gt;&lt;a href="https://blog.box.com/7-signs-you-need-smarter-content-system"&gt;https://blog.box.com/7-signs-you-need-smarter-content-system&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

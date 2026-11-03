@@ -1,5 +1,13 @@
 {
   "seen": [
+    "https://openai.com/index/dan-driscoll-joins-openai",
+    "https://openai.com/index/scaling-git-at-openai",
+    "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+    "https://cdn.deepseek.com/harness/dsh-creator-mode-prompt-collection-en.html",
+    "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+    "https://x.ai/news/data-bot",
+    "https://openai.com/index/qodo-codex-plugin",
+    "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
     "https://openai.com/index/lifeval",
     "https://openai.com/index/grid-protectors-program",
@@ -135,6 +143,61 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261103T024542Z",
+      "title": "Morning AI(2026年11月3日 11:45)",
+      "date": "2026-11-03T02:45:42.508745+00:00",
+      "items": [
+        {
+          "title": "OpenAIが元米陸軍長官のDan Driscoll氏を新設の国家安全保障近代化担当シニアカウンセラーに任命。米同盟国と連携したAI活用を助言",
+          "link": "https://openai.com/index/dan-driscoll-joins-openai",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、Codexの並列開発に耐える新Gitバックエンド「Pando」をモノレポに導入。pushを中央値でほぼ5倍高速化",
+          "link": "https://openai.com/index/scaling-git-at-openai",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "ChatGPTのPlus・Pro・Businessプラン、12月からChatGPTとCodexで利用枠を共有しトークン単位で計測",
+          "link": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "DeepSeek、DeepSeek Harness の Creator Mode 紹介動画に登場する7つのプラグインデモのプロンプトを公開",
+          "link": "https://cdn.deepseek.com/harness/dsh-creator-mode-prompt-collection-en.html",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "SEC、自動ツールでSEC.govにアクセスする際はuser agentでの申告を要求。上限は毎秒10リクエスト",
+          "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "SpaceXSIのデータサイエンスチーム、Grok Botで「Data Bot」を全社に提供。先週だけで約70時間分の作業を肩代わり",
+          "link": "https://x.ai/news/data-bot",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Qodo、Codex向けプラグインで組織のルールとコードベースの知識を提供。リポジトリをまたぐP0バグの検出を支援",
+          "link": "https://openai.com/index/qodo-codex-plugin",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Claude Enterprise で Smart reports など3機能が一般提供に。チームの仕事内容とコストを可視化できる",
+          "link": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261102T190438Z",
       "title": "Morning AI(2026年11月3日 4:04)",
@@ -851,37 +914,6 @@
         {
           "title": "Artificial Analysis、ワイヤーフレームビルダーのデモを描く約7.3秒の映像プロンプト。カメラ固定でズームなしと指定",
           "link": "https://artificialanalysis.ai/articles/code2video-aa",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261026T154622Z",
-      "title": "Morning AI(2026年10月27日 0:46)",
-      "date": "2026-10-26T15:46:22.102993+00:00",
-      "items": [
-        {
-          "title": "Fanatics、OpenAIのモデルでコーディネート商品を推薦するShop the Lookを公開。エンゲージメントが従来比10%向上",
-          "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Amazon、10月29日の第3四半期決算を前に前回決算以降の発表を振り返る。Bedrockへの新モデル追加やTorchNeuronなど",
-          "link": "https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Anthropic、新規株式公開に向け米SECにForm S-1を提出。Nasdaqに銘柄コード「ANT」で上場予定",
-          "link": "https://www.anthropic.com/news/s1-sec",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Box、中小企業がコンテンツ管理を見直すべき7つのサインを提示。シャドーAIもAIの成果不足も根は同じと指摘",
-          "link": "https://blog.box.com/7-signs-you-need-smarter-content-system",
           "label": null,
           "extra": []
         }
