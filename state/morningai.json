@@ -1,5 +1,14 @@
 {
   "seen": [
+    "https://www.vals.ai/blogs/reasoning-effort",
+    "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "https://openai.com/index/cisco-cyber",
+    "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "https://huggingface.co/blog/cwe-bench",
+    "https://huggingface.co/blog/allenai/statebench",
+    "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
+    "https://huggingface.co/blog/ibm-research/palette-deck-building",
     "https://a16z.com/the-state-of-longevity/",
     "https://www.coderabbit.ai/ja/blog/runtime-verification-in-coderabbit-secure",
     "https://openai.com/index/heimstaden",
@@ -151,6 +160,67 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261104T010238Z",
+      "title": "Morning AI(2026年11月4日 10:02)",
+      "date": "2026-11-04T01:02:38.726863+00:00",
+      "items": [
+        {
+          "title": "Vals AI、7社のトップモデルのreasoning設定を比較。最低設定でも7モデル中4モデルが半分以下のコストでスコアの80%以上を維持",
+          "link": "https://www.vals.ai/blogs/reasoning-effort",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、Uber社長を務めたJill HazelbakerをChief Corporate Affairs Officerに起用",
+          "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Cisco、OpenAIのモデルとネットワークテレメトリを組み合わせマシンスピードで防御。GPT-6 Astraで脆弱性対応を短縮",
+          "link": "https://openai.com/index/cisco-cyber",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIのGPT‑6 Astra、人の直接編集なしでデバイスを設計。社内ハードウェアチームの利用は2月以降23倍に増加",
+          "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Collinear AI、脆弱性修正ベンチマークCWE-bench v2の100タスクを公開。首位モデルでもpass@1は67.8%",
+          "link": "https://huggingface.co/blog/cwe-bench",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Hugging Face、長文の状態追跡を4段階で測るStateBenchを公開。フロンティアモデルは最難関の最長問題で精度13%以下",
+          "link": "https://huggingface.co/blog/allenai/statebench",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "DeepMindがGoogle Antigravity向けCheminformatics Skillsを公開、数日かかる創薬ワークフローを1時間で実行できる",
+          "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Jevで難しいタスクだけGemini 3.8 Flashの低思考へ回す構成を50問で検証、全問正解でコストと待ち時間を削減",
+          "link": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Hugging Face、20Bオープンモデルで独自デザイン言語のスライドを作る「Palette」を開発。PresentBenchの2領域で1位",
+          "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261103T164711Z",
       "title": "Morning AI(2026年11月4日 1:47)",
@@ -867,37 +937,6 @@
         {
           "title": "Microsoft AIが画像編集モデルMAI Image 2.7をプレビュー公開。Arena Editで3位",
           "link": "https://microsoft.ai/news/mai-image-2-7-debut/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261027T150526Z",
-      "title": "Morning AI(2026年10月28日 0:05)",
-      "date": "2026-10-27T15:05:26.998472+00:00",
-      "items": [
-        {
-          "title": "SpaceXSIの営業チーム、見込み客開拓・見積・商談審査を担う3つのShared Botを構築し全営業で共有",
-          "link": "https://x.ai/news/grok-bot-sales",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "a16z、Databricksのエージェント向け記録システムSORAを解説。AIの課題は文脈にあり、誰もがマネージャーになる時代を展望",
-          "link": "https://a16z.com/databricks-the-future-of-the-firm/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Vals AI、Qwen3.8がAlibaba Cloud上のプロキシへ要求を送る挙動を検証。RL訓練の名残とみて悪意の証拠はなし",
-          "link": "https://www.vals.ai/blogs/qwen-alibaba-requests",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Sakana AIのGTM責任者・柿島英和氏、2026年9月始動のチームで日本と海外を並行開拓する方針とFDEなどの採用を語った",
-          "link": "https://sakana.ai/vp-of-gtm-interview/",
           "label": null,
           "extra": []
         }

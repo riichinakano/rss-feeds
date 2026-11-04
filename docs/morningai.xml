@@ -6,7 +6,22 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Nov 2026 16:47:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 01:02:38 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月4日 10:02)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261104T010238Z</guid>
+      <pubDate>Wed, 04 Nov 2026 01:02:38 +0000</pubDate>
+      <description>&lt;p&gt;Vals AI、7社のトップモデルのreasoning設定を比較。最低設定でも7モデル中4モデルが半分以下のコストでスコアの80%以上を維持&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/reasoning-effort"&gt;https://www.vals.ai/blogs/reasoning-effort&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、Uber社長を務めたJill HazelbakerをChief Corporate Affairs Officerに起用&lt;br&gt;&lt;a href="https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"&gt;https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cisco、OpenAIのモデルとネットワークテレメトリを組み合わせマシンスピードで防御。GPT-6 Astraで脆弱性対応を短縮&lt;br&gt;&lt;a href="https://openai.com/index/cisco-cyber"&gt;https://openai.com/index/cisco-cyber&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIのGPT‑6 Astra、人の直接編集なしでデバイスを設計。社内ハードウェアチームの利用は2月以降23倍に増加&lt;br&gt;&lt;a href="https://openai.com/index/accelerating-engineering-for-the-physical-world"&gt;https://openai.com/index/accelerating-engineering-for-the-physical-world&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Collinear AI、脆弱性修正ベンチマークCWE-bench v2の100タスクを公開。首位モデルでもpass@1は67.8%&lt;br&gt;&lt;a href="https://huggingface.co/blog/cwe-bench"&gt;https://huggingface.co/blog/cwe-bench&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、長文の状態追跡を4段階で測るStateBenchを公開。フロンティアモデルは最難関の最長問題で精度13%以下&lt;br&gt;&lt;a href="https://huggingface.co/blog/allenai/statebench"&gt;https://huggingface.co/blog/allenai/statebench&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DeepMindがGoogle Antigravity向けCheminformatics Skillsを公開、数日かかる創薬ワークフローを1時間で実行できる&lt;br&gt;&lt;a href="https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"&gt;https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、Jevで難しいタスクだけGemini 3.8 Flashの低思考へ回す構成を50問で検証、全問正解でコストと待ち時間を削減&lt;br&gt;&lt;a href="https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/"&gt;https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、20Bオープンモデルで独自デザイン言語のスライドを作る「Palette」を開発。PresentBenchの2領域で1位&lt;br&gt;&lt;a href="https://huggingface.co/blog/ibm-research/palette-deck-building"&gt;https://huggingface.co/blog/ibm-research/palette-deck-building&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月4日 1:47)</title>
       <link>https://morningaiapp.com</link>
@@ -189,16 +204,6 @@
 &lt;p&gt;DeepMind、音声や対話もネイティブに生成するリアルタイム世界モデル「Genie 4」を研究プレビューとして公開&lt;br&gt;&lt;a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"&gt;https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google、A2UIの新デフォルト形式A2UI Expressでレイテンシ最大3倍削減。Jevなどのdecision modelで最大80倍高速&lt;br&gt;&lt;a href="https://developers.googleblog.com/fast-reliable-a2ui/"&gt;https://developers.googleblog.com/fast-reliable-a2ui/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft AIが画像編集モデルMAI Image 2.7をプレビュー公開。Arena Editで3位&lt;br&gt;&lt;a href="https://microsoft.ai/news/mai-image-2-7-debut/"&gt;https://microsoft.ai/news/mai-image-2-7-debut/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年10月28日 0:05)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261027T150526Z</guid>
-      <pubDate>Tue, 27 Oct 2026 15:05:26 +0000</pubDate>
-      <description>&lt;p&gt;SpaceXSIの営業チーム、見込み客開拓・見積・商談審査を担う3つのShared Botを構築し全営業で共有&lt;br&gt;&lt;a href="https://x.ai/news/grok-bot-sales"&gt;https://x.ai/news/grok-bot-sales&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;a16z、Databricksのエージェント向け記録システムSORAを解説。AIの課題は文脈にあり、誰もがマネージャーになる時代を展望&lt;br&gt;&lt;a href="https://a16z.com/databricks-the-future-of-the-firm/"&gt;https://a16z.com/databricks-the-future-of-the-firm/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Vals AI、Qwen3.8がAlibaba Cloud上のプロキシへ要求を送る挙動を検証。RL訓練の名残とみて悪意の証拠はなし&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/qwen-alibaba-requests"&gt;https://www.vals.ai/blogs/qwen-alibaba-requests&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sakana AIのGTM責任者・柿島英和氏、2026年9月始動のチームで日本と海外を並行開拓する方針とFDEなどの採用を語った&lt;br&gt;&lt;a href="https://sakana.ai/vp-of-gtm-interview/"&gt;https://sakana.ai/vp-of-gtm-interview/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
