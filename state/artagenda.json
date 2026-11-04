@@ -1,5 +1,8 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12306",
+    "https://www.artagenda.jp/exhibition/detail/12293",
+    "https://www.artagenda.jp/exhibition/detail/11570",
     "https://www.artagenda.jp/exhibition/detail/12566",
     "https://www.artagenda.jp/exhibition/detail/12910",
     "https://www.artagenda.jp/exhibition/detail/12539",
@@ -498,6 +501,37 @@
     "https://www.artagenda.jp/exhibition/detail/11755"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261104T164908Z",
+      "title": "アートアジェンダ 展覧会(2026年11月5日 1:49)",
+      "date": "2026-11-04T16:49:08.493522+00:00",
+      "items": [
+        {
+          "title": "昭和のキャバレー王が愛した絵画 コレクター福富太郎の眼",
+          "link": "https://www.artagenda.jp/exhibition/detail/12293",
+          "label": "12/15〜2027/2/7",
+          "extra": [
+            "広島県立美術館｜広島県"
+          ]
+        },
+        {
+          "title": "逆引き！吉祥展 ―古伊万里の文様どんな意味？―",
+          "link": "https://www.artagenda.jp/exhibition/detail/11570",
+          "label": "2027/1/7〜2027/3/22",
+          "extra": [
+            "戸栗美術館｜東京都"
+          ]
+        },
+        {
+          "title": "シンシナティ美術館展 ～アメリカに渡ったヨーロッパの至宝～",
+          "link": "https://www.artagenda.jp/exhibition/detail/12306",
+          "label": "2027/1/23〜2027/4/11",
+          "extra": [
+            "富山県美術館｜富山県"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261103T164921Z",
       "title": "アートアジェンダ 展覧会(2026年11月4日 1:49)",
