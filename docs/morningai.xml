@@ -6,7 +6,21 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 04 Nov 2026 16:47:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:17:54 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月5日 10:17)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261105T011754Z</guid>
+      <pubDate>Thu, 05 Nov 2026 01:17:54 +0000</pubDate>
+      <description>&lt;p&gt;DevRev、企業のサービス業務を担うComputerとOperatorをGPT‑6.1 Solで駆動。推論力・速度・コストを両立&lt;br&gt;&lt;a href="https://openai.com/index/devrev-enterprise-self-service"&gt;https://openai.com/index/devrev-enterprise-self-service&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、自律型パイプラインでLinuxのローカル権限昇格脆弱性948件を検証しパッチ生成、APIコストは$1.2 million&lt;br&gt;&lt;a href="https://openai.com/index/a-thousand-fewer-paths-to-root"&gt;https://openai.com/index/a-thousand-fewer-paths-to-root&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tencent が Hy4 をリリース。Hy として初めてオープンソースモデルの最上位級に入ったとし、重みは今後公開予定&lt;br&gt;&lt;a href="https://hy.tencent.ai/research/hy4?langVersion=en"&gt;https://hy.tencent.ai/research/hy4?langVersion=en&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PangramがAI画像・動画検出のPangram Image 1.0を発表。画像で正解率99.96%、高速版は動画のDF26で98.7%&lt;br&gt;&lt;a href="https://www.pangram.com/blog/introducing-pangram-image-1-0"&gt;https://www.pangram.com/blog/introducing-pangram-image-1-0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic、原核細胞のvault粒子の3D構造を初めて解明。Claudeを全工程に組み込み4か月未満で到達&lt;br&gt;&lt;a href="https://www.anthropic.com/research/investigating-vault-particles-with-claude"&gt;https://www.anthropic.com/research/investigating-vault-particles-with-claude&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude Platformがmessage threadsをパブリックベータ公開。500k〜1Mトークン時のTTFT中央値が約35%短縮&lt;br&gt;&lt;a href="https://claude.com/resources/articles/message-threads"&gt;https://claude.com/resources/articles/message-threads&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google Research、境界事例を見せて主観的な画像分類器を作るAgile Deliberationを発表。精度向上と負担軽減を確認&lt;br&gt;&lt;a href="https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/"&gt;https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dharma-AI、文書から指定項目をJSONで抽出する20億パラメータのモデルを公開。フロンティアLLMより高品質でコストは6〜147分の1&lt;br&gt;&lt;a href="https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"&gt;https://huggingface.co/blog/Dharma-AI/dharma-field-extractor&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月5日 1:47)</title>
       <link>https://morningaiapp.com</link>
@@ -178,17 +192,6 @@
 &lt;p&gt;Claude、Google Cloud上のClaude Codeのコスト管理とROI証明をControl・Track・Proveの3レバーで解説&lt;br&gt;&lt;a href="https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud"&gt;https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;a16zがCISO 100人を調査、2027年の優先施策の上位7つはすべてAI関連。87%がセキュリティ支出増を予想&lt;br&gt;&lt;a href="https://a16z.com/the-new-security-agenda/"&gt;https://a16z.com/the-new-security-agenda/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;NVIDIA、文字起こし・話者識別・翻訳を担うオープンモデルNemotron 3.5 Transcribeを公開。40言語の文字起こしに対応&lt;br&gt;&lt;a href="https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"&gt;https://huggingface.co/blog/nvidia/nemotron-transcribe-granary&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年10月29日 0:40)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261028T154050Z</guid>
-      <pubDate>Wed, 28 Oct 2026 15:40:50 +0000</pubDate>
-      <description>&lt;p&gt;Amazon、全機種に最新版Alexaを搭載した新世代Alexaデバイスを発表。Echo Show 16やEcho Timeなど&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/devices/new-alexa-devices-2026"&gt;https://www.aboutamazon.com/news/devices/new-alexa-devices-2026&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Legora、OpenAIのモデルで法務AIを構築。Fortune 100顧客で契約処理時間を90%短縮、弁護士1人あたり週9.5時間を創出&lt;br&gt;&lt;a href="https://openai.com/index/legora-agentic-operating-system-for-legal-work"&gt;https://openai.com/index/legora-agentic-operating-system-for-legal-work&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Vals AIなど、米国移民法ベンチマークで25のAIモデルを評価。首位のClaude Fable 5.1でも完全正答は26.3%&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/can-ai-get-immigration-right"&gt;https://www.vals.ai/blogs/can-ai-get-immigration-right&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Amazon、SDEの役割ガイドラインを改定。AIの使い方は定めず、顧客・事業・チームへのインパクトに焦点を当てた&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai"&gt;https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Artificial AnalysisがIntelligence Index v5を公開、Indexの60%を非公開データに基づく評価で構成&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5"&gt;https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

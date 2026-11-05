@@ -1,5 +1,13 @@
 {
   "seen": [
+    "https://openai.com/index/devrev-enterprise-self-service",
+    "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "https://hy.tencent.ai/research/hy4?langVersion=en",
+    "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+    "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+    "https://claude.com/resources/articles/message-threads",
+    "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+    "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
     "https://openai.com/index/daybreak-red-aws-govcloud",
     "https://openai.com/index/openai-to-acquire-pierre",
     "https://a16z.com/is-private-equity-cooked/",
@@ -165,6 +173,61 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261105T011754Z",
+      "title": "Morning AI(2026年11月5日 10:17)",
+      "date": "2026-11-05T01:17:54.304565+00:00",
+      "items": [
+        {
+          "title": "DevRev、企業のサービス業務を担うComputerとOperatorをGPT‑6.1 Solで駆動。推論力・速度・コストを両立",
+          "link": "https://openai.com/index/devrev-enterprise-self-service",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、自律型パイプラインでLinuxのローカル権限昇格脆弱性948件を検証しパッチ生成、APIコストは$1.2 million",
+          "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Tencent が Hy4 をリリース。Hy として初めてオープンソースモデルの最上位級に入ったとし、重みは今後公開予定",
+          "link": "https://hy.tencent.ai/research/hy4?langVersion=en",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "PangramがAI画像・動画検出のPangram Image 1.0を発表。画像で正解率99.96%、高速版は動画のDF26で98.7%",
+          "link": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic、原核細胞のvault粒子の3D構造を初めて解明。Claudeを全工程に組み込み4か月未満で到達",
+          "link": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Claude Platformがmessage threadsをパブリックベータ公開。500k〜1Mトークン時のTTFT中央値が約35%短縮",
+          "link": "https://claude.com/resources/articles/message-threads",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google Research、境界事例を見せて主観的な画像分類器を作るAgile Deliberationを発表。精度向上と負担軽減を確認",
+          "link": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Dharma-AI、文書から指定項目をJSONで抽出する20億パラメータのモデルを公開。フロンティアLLMより高品質でコストは6〜147分の1",
+          "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261104T164702Z",
       "title": "Morning AI(2026年11月5日 1:47)",
@@ -815,43 +878,6 @@
         {
           "title": "NVIDIA、文字起こし・話者識別・翻訳を担うオープンモデルNemotron 3.5 Transcribeを公開。40言語の文字起こしに対応",
           "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261028T154050Z",
-      "title": "Morning AI(2026年10月29日 0:40)",
-      "date": "2026-10-28T15:40:50.988455+00:00",
-      "items": [
-        {
-          "title": "Amazon、全機種に最新版Alexaを搭載した新世代Alexaデバイスを発表。Echo Show 16やEcho Timeなど",
-          "link": "https://www.aboutamazon.com/news/devices/new-alexa-devices-2026",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Legora、OpenAIのモデルで法務AIを構築。Fortune 100顧客で契約処理時間を90%短縮、弁護士1人あたり週9.5時間を創出",
-          "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Vals AIなど、米国移民法ベンチマークで25のAIモデルを評価。首位のClaude Fable 5.1でも完全正答は26.3%",
-          "link": "https://www.vals.ai/blogs/can-ai-get-immigration-right",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Amazon、SDEの役割ガイドラインを改定。AIの使い方は定めず、顧客・事業・チームへのインパクトに焦点を当てた",
-          "link": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Artificial AnalysisがIntelligence Index v5を公開、Indexの60%を非公開データに基づく評価で構成",
-          "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
           "label": null,
           "extra": []
         }

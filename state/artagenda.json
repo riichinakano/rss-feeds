@@ -1,5 +1,6 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12300",
     "https://www.artagenda.jp/exhibition/detail/12306",
     "https://www.artagenda.jp/exhibition/detail/12293",
     "https://www.artagenda.jp/exhibition/detail/11570",
@@ -501,6 +502,21 @@
     "https://www.artagenda.jp/exhibition/detail/11755"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261105T012005Z",
+      "title": "アートアジェンダ 展覧会(2026年11月5日 10:20)",
+      "date": "2026-11-05T01:20:05.827230+00:00",
+      "items": [
+        {
+          "title": "トーベとムーミン展～とっておきのものを探しに～",
+          "link": "https://www.artagenda.jp/exhibition/detail/12300",
+          "label": "12/26〜2027/2/28",
+          "extra": [
+            "岩手県立美術館｜岩手県"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261104T164908Z",
       "title": "アートアジェンダ 展覧会(2026年11月5日 1:49)",
