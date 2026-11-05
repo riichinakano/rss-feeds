@@ -1,5 +1,6 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12953",
     "https://www.artagenda.jp/exhibition/detail/12300",
     "https://www.artagenda.jp/exhibition/detail/12306",
     "https://www.artagenda.jp/exhibition/detail/12293",
@@ -498,10 +499,24 @@
     "https://www.artagenda.jp/exhibition/detail/12600",
     "https://www.artagenda.jp/exhibition/detail/12365",
     "https://www.artagenda.jp/exhibition/detail/12727",
-    "https://www.artagenda.jp/exhibition/detail/11756",
-    "https://www.artagenda.jp/exhibition/detail/11755"
+    "https://www.artagenda.jp/exhibition/detail/11756"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261105T170453Z",
+      "title": "アートアジェンダ 展覧会(2026年11月6日 2:04)",
+      "date": "2026-11-05T17:04:53.410648+00:00",
+      "items": [
+        {
+          "title": "魯山人の宇宙 魂を刳る美がほしい",
+          "link": "https://www.artagenda.jp/exhibition/detail/12953",
+          "label": "2027/1/2〜2027/1/25",
+          "extra": [
+            "美術館「えき」KYOTO｜京都府"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261105T012005Z",
       "title": "アートアジェンダ 展覧会(2026年11月5日 10:20)",
