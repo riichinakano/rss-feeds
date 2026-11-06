@@ -1,6 +1,14 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12744",
+    "https://www.artagenda.jp/exhibition/detail/11869",
+    "https://www.artagenda.jp/exhibition/detail/12370",
     "https://www.artagenda.jp/exhibition/detail/11677",
+    "https://www.artagenda.jp/exhibition/detail/12117",
+    "https://www.artagenda.jp/exhibition/detail/12940",
+    "https://www.artagenda.jp/exhibition/detail/12939",
+    "https://www.artagenda.jp/exhibition/detail/11943",
+    "https://www.artagenda.jp/exhibition/detail/12961",
     "https://www.artagenda.jp/exhibition/detail/12953",
     "https://www.artagenda.jp/exhibition/detail/12300",
     "https://www.artagenda.jp/exhibition/detail/12306",
@@ -60,7 +68,6 @@
     "https://www.artagenda.jp/exhibition/detail/12302",
     "https://www.artagenda.jp/exhibition/detail/12814",
     "https://www.artagenda.jp/exhibition/detail/12592",
-    "https://www.artagenda.jp/exhibition/detail/12370",
     "https://www.artagenda.jp/exhibition/detail/11802",
     "https://www.artagenda.jp/exhibition/detail/12841",
     "https://www.artagenda.jp/exhibition/detail/12916",
@@ -340,7 +347,6 @@
     "https://www.artagenda.jp/exhibition/detail/11780",
     "https://www.artagenda.jp/exhibition/detail/12275",
     "https://www.artagenda.jp/exhibition/detail/12820",
-    "https://www.artagenda.jp/exhibition/detail/11869",
     "https://www.artagenda.jp/exhibition/detail/12605",
     "https://www.artagenda.jp/exhibition/detail/12172",
     "https://www.artagenda.jp/exhibition/detail/12509",
@@ -400,7 +406,6 @@
     "https://www.artagenda.jp/exhibition/detail/12741",
     "https://www.artagenda.jp/exhibition/detail/12756",
     "https://www.artagenda.jp/exhibition/detail/12734",
-    "https://www.artagenda.jp/exhibition/detail/12744",
     "https://www.artagenda.jp/exhibition/detail/11509",
     "https://www.artagenda.jp/exhibition/detail/12688",
     "https://www.artagenda.jp/exhibition/detail/12729",
@@ -494,14 +499,56 @@
     "https://www.artagenda.jp/exhibition/detail/12311",
     "https://www.artagenda.jp/exhibition/detail/12683",
     "https://www.artagenda.jp/exhibition/detail/12231",
-    "https://www.artagenda.jp/exhibition/detail/12148",
-    "https://www.artagenda.jp/exhibition/detail/12659",
-    "https://www.artagenda.jp/exhibition/detail/12600",
-    "https://www.artagenda.jp/exhibition/detail/12365",
-    "https://www.artagenda.jp/exhibition/detail/12727",
-    "https://www.artagenda.jp/exhibition/detail/11756"
+    "https://www.artagenda.jp/exhibition/detail/12148"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261106T163606Z",
+      "title": "アートアジェンダ 展覧会(2026年11月7日 1:36)",
+      "date": "2026-11-06T16:36:06.271145+00:00",
+      "items": [
+        {
+          "title": "あなたの知らない浮世絵師たち",
+          "link": "https://www.artagenda.jp/exhibition/detail/11943",
+          "label": "12/12〜2027/1/17",
+          "extra": [
+            "太田記念美術館｜東京都"
+          ]
+        },
+        {
+          "title": "大・松尾スズキ展 －松尾スズキの脳内観光－",
+          "link": "https://www.artagenda.jp/exhibition/detail/12117",
+          "label": "12/15〜2027/2/21",
+          "extra": [
+            "北九州市立美術館｜福岡県"
+          ]
+        },
+        {
+          "title": "第12回テーマ展示「アイヌ民族とキリスト教 ―聖公会のつながりのなかで―」",
+          "link": "https://www.artagenda.jp/exhibition/detail/12961",
+          "label": "2027/3/13〜2027/5/16",
+          "extra": [
+            "国立アイヌ民族博物館｜北海道"
+          ]
+        },
+        {
+          "title": "特別展「菅原道真」",
+          "link": "https://www.artagenda.jp/exhibition/detail/12939",
+          "label": "2027/7/17〜2027/9/12",
+          "extra": [
+            "東京国立博物館｜東京都"
+          ]
+        },
+        {
+          "title": "特別展「菅原道真」",
+          "link": "https://www.artagenda.jp/exhibition/detail/12940",
+          "label": "2027/10/9〜2027/12/5",
+          "extra": [
+            "九州国立博物館｜福岡県"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261105T170453Z",
       "title": "アートアジェンダ 展覧会(2026年11月6日 2:04)",
@@ -1384,13 +1431,6 @@
           ]
         }
       ]
-    },
-    {
-      "guid": "artagenda-20261024T055058Z",
-      "title": "アートアジェンダ 展覧会(取得開始 2026年10月24日)",
-      "date": "2026-10-24T05:50:58.535952+00:00",
-      "items": [],
-      "note": "掲載中の464件を記録しました。次回の更新から、新しく掲載されたものだけをお届けします。"
     }
   ]
 }

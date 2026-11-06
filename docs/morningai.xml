@@ -6,7 +6,19 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 06 Nov 2026 01:22:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:33:54 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月7日 1:33)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261106T163354Z</guid>
+      <pubDate>Fri, 06 Nov 2026 16:33:54 +0000</pubDate>
+      <description>&lt;p&gt;ロボット学習の統制環境ToyBlocksが公開。シミュレーションのみで学習したManiFlowは実機の単体スキル成功率81.1%&lt;br&gt;&lt;a href="https://huggingface.co/blog/allenai/toyblocks"&gt;https://huggingface.co/blog/allenai/toyblocks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Amazon、Alexa for Shoppingにテキストで買い物を頼める機能を米国で招待制提供開始。商品探しから購入まで代行&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop"&gt;https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Artificial Analysisの科学画像評価VIALS-AA、3回全正解率64%でGemini 4 Carbon (high)が首位&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/vials-aa"&gt;https://artificialanalysis.ai/articles/vials-aa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、Open ASR LeaderboardにLiva AI提供のエジプト英語とナイジェリア英語の非公開データを追加&lt;br&gt;&lt;a href="https://huggingface.co/blog/open-asr-leaderboard-liva"&gt;https://huggingface.co/blog/open-asr-leaderboard-liva&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;豪州のUNSWやシドニー大学がOpenAIと提携しChatGPT Eduを展開。OpenAI委託の調査では学生の81%が週に数回以上AIを利用&lt;br&gt;&lt;a href="https://openai.com/index/australian-universities-ai-native-graduates"&gt;https://openai.com/index/australian-universities-ai-native-graduates&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;インドのcult.fitがCodexを非エンジニア部門にも展開し20以上の社内アプリを構築。サポート費用は50%以上削減&lt;br&gt;&lt;a href="https://openai.com/index/cultfit-builds-with-codex"&gt;https://openai.com/index/cultfit-builds-with-codex&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月6日 10:22)</title>
       <link>https://morningaiapp.com</link>
@@ -167,24 +179,6 @@
       <pubDate>Fri, 30 Oct 2026 15:29:20 +0000</pubDate>
       <description>&lt;p&gt;Difyが「Dify Business Template Spotlight」を開始。掲載作品にProfessionalプラン1か月分&lt;br&gt;&lt;a href="https://dify.ai/blog/build-for-business-join-the-dify-solutions-template-spotlight"&gt;https://dify.ai/blog/build-for-business-join-the-dify-solutions-template-spotlight&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;OpenRouter、Claude Codeの実セッション費用をモデル別に公開。Sonnet 5.5はOpus 5.5の約半分&lt;br&gt;&lt;a href="https://openrouter.ai/blog/insights/claude-code-cost/"&gt;https://openrouter.ai/blog/insights/claude-code-cost/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年10月30日 9:37)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261030T003714Z</guid>
-      <pubDate>Fri, 30 Oct 2026 00:37:14 +0000</pubDate>
-      <description>&lt;p&gt;AmazonがAlexa+搭載の寝室向け目覚まし時計Echo Timeを199.99ドルで発売。眠りの浅い時に起こすアラーム機能付き&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/devices/echo-time-smart-alarm-clock"&gt;https://www.aboutamazon.com/news/devices/echo-time-smart-alarm-clock&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Amazon、新Echo Dotにスマートホームハブとeero Wi-Fiエクステンダーを内蔵。カメラ付きEcho Studioも発表&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/devices/echo-speaker-lineup"&gt;https://www.aboutamazon.com/news/devices/echo-speaker-lineup&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Amazon、16インチの新型スマートディスプレイ「Echo Show 16」を発表。Fire TV内蔵で$499.99から予約受付&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/devices/echo-show-16-smart-display"&gt;https://www.aboutamazon.com/news/devices/echo-show-16-smart-display&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Amazon、Alexa内蔵のフォトフレーム「Alexa Photo Frame」を発売。価格は199.99ドルから&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/devices/amazon-alexa-photo-frame"&gt;https://www.aboutamazon.com/news/devices/amazon-alexa-photo-frame&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AmazonのAlexa for Shoppingが100以上の新しいショッピング操作に対応、リストや支払いも会話で処理できる&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/retail/alexa-for-shopping-new-capabilities"&gt;https://www.aboutamazon.com/news/retail/alexa-for-shopping-new-capabilities&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;法律事務所Ropes &amp;amp; GrayがOpenAIと取引デューデリジェンス用AIツールを開発。数千ページを読み込み報告書まで作成&lt;br&gt;&lt;a href="https://openai.com/index/ropes-gray-ai-diligence"&gt;https://openai.com/index/ropes-gray-ai-diligence&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIがModel Specを更新し、人間の意図への忠実さなど5つの価値を軸に再構成。詳細なスタイルガイダンスの大半を廃止&lt;br&gt;&lt;a href="https://openai.com/index/updated-model-spec"&gt;https://openai.com/index/updated-model-spec&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、A2UIとCopilotKitでエージェントが既存コンポーネントから双方向UIを生成するアプリの構築手順を解説&lt;br&gt;&lt;a href="https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/"&gt;https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、Hugging Face事件を受けモデルの不整合監視を訓練から外部提供まで拡大。再現検証で侵害の30時間以上前に警告&lt;br&gt;&lt;a href="https://openai.com/index/how-we-detect-frontier-model-misalignment"&gt;https://openai.com/index/how-we-detect-frontier-model-misalignment&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、Gemini で未整理の職歴メモから ATS 対応の履歴書用箇条書きを作る4ステップとプロンプトを公開&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Gemini アプリ、チャット内で PDF やスプレッドシートなどのファイルを生成・プレビュー・編集可能に。全ユーザーに提供&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hugging Faceと米大学ら、公的資金研究のAI対応公開を促す「Project ProtoStar」発足。初回はCMUの気候予測チャレンジ&lt;br&gt;&lt;a href="https://huggingface.co/blog/announcing-project-protostar"&gt;https://huggingface.co/blog/announcing-project-protostar&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

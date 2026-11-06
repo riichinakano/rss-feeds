@@ -6,7 +6,18 @@
     <description>アートアジェンダ 展覧会 の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/artagenda.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Nov 2026 17:04:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:36:06 +0000</lastBuildDate>
+    <item>
+      <title>アートアジェンダ 展覧会(2026年11月7日 1:36)</title>
+      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
+      <guid isPermaLink="false">artagenda-20261106T163606Z</guid>
+      <pubDate>Fri, 06 Nov 2026 16:36:06 +0000</pubDate>
+      <description>&lt;p&gt;[12/12〜2027/1/17] あなたの知らない浮世絵師たち&lt;br&gt;太田記念美術館｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/11943"&gt;https://www.artagenda.jp/exhibition/detail/11943&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[12/15〜2027/2/21] 大・松尾スズキ展 －松尾スズキの脳内観光－&lt;br&gt;北九州市立美術館｜福岡県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12117"&gt;https://www.artagenda.jp/exhibition/detail/12117&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2027/3/13〜2027/5/16] 第12回テーマ展示「アイヌ民族とキリスト教 ―聖公会のつながりのなかで―」&lt;br&gt;国立アイヌ民族博物館｜北海道&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12961"&gt;https://www.artagenda.jp/exhibition/detail/12961&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2027/7/17〜2027/9/12] 特別展「菅原道真」&lt;br&gt;東京国立博物館｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12939"&gt;https://www.artagenda.jp/exhibition/detail/12939&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2027/10/9〜2027/12/5] 特別展「菅原道真」&lt;br&gt;九州国立博物館｜福岡県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12940"&gt;https://www.artagenda.jp/exhibition/detail/12940&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>アートアジェンダ 展覧会(2026年11月6日 2:04)</title>
       <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
@@ -183,13 +194,6 @@
 &lt;p&gt;[2028/1/8〜2028/2/20] 写真と建築（仮称）&lt;br&gt;SOMPO美術館｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12904"&gt;https://www.artagenda.jp/exhibition/detail/12904&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[2028/1/15〜2028/4/9] 「古代中国・オリエントの美術」（仮）&lt;br&gt;永青文庫｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12877"&gt;https://www.artagenda.jp/exhibition/detail/12877&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[2028/3/4〜2028/5/21] 藤井達吉 自然への憧憬（仮称）&lt;br&gt;東京ステーションギャラリー｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12870"&gt;https://www.artagenda.jp/exhibition/detail/12870&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>アートアジェンダ 展覧会(取得開始 2026年10月24日)</title>
-      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
-      <guid isPermaLink="false">artagenda-20261024T055058Z</guid>
-      <pubDate>Sat, 24 Oct 2026 05:50:58 +0000</pubDate>
-      <description>&lt;p&gt;掲載中の464件を記録しました。次回の更新から、新しく掲載されたものだけをお届けします。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
