@@ -6,7 +6,24 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 06 Nov 2026 16:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 00:38:05 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月7日 9:38)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261107T003805Z</guid>
+      <pubDate>Sat, 07 Nov 2026 00:38:05 +0000</pubDate>
+      <description>&lt;p&gt;米ニューヨーク南部地区連邦検察局、SIでCEOや弁護士になりすまし企業から1億2900万ドル超を詐取した疑いで外国籍の3人を起訴&lt;br&gt;&lt;a href="https://www.justice.gov/usao-sdny/pr/three-foreign-nationals-arrested-and-charged-scheme-use-super-intelligence-defraud"&gt;https://www.justice.gov/usao-sdny/pr/three-foreign-nationals-arrested-and-charged-scheme-use-super-intelligence-defraud&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vals AIがInkling 2 Smallの2,655回の実行を分析。罵り語は長い実行の後半に偏るが失敗の予兆ではないと示した&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/inkling-2-small-swears"&gt;https://www.vals.ai/blogs/inkling-2-small-swears&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic、Claudeのメモリはその場のメモとログを振り返るdreamingの分業が有効と評価結果から考察&lt;br&gt;&lt;a href="https://www.anthropic.com/research/components-of-agent-memory"&gt;https://www.anthropic.com/research/components-of-agent-memory&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub、Copilot app をプロジェクトに合わせる4手段の使い分けを解説。まず規約1つをカスタム指示に書くよう勧めた&lt;br&gt;&lt;a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/"&gt;https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;University of Tübingenの研究者ら、科学モデリングでAIは単一モデルでなくモデルの分布と失敗した代替案を示すべきと主張&lt;br&gt;&lt;a href="https://www.anthropic.com/research/teaching-ai-to-build-scientific-models"&gt;https://www.anthropic.com/research/teaching-ai-to-build-scientific-models&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIがウェットラボ解析を測るBioBasicsBenchを公開。GPT‑6 Astraは66.7%でGPT‑5.6 Solを上回った&lt;br&gt;&lt;a href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"&gt;https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI が Hacktron と提携、第三者サービスとの連携部分を重点に自社システムの脆弱性を共同で検証&lt;br&gt;&lt;a href="https://openai.com/index/partnering-with-hacktron"&gt;https://openai.com/index/partnering-with-hacktron&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic Frontier Red Team、EVEでClaudeを検証。Fable 5で平均利益3倍、仲間の妨害は検出困難&lt;br&gt;&lt;a href="https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs"&gt;https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16z、AIでエクスプロイト作成が安価になる中、パッチ高速化では追いつけないと主張。パッチに頼らない防御で少なくとも6つの事業機会を提示&lt;br&gt;&lt;a href="https://a16z.com/defense-in-depth-rebuilt-for-machine-speed/"&gt;https://a16z.com/defense-in-depth-rebuilt-for-machine-speed/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、コード内のTODOによるエージェントの脱線を定量化。依頼外のバグ追跡でトークン77%増、待ち時間105%増&lt;br&gt;&lt;a href="https://developers.googleblog.com/agent-distraction/"&gt;https://developers.googleblog.com/agent-distraction/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenRouterがAuto Routerを刷新。コーディング特化のAuto CodeはClaude Opus 5.5と同水準でコスト74%減&lt;br&gt;&lt;a href="https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/"&gt;https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月7日 1:33)</title>
       <link>https://morningaiapp.com</link>
@@ -171,14 +188,6 @@
 &lt;p&gt;OpenAI、ChatGPTの暴力対策を強化し10代への武器情報を制限。Community Safety Reportを2027年初めに公開&lt;br&gt;&lt;a href="https://openai.com/index/community-safety-report-and-new-protections-for-teens"&gt;https://openai.com/index/community-safety-report-and-new-protections-for-teens&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Credit Saison、ChatGPT Enterprise のパイロットで ROI 954%。終了から1か月で全社導入を決めた&lt;br&gt;&lt;a href="https://openai.com/index/credit-saison"&gt;https://openai.com/index/credit-saison&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;a16z、AI時代の創業者像は「ソロ創業者が有利」のような新しい型に置き換えず、従来の前提のどれが本質的かを見直すべきと主張&lt;br&gt;&lt;a href="https://a16z.com/new-founder-archetypes-in-the-ai-age/"&gt;https://a16z.com/new-founder-archetypes-in-the-ai-age/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年10月31日 0:29)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261030T152920Z</guid>
-      <pubDate>Fri, 30 Oct 2026 15:29:20 +0000</pubDate>
-      <description>&lt;p&gt;Difyが「Dify Business Template Spotlight」を開始。掲載作品にProfessionalプラン1か月分&lt;br&gt;&lt;a href="https://dify.ai/blog/build-for-business-join-the-dify-solutions-template-spotlight"&gt;https://dify.ai/blog/build-for-business-join-the-dify-solutions-template-spotlight&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenRouter、Claude Codeの実セッション費用をモデル別に公開。Sonnet 5.5はOpus 5.5の約半分&lt;br&gt;&lt;a href="https://openrouter.ai/blog/insights/claude-code-cost/"&gt;https://openrouter.ai/blog/insights/claude-code-cost/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

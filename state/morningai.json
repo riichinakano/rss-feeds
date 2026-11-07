@@ -1,5 +1,16 @@
 {
   "seen": [
+    "https://www.justice.gov/usao-sdny/pr/three-foreign-nationals-arrested-and-charged-scheme-use-super-intelligence-defraud",
+    "https://www.vals.ai/blogs/inkling-2-small-swears",
+    "https://www.anthropic.com/research/components-of-agent-memory",
+    "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+    "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "https://openai.com/index/partnering-with-hacktron",
+    "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+    "https://a16z.com/defense-in-depth-rebuilt-for-machine-speed/",
+    "https://developers.googleblog.com/agent-distraction/",
+    "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/",
     "https://huggingface.co/blog/allenai/toyblocks",
     "https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop",
     "https://artificialanalysis.ai/articles/vials-aa",
@@ -199,6 +210,79 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261107T003805Z",
+      "title": "Morning AI(2026年11月7日 9:38)",
+      "date": "2026-11-07T00:38:05.867957+00:00",
+      "items": [
+        {
+          "title": "米ニューヨーク南部地区連邦検察局、SIでCEOや弁護士になりすまし企業から1億2900万ドル超を詐取した疑いで外国籍の3人を起訴",
+          "link": "https://www.justice.gov/usao-sdny/pr/three-foreign-nationals-arrested-and-charged-scheme-use-super-intelligence-defraud",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Vals AIがInkling 2 Smallの2,655回の実行を分析。罵り語は長い実行の後半に偏るが失敗の予兆ではないと示した",
+          "link": "https://www.vals.ai/blogs/inkling-2-small-swears",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic、Claudeのメモリはその場のメモとログを振り返るdreamingの分業が有効と評価結果から考察",
+          "link": "https://www.anthropic.com/research/components-of-agent-memory",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "GitHub、Copilot app をプロジェクトに合わせる4手段の使い分けを解説。まず規約1つをカスタム指示に書くよう勧めた",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "University of Tübingenの研究者ら、科学モデリングでAIは単一モデルでなくモデルの分布と失敗した代替案を示すべきと主張",
+          "link": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIがウェットラボ解析を測るBioBasicsBenchを公開。GPT‑6 Astraは66.7%でGPT‑5.6 Solを上回った",
+          "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI が Hacktron と提携、第三者サービスとの連携部分を重点に自社システムの脆弱性を共同で検証",
+          "link": "https://openai.com/index/partnering-with-hacktron",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic Frontier Red Team、EVEでClaudeを検証。Fable 5で平均利益3倍、仲間の妨害は検出困難",
+          "link": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16z、AIでエクスプロイト作成が安価になる中、パッチ高速化では追いつけないと主張。パッチに頼らない防御で少なくとも6つの事業機会を提示",
+          "link": "https://a16z.com/defense-in-depth-rebuilt-for-machine-speed/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、コード内のTODOによるエージェントの脱線を定量化。依頼外のバグ追跡でトークン77%増、待ち時間105%増",
+          "link": "https://developers.googleblog.com/agent-distraction/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenRouterがAuto Routerを刷新。コーディング特化のAuto CodeはClaude Opus 5.5と同水準でコスト74%減",
+          "link": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261106T163354Z",
       "title": "Morning AI(2026年11月7日 1:33)",
@@ -807,25 +891,6 @@
         {
           "title": "a16z、AI時代の創業者像は「ソロ創業者が有利」のような新しい型に置き換えず、従来の前提のどれが本質的かを見直すべきと主張",
           "link": "https://a16z.com/new-founder-archetypes-in-the-ai-age/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261030T152920Z",
-      "title": "Morning AI(2026年10月31日 0:29)",
-      "date": "2026-10-30T15:29:20.164709+00:00",
-      "items": [
-        {
-          "title": "Difyが「Dify Business Template Spotlight」を開始。掲載作品にProfessionalプラン1か月分",
-          "link": "https://dify.ai/blog/build-for-business-join-the-dify-solutions-template-spotlight",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenRouter、Claude Codeの実セッション費用をモデル別に公開。Sonnet 5.5はOpus 5.5の約半分",
-          "link": "https://openrouter.ai/blog/insights/claude-code-cost/",
           "label": null,
           "extra": []
         }
