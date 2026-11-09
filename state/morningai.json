@@ -1,5 +1,13 @@
 {
   "seen": [
+    "https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index",
+    "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+    "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "https://a16z.com/america-can-build-again-heres-how/",
+    "https://www.aboutamazon.com/news/aws/aws-health-impact-initiative-100-million-ai-cloud",
+    "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
+    "https://artificialanalysis.ai/articles/decision-index-v2",
     "https://www.justice.gov/usao-sdny/pr/three-foreign-nationals-arrested-and-charged-scheme-use-super-intelligence-defraud",
     "https://www.vals.ai/blogs/inkling-2-small-swears",
     "https://www.anthropic.com/research/components-of-agent-memory",
@@ -210,6 +218,61 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261109T192625Z",
+      "title": "Morning AI(2026年11月10日 4:26)",
+      "date": "2026-11-09T19:26:25.392018+00:00",
+      "items": [
+        {
+          "title": "Artificial Analysis、Meta の Muse Ember を評価。1タスク$0.14で同スコアの Claude Haiku 5.5 の約3分の1のコスト",
+          "link": "https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google AI StudioでGoogle Maps Platform活用アプリを作成可能に。1 APIあたり1日100回まで無料",
+          "link": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "ElithとNVIDIA、実顧客データ不要の金融AI向け合成データ「Nemotron-Personas-Finance-Japan」を公開",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16z、米国の建設停滞の原因は民主主義や環境保護でなくNEPAなどの手続きと主張し、議会に超党派の許認可改革を要求",
+          "link": "https://a16z.com/america-can-build-again-heres-how/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "AWSが「AWS Health Impact Initiative」を発表。医療格差に取り組む組織へ5年間で1億ドル分のAIとクラウドを提供",
+          "link": "https://www.aboutamazon.com/news/aws/aws-health-impact-initiative-100-million-ai-cloud",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "MoE刈り込みの新手法HOPE、エキスパート間の協調を考慮し50%刈り込みで平均順位が最良に。エージェント型コーディングで次点手法比最大+6.1%",
+          "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Gemini学習用の分散システムPathwaysをGoogle Cloudで一般提供。単一クライアントで学習全体を記述できる",
+          "link": "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Artificial Analysis、Decision Index v2を公開。私有データ比率45%、判断モデル上位3種は1ポイント差",
+          "link": "https://artificialanalysis.ai/articles/decision-index-v2",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261107T003805Z",
       "title": "Morning AI(2026年11月7日 9:38)",
@@ -824,73 +887,6 @@
         {
           "title": "OpenRouter、Agent SDKで常時稼働AIエージェントを自作する手順を公開。1回の実行コストは$0.0003〜$0.0012",
           "link": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261031T002303Z",
-      "title": "Morning AI(2026年10月31日 9:23)",
-      "date": "2026-10-31T00:23:03.306534+00:00",
-      "items": [
-        {
-          "title": "ClaudeがMaxプランを改称しMax 20xはUltraに。認証済みUltraアカウントの5時間制限を撤廃",
-          "link": "https://x.com/claudeai/status/2116220869479428500",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、New York Timesの訴訟に反論しAI訓練へのフェアユース適用を主張。米国政府などが支持の意見書を提出",
-          "link": "https://openai.com/index/fair-use-benefits-everyone",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "NVIDIA社員がNemotron Voice Agentで話すお化け屋敷MonsterHouseを製作。1台のワークステーションで動作",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、生成AI学習へのコンテンツ利用可否を示すrobots.txtの共通シグナルを尊重へ。複数のAI事業者に一度に意思表示できる",
-          "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Amazon CEOのAndy Jassy、AWSは前年比39.3%成長で6四半期連続の加速。CoreとAIの需要が互いを押し上げる構図を説明",
-          "link": "https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "AmazonのAndy Jassy CEO、Stores事業は過小評価されていると主張。小売の約80%が今も実店舗で、成長はまだ初期段階と強調",
-          "link": "https://www.aboutamazon.com/news/company-news/amazon-stores-growth-q3-2026-earnings",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Amazon CEOのAndy Jassy、自社チップ事業は前年比3桁%成長。GravitonとTrainiumの受注額はともに前年比20倍超",
-          "link": "https://www.aboutamazon.com/news/company-news/amazon-custom-chips-demand-q3-2026-earnings",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、ChatGPTの暴力対策を強化し10代への武器情報を制限。Community Safety Reportを2027年初めに公開",
-          "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Credit Saison、ChatGPT Enterprise のパイロットで ROI 954%。終了から1か月で全社導入を決めた",
-          "link": "https://openai.com/index/credit-saison",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "a16z、AI時代の創業者像は「ソロ創業者が有利」のような新しい型に置き換えず、従来の前提のどれが本質的かを見直すべきと主張",
-          "link": "https://a16z.com/new-founder-archetypes-in-the-ai-age/",
           "label": null,
           "extra": []
         }

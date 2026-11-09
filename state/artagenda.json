@@ -1,5 +1,8 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12738",
+    "https://www.artagenda.jp/exhibition/detail/12964",
+    "https://www.artagenda.jp/exhibition/detail/12967",
     "https://www.artagenda.jp/exhibition/detail/11591",
     "https://www.artagenda.jp/exhibition/detail/12735",
     "https://www.artagenda.jp/exhibition/detail/12559",
@@ -30,7 +33,6 @@
     "https://www.artagenda.jp/exhibition/detail/12816",
     "https://www.artagenda.jp/exhibition/detail/12558",
     "https://www.artagenda.jp/exhibition/detail/12396",
-    "https://www.artagenda.jp/exhibition/detail/12897",
     "https://www.artagenda.jp/exhibition/detail/11618",
     "https://www.artagenda.jp/exhibition/detail/11691",
     "https://www.artagenda.jp/exhibition/detail/11932",
@@ -101,7 +103,6 @@
     "https://www.artagenda.jp/exhibition/detail/12512",
     "https://www.artagenda.jp/exhibition/detail/11502",
     "https://www.artagenda.jp/exhibition/detail/11501",
-    "https://www.artagenda.jp/exhibition/detail/12710",
     "https://www.artagenda.jp/exhibition/detail/12657",
     "https://www.artagenda.jp/exhibition/detail/12139",
     "https://www.artagenda.jp/exhibition/detail/12264",
@@ -133,7 +134,6 @@
     "https://www.artagenda.jp/exhibition/detail/12904",
     "https://www.artagenda.jp/exhibition/detail/12899",
     "https://www.artagenda.jp/exhibition/detail/12896",
-    "https://www.artagenda.jp/exhibition/detail/12827",
     "https://www.artagenda.jp/exhibition/detail/12218",
     "https://www.artagenda.jp/exhibition/detail/12642",
     "https://www.artagenda.jp/exhibition/detail/12392",
@@ -386,7 +386,6 @@
     "https://www.artagenda.jp/exhibition/detail/12789",
     "https://www.artagenda.jp/exhibition/detail/12779",
     "https://www.artagenda.jp/exhibition/detail/12737",
-    "https://www.artagenda.jp/exhibition/detail/12738",
     "https://www.artagenda.jp/exhibition/detail/12740",
     "https://www.artagenda.jp/exhibition/detail/12741",
     "https://www.artagenda.jp/exhibition/detail/12756",
@@ -463,6 +462,9 @@
     "https://www.artagenda.jp/exhibition/detail/4734",
     "https://www.artagenda.jp/exhibition/detail/3960",
     "https://www.artagenda.jp/exhibition/detail/4402",
+    "https://www.artagenda.jp/exhibition/detail/12897",
+    "https://www.artagenda.jp/exhibition/detail/12710",
+    "https://www.artagenda.jp/exhibition/detail/12827",
     "https://www.artagenda.jp/exhibition/detail/12841",
     "https://www.artagenda.jp/exhibition/detail/12431",
     "https://www.artagenda.jp/exhibition/detail/11544",
@@ -497,11 +499,32 @@
     "https://www.artagenda.jp/exhibition/detail/12754",
     "https://www.artagenda.jp/exhibition/detail/12554",
     "https://www.artagenda.jp/exhibition/detail/12287",
-    "https://www.artagenda.jp/exhibition/detail/12311",
-    "https://www.artagenda.jp/exhibition/detail/12683",
-    "https://www.artagenda.jp/exhibition/detail/12231"
+    "https://www.artagenda.jp/exhibition/detail/12311"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261109T192830Z",
+      "title": "アートアジェンダ 展覧会(2026年11月10日 4:28)",
+      "date": "2026-11-09T19:28:30.581831+00:00",
+      "items": [
+        {
+          "title": "第73回日本伝統工芸展",
+          "link": "https://www.artagenda.jp/exhibition/detail/12967",
+          "label": "12/2〜12/25",
+          "extra": [
+            "島根県立美術館｜島根県"
+          ]
+        },
+        {
+          "title": "世界遺産の歩き方展",
+          "link": "https://www.artagenda.jp/exhibition/detail/12964",
+          "label": "2027/3/6〜2027/5/16",
+          "extra": [
+            "寺田倉庫G1ビル｜東京都"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261108T154600Z",
       "title": "アートアジェンダ 展覧会(2026年11月9日 0:46)",
@@ -893,53 +916,6 @@
           "label": "2027/12/18〜2028/4/9",
           "extra": [
             "丸亀市猪熊弦一郎現代美術館｜香川県"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261025T133353Z",
-      "title": "アートアジェンダ 展覧会(2026年10月25日 22:33)",
-      "date": "2026-10-25T13:33:53.655141+00:00",
-      "items": [
-        {
-          "title": "いま、私は現代アートと出会う",
-          "link": "https://www.artagenda.jp/exhibition/detail/12288",
-          "label": "11/14〜2027/1/24",
-          "extra": [
-            "宮城県美術館｜宮城県"
-          ]
-        },
-        {
-          "title": "日本のやきもの ―京焼と古伊万里、茶道具の美",
-          "link": "https://www.artagenda.jp/exhibition/detail/12887",
-          "label": "2027/4/10〜2027/6/27",
-          "extra": [
-            "静嘉堂文庫美術館（静嘉堂＠丸の内）｜東京都"
-          ]
-        },
-        {
-          "title": "みやこのかたな ―京物と大和物の系譜",
-          "link": "https://www.artagenda.jp/exhibition/detail/12888",
-          "label": "2027/7/10〜2027/9/26",
-          "extra": [
-            "静嘉堂文庫美術館（静嘉堂＠丸の内）｜東京都"
-          ]
-        },
-        {
-          "title": "静嘉堂＠丸の内 5周年記念展 美の福音 ―幻の名作、山本芳翠《天女》《十二支》一挙公開",
-          "link": "https://www.artagenda.jp/exhibition/detail/12889",
-          "label": "2027/10/9〜2028/1/10",
-          "extra": [
-            "静嘉堂文庫美術館（静嘉堂＠丸の内）｜東京都"
-          ]
-        },
-        {
-          "title": "ちいさきものは、みなうつくし ―岩﨑家のお雛さまとミニチュアの世界",
-          "link": "https://www.artagenda.jp/exhibition/detail/12890",
-          "label": "2028/1/22〜2029/3/20",
-          "extra": [
-            "静嘉堂文庫美術館（静嘉堂＠丸の内）｜東京都"
           ]
         }
       ]
