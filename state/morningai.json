@@ -1,5 +1,19 @@
 {
   "seen": [
+    "https://openai.com/index/control-room",
+    "https://blog.box.com/text-to-hybrid-search",
+    "https://openai.com/index/coderabbit-codex-daybreak",
+    "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+    "https://claude.dev/blog/which-claude-model-should-you-build-with/",
+    "https://developers.openai.com/blog/build-a-game-with-modretro-chromatic",
+    "https://www.anthropic.com/research/claude-electronics-design",
+    "https://openai.com/index/kuken",
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+    "https://blog.box.com/claude-fable-52-brings-sharper-judgment-messy-enterprise-data",
+    "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
     "https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index",
     "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
     "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
@@ -218,6 +232,97 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261110T031014Z",
+      "title": "Morning AI(2026年11月10日 12:10)",
+      "date": "2026-11-10T03:10:14.180662+00:00",
+      "items": [
+        {
+          "title": "OpenAI、研究インフラ上のモデル出力を35秒以内に止められる中央システム「Control Room」を導入",
+          "link": "https://openai.com/index/control-room",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Box、企業コンテンツのAI検索にはハイブリッド検索が適すると解説。Box Context Retrievalは既存の権限を守って適用",
+          "link": "https://blog.box.com/text-to-hybrid-search",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "CodeRabbit、Codexでエンジニアを増やさず出荷ソフトウェアを約20倍に。OpenAIモデルでAI生成コードの検証を拡大",
+          "link": "https://openai.com/index/coderabbit-codex-daybreak",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google Research、世界の言語の多様性を可視化するWebツール「Language Explorer」を公開。ベルリンの博物館で展示",
+          "link": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "claude.dev、Claudeのモデル選択指針を公開。まずOpus 5.5のmediumで始め、最難関の作業はFable 5.2を推奨",
+          "link": "https://claude.dev/blog/which-claude-model-should-you-build-with/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Codex向けModRetro Chromaticプラグイン、プロンプトで作ったGame Boy Colorゲームを実機で遊べる",
+          "link": "https://developers.openai.com/blog/build-a-game-with-modretro-chromatic",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic、Claude Fable 5.2に電子機器3種を設計させ回路の修正なしで動く試作機を製作。PCB Gymで69%",
+          "link": "https://www.anthropic.com/research/claude-electronics-design",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Kuken Industries、OpenAI APIで70年分の図面を検索。交換部品の図面探しが約1時間から4.5分に短縮",
+          "link": "https://openai.com/index/kuken",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、第8世代TPUに機密推論向け「TPU 8tx」と巨大コンテキスト向け「TPU 8i Max」を追加",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、ChatGPT EnterpriseをAWS Marketplaceで提供開始。対象支出をAWSのコミットメントに充当できる",
+          "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Meta、成人の誕生日で登録した10代をAIで見つけてTeen Accountの保護下に置く技術をInstagramで全世界に拡大",
+          "link": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Box、Claude Fable 5.2を自社評価で検証。元データの読み方の判断が改善し、公共部門のスコアは81%から92%に上昇",
+          "link": "https://blog.box.com/claude-fable-52-brings-sharper-judgment-messy-enterprise-data",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic、Opus 5.5をほぼ全能力で上回るClaude Fable 5.2とMythos 5.2を公開",
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Claude Fable 5.2初期版で動く1,000体のエージェント、専用基盤なしでフェルマーの最終定理の形式化を再現",
+          "link": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261109T192625Z",
       "title": "Morning AI(2026年11月10日 4:26)",
@@ -874,19 +979,6 @@
         {
           "title": "OpenRouter、Linuxサンドボックスでバグを実行確認するAIコードレビュアーの作り方を解説。1回$0.015〜$0.045",
           "link": "https://openrouter.ai/blog/tutorials/ai-code-review/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261031T145752Z",
-      "title": "Morning AI(2026年10月31日 23:57)",
-      "date": "2026-10-31T14:57:52.636410+00:00",
-      "items": [
-        {
-          "title": "OpenRouter、Agent SDKで常時稼働AIエージェントを自作する手順を公開。1回の実行コストは$0.0003〜$0.0012",
-          "link": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/",
           "label": null,
           "extra": []
         }

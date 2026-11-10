@@ -6,7 +6,27 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 09 Nov 2026 19:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:10:14 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月10日 12:10)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261110T031014Z</guid>
+      <pubDate>Tue, 10 Nov 2026 03:10:14 +0000</pubDate>
+      <description>&lt;p&gt;OpenAI、研究インフラ上のモデル出力を35秒以内に止められる中央システム「Control Room」を導入&lt;br&gt;&lt;a href="https://openai.com/index/control-room"&gt;https://openai.com/index/control-room&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Box、企業コンテンツのAI検索にはハイブリッド検索が適すると解説。Box Context Retrievalは既存の権限を守って適用&lt;br&gt;&lt;a href="https://blog.box.com/text-to-hybrid-search"&gt;https://blog.box.com/text-to-hybrid-search&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CodeRabbit、Codexでエンジニアを増やさず出荷ソフトウェアを約20倍に。OpenAIモデルでAI生成コードの検証を拡大&lt;br&gt;&lt;a href="https://openai.com/index/coderabbit-codex-daybreak"&gt;https://openai.com/index/coderabbit-codex-daybreak&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google Research、世界の言語の多様性を可視化するWebツール「Language Explorer」を公開。ベルリンの博物館で展示&lt;br&gt;&lt;a href="https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/"&gt;https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;claude.dev、Claudeのモデル選択指針を公開。まずOpus 5.5のmediumで始め、最難関の作業はFable 5.2を推奨&lt;br&gt;&lt;a href="https://claude.dev/blog/which-claude-model-should-you-build-with/"&gt;https://claude.dev/blog/which-claude-model-should-you-build-with/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Codex向けModRetro Chromaticプラグイン、プロンプトで作ったGame Boy Colorゲームを実機で遊べる&lt;br&gt;&lt;a href="https://developers.openai.com/blog/build-a-game-with-modretro-chromatic"&gt;https://developers.openai.com/blog/build-a-game-with-modretro-chromatic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic、Claude Fable 5.2に電子機器3種を設計させ回路の修正なしで動く試作機を製作。PCB Gymで69%&lt;br&gt;&lt;a href="https://www.anthropic.com/research/claude-electronics-design"&gt;https://www.anthropic.com/research/claude-electronics-design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kuken Industries、OpenAI APIで70年分の図面を検索。交換部品の図面探しが約1時間から4.5分に短縮&lt;br&gt;&lt;a href="https://openai.com/index/kuken"&gt;https://openai.com/index/kuken&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、第8世代TPUに機密推論向け「TPU 8tx」と巨大コンテキスト向け「TPU 8i Max」を追加&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"&gt;https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、ChatGPT EnterpriseをAWS Marketplaceで提供開始。対象支出をAWSのコミットメントに充当できる&lt;br&gt;&lt;a href="https://openai.com/index/chatgpt-enterprise-aws-marketplace"&gt;https://openai.com/index/chatgpt-enterprise-aws-marketplace&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meta、成人の誕生日で登録した10代をAIで見つけてTeen Accountの保護下に置く技術をInstagramで全世界に拡大&lt;br&gt;&lt;a href="https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/"&gt;https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Box、Claude Fable 5.2を自社評価で検証。元データの読み方の判断が改善し、公共部門のスコアは81%から92%に上昇&lt;br&gt;&lt;a href="https://blog.box.com/claude-fable-52-brings-sharper-judgment-messy-enterprise-data"&gt;https://blog.box.com/claude-fable-52-brings-sharper-judgment-messy-enterprise-data&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic、Opus 5.5をほぼ全能力で上回るClaude Fable 5.2とMythos 5.2を公開&lt;br&gt;&lt;a href="https://www.anthropic.com/claude-fable-and-mythos-5-2"&gt;https://www.anthropic.com/claude-fable-and-mythos-5-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude Fable 5.2初期版で動く1,000体のエージェント、専用基盤なしでフェルマーの最終定理の形式化を再現&lt;br&gt;&lt;a href="https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/"&gt;https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月10日 4:26)</title>
       <link>https://morningaiapp.com</link>
@@ -179,13 +199,6 @@
       <pubDate>Sun, 01 Nov 2026 15:42:40 +0000</pubDate>
       <description>&lt;p&gt;Cursor の拡張マーケットプレイスで改ざん版 Claude Code 拡張 2.1.312／2.1.313 が配布。SSH バックドアの設置を試みる&lt;br&gt;&lt;a href="https://cursor.com/blog/claude-code-extension-security-notice"&gt;https://cursor.com/blog/claude-code-extension-security-notice&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;OpenRouter、Linuxサンドボックスでバグを実行確認するAIコードレビュアーの作り方を解説。1回$0.015〜$0.045&lt;br&gt;&lt;a href="https://openrouter.ai/blog/tutorials/ai-code-review/"&gt;https://openrouter.ai/blog/tutorials/ai-code-review/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年10月31日 23:57)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261031T145752Z</guid>
-      <pubDate>Sat, 31 Oct 2026 14:57:52 +0000</pubDate>
-      <description>&lt;p&gt;OpenRouter、Agent SDKで常時稼働AIエージェントを自作する手順を公開。1回の実行コストは$0.0003〜$0.0012&lt;br&gt;&lt;a href="https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/"&gt;https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
