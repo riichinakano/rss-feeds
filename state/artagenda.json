@@ -1,5 +1,8 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12914",
+    "https://www.artagenda.jp/exhibition/detail/12965",
+    "https://www.artagenda.jp/exhibition/detail/11951",
     "https://www.artagenda.jp/exhibition/detail/12738",
     "https://www.artagenda.jp/exhibition/detail/12964",
     "https://www.artagenda.jp/exhibition/detail/12967",
@@ -147,7 +150,6 @@
     "https://www.artagenda.jp/exhibition/detail/12844",
     "https://www.artagenda.jp/exhibition/detail/11864",
     "https://www.artagenda.jp/exhibition/detail/12806",
-    "https://www.artagenda.jp/exhibition/detail/11951",
     "https://www.artagenda.jp/exhibition/detail/12795",
     "https://www.artagenda.jp/exhibition/detail/12742",
     "https://www.artagenda.jp/exhibition/detail/12577",
@@ -497,11 +499,32 @@
     "https://www.artagenda.jp/exhibition/detail/12602",
     "https://www.artagenda.jp/exhibition/detail/12601",
     "https://www.artagenda.jp/exhibition/detail/12754",
-    "https://www.artagenda.jp/exhibition/detail/12554",
-    "https://www.artagenda.jp/exhibition/detail/12287",
-    "https://www.artagenda.jp/exhibition/detail/12311"
+    "https://www.artagenda.jp/exhibition/detail/12554"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261110T164645Z",
+      "title": "アートアジェンダ 展覧会(2026年11月11日 1:46)",
+      "date": "2026-11-10T16:46:45.110857+00:00",
+      "items": [
+        {
+          "title": "開館50周年記念プレ企画 コレクション2：歴史化する現代",
+          "link": "https://www.artagenda.jp/exhibition/detail/12965",
+          "label": "12/1〜2027/3/22",
+          "extra": [
+            "国立国際美術館｜大阪府"
+          ]
+        },
+        {
+          "title": "特別展 現代美術における墨表現 －墨と和紙の世界：町田久美・浅見貴子・新恵美佐子・荒井…",
+          "link": "https://www.artagenda.jp/exhibition/detail/12914",
+          "label": "2027/1/16〜2027/3/14",
+          "extra": [
+            "奈良県立美術館｜奈良県"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261109T192830Z",
       "title": "アートアジェンダ 展覧会(2026年11月10日 4:28)",
@@ -861,61 +884,6 @@
           "label": "2027/2/20〜2027/5/30",
           "extra": [
             "東京都現代美術館｜東京都"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261026T154824Z",
-      "title": "アートアジェンダ 展覧会(2026年10月27日 0:48)",
-      "date": "2026-10-26T15:48:24.316399+00:00",
-      "items": [
-        {
-          "title": "Osaka Directory 14 Supported by RICHARD MILLE 迫 鉄平",
-          "link": "https://www.artagenda.jp/exhibition/detail/12921",
-          "label": "12/19〜2027/1/17",
-          "extra": [
-            "大阪中之島美術館｜大阪府"
-          ]
-        },
-        {
-          "title": "第2回 MIMOCA EYE / ミモカアイ",
-          "link": "https://www.artagenda.jp/exhibition/detail/12926",
-          "label": "2027/4/24〜2027/7/19",
-          "extra": [
-            "丸亀市猪熊弦一郎現代美術館｜香川県"
-          ]
-        },
-        {
-          "title": "奥山由之展 大いなる矛盾／視線の行き交い",
-          "link": "https://www.artagenda.jp/exhibition/detail/12927",
-          "label": "2027/8/7〜2027/12/5",
-          "extra": [
-            "丸亀市猪熊弦一郎現代美術館｜香川県"
-          ]
-        },
-        {
-          "title": "パウル・クレー あいだの世界",
-          "link": "https://www.artagenda.jp/exhibition/detail/12923",
-          "label": "2027/9/11〜2027/12/26",
-          "extra": [
-            "国立国際美術館｜大阪府"
-          ]
-        },
-        {
-          "title": "中田真裕展（仮）",
-          "link": "https://www.artagenda.jp/exhibition/detail/12928",
-          "label": "2027/12/18〜2028/4/9",
-          "extra": [
-            "丸亀市猪熊弦一郎現代美術館｜香川県"
-          ]
-        },
-        {
-          "title": "猪熊弦一郎と猫",
-          "link": "https://www.artagenda.jp/exhibition/detail/12929",
-          "label": "2027/12/18〜2028/4/9",
-          "extra": [
-            "丸亀市猪熊弦一郎現代美術館｜香川県"
           ]
         }
       ]

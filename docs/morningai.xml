@@ -6,7 +6,26 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Nov 2026 03:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:44:39 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月11日 1:44)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261110T164439Z</guid>
+      <pubDate>Tue, 10 Nov 2026 16:44:39 +0000</pubDate>
+      <description>&lt;p&gt;Google、サイバーセキュリティと長時間のエージェント作業に強いGemini 4 Carbonを一般提供。価格はArgonと同じ&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"&gt;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、視覚的に複雑な知識労働でエージェントを測るベンチマークMKAを公開。Gemini 4 Carbonは品質2位&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/"&gt;https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google DeepMindが最強モデル「Gemini 4 Carbon」を一般提供。導入価格はArgonと同じ入力100万トークンあたり$2&lt;br&gt;&lt;a href="https://deepmind.google/blog/gemini-4-carbon-is-now-available/"&gt;https://deepmind.google/blog/gemini-4-carbon-is-now-available/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、選択肢の確率を返すdecision modelの共通APIを整備。Transformersとllama.cppが対応&lt;br&gt;&lt;a href="https://huggingface.co/blog/decision"&gt;https://huggingface.co/blog/decision&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CodeRabbit、Deep Scan にマルチリポジトリ分析を組み込み。IaC など関連リポジトリを参照し検出結果の条件まで調査できる&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/multi-repository-security-analysis-with-coderabbit-secure"&gt;https://www.coderabbit.ai/ja/blog/multi-repository-security-analysis-with-coderabbit-secure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIとUpworkの共同研究、AIはフリーランスの仕事を単純には置き換えず、AI関連求人のタスク構成は45%多様化&lt;br&gt;&lt;a href="https://openai.com/index/ai-effect-on-freelance-work"&gt;https://openai.com/index/ai-effect-on-freelance-work&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DeepMindがGemini Robotics 2.5を発表。Mercedes-Benz工場で部品キッティング成功率96%&lt;br&gt;&lt;a href="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"&gt;https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ringが屋内飛行カメラRing Drone Camと事業者向け巡回ロボットRing Rover Camを発表、自律移動型セキュリティに参入&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot"&gt;https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GoogleがAdobeとの提携を拡大。Google DriveやGmailからAdobe Acrobatへ直接移れる導線を用意&lt;br&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"&gt;https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI Academy、米国5都市で介護者向けの無料ChatGPTワークショップを対面開催。スケジュール整理や支援探しへの活用を学べる&lt;br&gt;&lt;a href="https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"&gt;https://openai.com/index/helping-caregivers-use-ai-in-everyday-life&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic、Nasdaq上場に向けIPOロードショーを開始。想定価格は1株70.00〜78.00ドル&lt;br&gt;&lt;a href="https://www.anthropic.com/news/roadshow-launch"&gt;https://www.anthropic.com/news/roadshow-launch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google DeepMind、「AlphaProof Code」でSignalプロトコルの実装コードを4週間で形式検証&lt;br&gt;&lt;a href="https://deepmind.google/blog/introducing-alphaproof-code/"&gt;https://deepmind.google/blog/introducing-alphaproof-code/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、教育のAIガイダンス格差を埋める提言レポートを公開。宿題にAIを使う生徒79%に対し使い方を教わったのは47%&lt;br&gt;&lt;a href="https://openai.com/index/closing-ai-guidance-gap-education"&gt;https://openai.com/index/closing-ai-guidance-gap-education&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月10日 12:10)</title>
       <link>https://morningaiapp.com</link>
@@ -191,14 +210,6 @@
       <pubDate>Mon, 02 Nov 2026 00:15:32 +0000</pubDate>
       <description>&lt;p&gt;ChatGPTのグラフとPreview機能の連鎖で、共有リンクを開くだけでアカウントを乗っ取れる脆弱性。OpenAIが修正した&lt;br&gt;&lt;a href="https://www.parameter.ai/labs/we-found-a-gap-at-openai"&gt;https://www.parameter.ai/labs/we-found-a-gap-at-openai&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;DeepSeek、研究用プロトタイプ「dsh-superagent」を公開。依頼かチームのルールで許された時だけ動くコーディングエージェント&lt;br&gt;&lt;a href="https://github.com/deepseek-ai/dsh-superagent-prototype/"&gt;https://github.com/deepseek-ai/dsh-superagent-prototype/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月2日 0:42)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261101T154240Z</guid>
-      <pubDate>Sun, 01 Nov 2026 15:42:40 +0000</pubDate>
-      <description>&lt;p&gt;Cursor の拡張マーケットプレイスで改ざん版 Claude Code 拡張 2.1.312／2.1.313 が配布。SSH バックドアの設置を試みる&lt;br&gt;&lt;a href="https://cursor.com/blog/claude-code-extension-security-notice"&gt;https://cursor.com/blog/claude-code-extension-security-notice&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenRouter、Linuxサンドボックスでバグを実行確認するAIコードレビュアーの作り方を解説。1回$0.015〜$0.045&lt;br&gt;&lt;a href="https://openrouter.ai/blog/tutorials/ai-code-review/"&gt;https://openrouter.ai/blog/tutorials/ai-code-review/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
