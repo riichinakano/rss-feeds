@@ -1,5 +1,10 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/11921",
+    "https://www.artagenda.jp/exhibition/detail/12853",
+    "https://www.artagenda.jp/exhibition/detail/11734",
+    "https://www.artagenda.jp/exhibition/detail/12204",
+    "https://www.artagenda.jp/exhibition/detail/12971",
     "https://www.artagenda.jp/exhibition/detail/12914",
     "https://www.artagenda.jp/exhibition/detail/12965",
     "https://www.artagenda.jp/exhibition/detail/11951",
@@ -275,7 +280,6 @@
     "https://www.artagenda.jp/exhibition/detail/12292",
     "https://www.artagenda.jp/exhibition/detail/12694",
     "https://www.artagenda.jp/exhibition/detail/12695",
-    "https://www.artagenda.jp/exhibition/detail/12853",
     "https://www.artagenda.jp/exhibition/detail/11997",
     "https://www.artagenda.jp/exhibition/detail/12851",
     "https://www.artagenda.jp/exhibition/detail/12854",
@@ -360,7 +364,6 @@
     "https://www.artagenda.jp/exhibition/detail/12223",
     "https://www.artagenda.jp/exhibition/detail/12752",
     "https://www.artagenda.jp/exhibition/detail/12532",
-    "https://www.artagenda.jp/exhibition/detail/11921",
     "https://www.artagenda.jp/exhibition/detail/11909",
     "https://www.artagenda.jp/exhibition/detail/12721",
     "https://www.artagenda.jp/exhibition/detail/11520",
@@ -401,9 +404,6 @@
     "https://www.artagenda.jp/exhibition/detail/12413",
     "https://www.artagenda.jp/exhibition/detail/12663",
     "https://www.artagenda.jp/exhibition/detail/12661",
-    "https://www.artagenda.jp/exhibition/detail/12183",
-    "https://www.artagenda.jp/exhibition/detail/12182",
-    "https://www.artagenda.jp/exhibition/detail/12181",
     "https://www.artagenda.jp/exhibition/detail/12706",
     "https://www.artagenda.jp/exhibition/detail/12610",
     "https://www.artagenda.jp/exhibition/detail/12700",
@@ -464,6 +464,9 @@
     "https://www.artagenda.jp/exhibition/detail/4734",
     "https://www.artagenda.jp/exhibition/detail/3960",
     "https://www.artagenda.jp/exhibition/detail/4402",
+    "https://www.artagenda.jp/exhibition/detail/12183",
+    "https://www.artagenda.jp/exhibition/detail/12182",
+    "https://www.artagenda.jp/exhibition/detail/12181",
     "https://www.artagenda.jp/exhibition/detail/12897",
     "https://www.artagenda.jp/exhibition/detail/12710",
     "https://www.artagenda.jp/exhibition/detail/12827",
@@ -496,12 +499,40 @@
     "https://www.artagenda.jp/exhibition/detail/12655",
     "https://www.artagenda.jp/exhibition/detail/11738",
     "https://www.artagenda.jp/exhibition/detail/12730",
-    "https://www.artagenda.jp/exhibition/detail/12602",
-    "https://www.artagenda.jp/exhibition/detail/12601",
-    "https://www.artagenda.jp/exhibition/detail/12754",
-    "https://www.artagenda.jp/exhibition/detail/12554"
+    "https://www.artagenda.jp/exhibition/detail/12602"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261111T165303Z",
+      "title": "アートアジェンダ 展覧会(2026年11月12日 1:53)",
+      "date": "2026-11-11T16:53:03.525600+00:00",
+      "items": [
+        {
+          "title": "100点のアートクレヨン画展2026",
+          "link": "https://www.artagenda.jp/exhibition/detail/12971",
+          "label": "11/22〜12/2",
+          "extra": [
+            "日比谷OKUROJI｜東京都"
+          ]
+        },
+        {
+          "title": "所蔵品展 慈愛の心Ⅳ～ 捨 ～",
+          "link": "https://www.artagenda.jp/exhibition/detail/12204",
+          "label": "12/1〜2027/1/11",
+          "extra": [
+            "浜松市秋野不矩美術館｜静岡県"
+          ]
+        },
+        {
+          "title": "マリメッコ展 模様のちから Marimekko: Art of Printmaking ーBeauty, Dream, Love",
+          "link": "https://www.artagenda.jp/exhibition/detail/11734",
+          "label": "2027/1/30〜2027/3/28",
+          "extra": [
+            "ひろしま美術館｜広島県"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261110T164645Z",
       "title": "アートアジェンダ 展覧会(2026年11月11日 1:46)",
@@ -853,37 +884,6 @@
           "label": "11/14〜2027/1/17",
           "extra": [
             "うらわ美術館｜埼玉県"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261027T150729Z",
-      "title": "アートアジェンダ 展覧会(2026年10月28日 0:07)",
-      "date": "2026-10-27T15:07:29.184327+00:00",
-      "items": [
-        {
-          "title": "ヘンリー・ムーア展 －彫刻の森美術館所蔵作品による－",
-          "link": "https://www.artagenda.jp/exhibition/detail/12299",
-          "label": "11/21〜12/13",
-          "extra": [
-            "岩手県立美術館｜岩手県"
-          ]
-        },
-        {
-          "title": "恩地孝四郎と創作版画の作家たち",
-          "link": "https://www.artagenda.jp/exhibition/detail/12916",
-          "label": "11/27〜2027/2/23",
-          "extra": [
-            "町田市立国際版画美術館｜東京都"
-          ]
-        },
-        {
-          "title": "MOTアニュアル2027 身を通す",
-          "link": "https://www.artagenda.jp/exhibition/detail/11614",
-          "label": "2027/2/20〜2027/5/30",
-          "extra": [
-            "東京都現代美術館｜東京都"
           ]
         }
       ]

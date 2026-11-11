@@ -6,7 +6,16 @@
     <description>アートアジェンダ 展覧会 の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/artagenda.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Nov 2026 16:46:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:53:03 +0000</lastBuildDate>
+    <item>
+      <title>アートアジェンダ 展覧会(2026年11月12日 1:53)</title>
+      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
+      <guid isPermaLink="false">artagenda-20261111T165303Z</guid>
+      <pubDate>Wed, 11 Nov 2026 16:53:03 +0000</pubDate>
+      <description>&lt;p&gt;[11/22〜12/2] 100点のアートクレヨン画展2026&lt;br&gt;日比谷OKUROJI｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12971"&gt;https://www.artagenda.jp/exhibition/detail/12971&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[12/1〜2027/1/11] 所蔵品展 慈愛の心Ⅳ～ 捨 ～&lt;br&gt;浜松市秋野不矩美術館｜静岡県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12204"&gt;https://www.artagenda.jp/exhibition/detail/12204&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2027/1/30〜2027/3/28] マリメッコ展 模様のちから Marimekko: Art of Printmaking ーBeauty, Dream, Love&lt;br&gt;ひろしま美術館｜広島県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/11734"&gt;https://www.artagenda.jp/exhibition/detail/11734&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>アートアジェンダ 展覧会(2026年11月11日 1:46)</title>
       <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
@@ -117,15 +126,6 @@
       <pubDate>Wed, 28 Oct 2026 15:43:04 +0000</pubDate>
       <description>&lt;p&gt;[11/7〜12/13] 2026イタリア・ボローニャ国際絵本原画展&lt;br&gt;石川県七尾美術館｜石川県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12370"&gt;https://www.artagenda.jp/exhibition/detail/12370&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[11/14〜2027/1/17] エコーズ・ビトゥイーン：日本・ドイツ・スイスのアーティストによるブック・アートという実…&lt;br&gt;うらわ美術館｜埼玉県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12592"&gt;https://www.artagenda.jp/exhibition/detail/12592&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>アートアジェンダ 展覧会(2026年10月28日 0:07)</title>
-      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
-      <guid isPermaLink="false">artagenda-20261027T150729Z</guid>
-      <pubDate>Tue, 27 Oct 2026 15:07:29 +0000</pubDate>
-      <description>&lt;p&gt;[11/21〜12/13] ヘンリー・ムーア展 －彫刻の森美術館所蔵作品による－&lt;br&gt;岩手県立美術館｜岩手県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12299"&gt;https://www.artagenda.jp/exhibition/detail/12299&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[11/27〜2027/2/23] 恩地孝四郎と創作版画の作家たち&lt;br&gt;町田市立国際版画美術館｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12916"&gt;https://www.artagenda.jp/exhibition/detail/12916&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2027/2/20〜2027/5/30] MOTアニュアル2027 身を通す&lt;br&gt;東京都現代美術館｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/11614"&gt;https://www.artagenda.jp/exhibition/detail/11614&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

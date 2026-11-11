@@ -6,7 +6,22 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Nov 2026 01:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:50:59 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月12日 1:50)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261111T165059Z</guid>
+      <pubDate>Wed, 11 Nov 2026 16:50:59 +0000</pubDate>
+      <description>&lt;p&gt;AWSがチリ初のリージョン「AWS South America (Chile)」を一部顧客向けに開設。データを国内に置き規制要件に対応できる&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/aws/aws-south-america-chile-region-launch"&gt;https://www.aboutamazon.com/news/aws/aws-south-america-chile-region-launch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google Labs、グループで旅行の行程表や割り勘ツールを作れる実験的ツール「Tabletop」を米国でウェイトリスト提供&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"&gt;https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、Sentence Transformersでトークンプーリング対応学習を解説。文書ベクトル4分の1で性能保持率97.8%&lt;br&gt;&lt;a href="https://huggingface.co/blog/token-pooling"&gt;https://huggingface.co/blog/token-pooling&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DeepMind、細胞型ごとにDNA変異の影響を予測するAlphaGenome 2を発表。遺伝子発現を変える変異の検出数は従来モデルの約2倍&lt;br&gt;&lt;a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"&gt;https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sakana AI、元NSA長官のロジャース氏と元CIA支局長のモラン氏がシニアアドバイザーに就任。防衛とサイバーセキュリティの強化を助言&lt;br&gt;&lt;a href="https://sakana.ai/michael-tom/"&gt;https://sakana.ai/michael-tom/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIが退役軍人らに1年間無料で提供するChatGPT Plus、過去1年で20,000人超が取得。求職や面接準備に活用&lt;br&gt;&lt;a href="https://openai.com/index/chatgpt-plus-for-veterans"&gt;https://openai.com/index/chatgpt-plus-for-veterans&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tether AI Research、端末上で動く0.8BのエージェントモデルBotPsyを発表。1.2B以下で最高のツール利用性能&lt;br&gt;&lt;a href="https://huggingface.co/blog/qvac/botpsy"&gt;https://huggingface.co/blog/qvac/botpsy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;豪法律事務所Gilbert + TobinのCEO、AI導入はトップが自ら使うことが鍵と語る。ChatGPTのアクティブ利用率は87%&lt;br&gt;&lt;a href="https://openai.com/index/gilbert-tobin-sam-nickless"&gt;https://openai.com/index/gilbert-tobin-sam-nickless&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenRouter、429エラーの対処法を実測で解説。SDK既定の再試行では60件中23件が失敗、limit_sourceで原因を確認&lt;br&gt;&lt;a href="https://openrouter.ai/blog/tutorials/llm-api-rate-limits/"&gt;https://openrouter.ai/blog/tutorials/llm-api-rate-limits/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月11日 10:00)</title>
       <link>https://morningaiapp.com</link>
@@ -209,20 +224,6 @@
 &lt;p&gt;SpaceXSIのデータサイエンスチーム、Grok Botで「Data Bot」を全社に提供。先週だけで約70時間分の作業を肩代わり&lt;br&gt;&lt;a href="https://x.ai/news/data-bot"&gt;https://x.ai/news/data-bot&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Qodo、Codex向けプラグインで組織のルールとコードベースの知識を提供。リポジトリをまたぐP0バグの検出を支援&lt;br&gt;&lt;a href="https://openai.com/index/qodo-codex-plugin"&gt;https://openai.com/index/qodo-codex-plugin&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Claude Enterprise で Smart reports など3機能が一般提供に。チームの仕事内容とコストを可視化できる&lt;br&gt;&lt;a href="https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets"&gt;https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月3日 4:04)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261102T190438Z</guid>
-      <pubDate>Mon, 02 Nov 2026 19:04:38 +0000</pubDate>
-      <description>&lt;p&gt;Google、10月にGemini 4 Argonを世界展開。2週間後に過去最強のGemini 4 Carbonを発表&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"&gt;https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、日常タスクでのAI性能を測る評価「LifeVal」を公開。GPT‑6 Astraは予約や買い物など例示タスクで100%&lt;br&gt;&lt;a href="https://openai.com/index/lifeval"&gt;https://openai.com/index/lifeval&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIがGrid Protectors Programを開始。電力網の逼迫時に需要を下げ、ジョージア州で最大1,000メガワットを調整&lt;br&gt;&lt;a href="https://openai.com/index/grid-protectors-program"&gt;https://openai.com/index/grid-protectors-program&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;a16zがTutor IntelligenceのSeries Bをリード。人間の遠隔操作で現場投入しながらモデルを構築する手法を評価&lt;br&gt;&lt;a href="https://a16z.com/announcement/investing-in-tutor-intelligence/"&gt;https://a16z.com/announcement/investing-in-tutor-intelligence/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;a16z、AIアプリ企業は顧客の最善の代替手段に総コスト・品質・速度・リスクで勝たなければプレミアム価格を維持できないと指摘&lt;br&gt;&lt;a href="https://a16z.com/how-ai-applications-earn-their-premium/"&gt;https://a16z.com/how-ai-applications-earn-their-premium/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;a16z、元米国家安全保障担当副補佐官のAndy Baker氏をGlobal Affairsのアドバイザーに起用。投資先の海外政府との提携を支援&lt;br&gt;&lt;a href="https://a16z.com/welcome-andy-baker/"&gt;https://a16z.com/welcome-andy-baker/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google DeepMind、計画審査AI「PlanAssist」をイングランドの12自治体に追加提供。担当官の審査時間を最大58%短縮&lt;br&gt;&lt;a href="https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"&gt;https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sakana AI、一から事前学習するLLM「Sakana Sawara（仮称）」を発表。Sawara Smallは2027年春に公開予定&lt;br&gt;&lt;a href="https://sakana.ai/symposium-2026/"&gt;https://sakana.ai/symposium-2026/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
