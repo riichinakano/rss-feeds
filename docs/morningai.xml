@@ -6,7 +6,28 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Nov 2026 16:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:00:42 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月11日 10:00)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261111T010042Z</guid>
+      <pubDate>Wed, 11 Nov 2026 01:00:42 +0000</pubDate>
+      <description>&lt;p&gt;Google DeepMind、AIのAlphaProof CodeでSignalの参照実装libsignalの安全性を無改変の機械語レベルで証明&lt;br&gt;&lt;a href="https://google-deepmind.github.io/code-verification/"&gt;https://google-deepmind.github.io/code-verification/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic、Claude Fable 5.2向けプロンプトガイドを公開。旧モデル向け指示の見直しやeffort調整を解説&lt;br&gt;&lt;a href="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code"&gt;https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Reddit、製品に関する会話をAIでレビューにまとめる「Reddit Reviews」のテストを開始。米国で約1万製品から&lt;br&gt;&lt;a href="https://redditinc.com/news/introducing-reddit-reviews"&gt;https://redditinc.com/news/introducing-reddit-reviews&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Artificial Analysis、視覚ファイルを扱うエージェント評価MKAを公開。首位はClaude Fable 5.2の57%&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent"&gt;https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、Gemini IntelligenceをPixel 10などに拡大。言葉で説明するだけでウィジェットを作れる新機能を追加&lt;br&gt;&lt;a href="https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"&gt;https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、GPT-Live で開発するJunoなど4社の実践知見を紹介。背後のエージェントで音声モデルを舵取りし、会話と作業を分ける&lt;br&gt;&lt;a href="https://developers.openai.com/blog/pushing-voice-agents-further"&gt;https://developers.openai.com/blog/pushing-voice-agents-further&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、2,638人を対象にしたAI導入調査の2026年版レポートを公表。楽観は急伸も、AIへの野心と準備度の差は前年から不変&lt;br&gt;&lt;a href="https://workspace.google.com/blog/product-announcements/bridging-the-gap-between-ai-ambition-and-readiness-new-survey-data"&gt;https://workspace.google.com/blog/product-announcements/bridging-the-gap-between-ai-ambition-and-readiness-new-survey-data&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIがBusinesses in ChatGPTをベータ提供、企業が自社情報を管理し米国ではBusiness Agentも開設できる&lt;br&gt;&lt;a href="https://openai.com/index/introducing-businesses-chatgpt"&gt;https://openai.com/index/introducing-businesses-chatgpt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Curative が Claude で契約エージェント Gwen と監督役エージェント群を構築し、医療機関との契約締結を約50倍に高速化&lt;br&gt;&lt;a href="https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude"&gt;https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、利用料を Google Cloud の請求書で支払えるようにした。Team/Enterprise や従量課金も対象&lt;br&gt;&lt;a href="https://huggingface.co/blog/hub-gcp-marketplace"&gt;https://huggingface.co/blog/hub-gcp-marketplace&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenRouterがスキャン文書のOCRを比較、最も正確なのはClaude Opus 5.5でコスパ最良はMistral OCR&lt;br&gt;&lt;a href="https://openrouter.ai/blog/insights/best-ocr-model/"&gt;https://openrouter.ai/blog/insights/best-ocr-model/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude、新アーティファクトClaude Sheets・Claude Whiteboards・Claude Dataをチーム向けに提供開始&lt;br&gt;&lt;a href="https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors"&gt;https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16zが開発者向けローカライズ基盤General TranslationのSeries Aをリード。Cursor、Rampなどが導入&lt;br&gt;&lt;a href="https://a16z.com/announcement/investing-in-general-translation/"&gt;https://a16z.com/announcement/investing-in-general-translation/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Box、Gemini 4 Carbonを自社評価で検証。1つの結論に踏み切り、公共部門のスコアが93%から100%に向上&lt;br&gt;&lt;a href="https://blog.box.com/gemini-4-carbon-brings-clarity-complex-enterprise-work"&gt;https://blog.box.com/gemini-4-carbon-brings-clarity-complex-enterprise-work&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、Google AI Edge Galleryにオンデバイスの音声認識と音声合成を導入。完全オフラインで動作&lt;br&gt;&lt;a href="https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/"&gt;https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月11日 1:44)</title>
       <link>https://morningaiapp.com</link>
@@ -202,14 +223,6 @@
 &lt;p&gt;a16z、元米国家安全保障担当副補佐官のAndy Baker氏をGlobal Affairsのアドバイザーに起用。投資先の海外政府との提携を支援&lt;br&gt;&lt;a href="https://a16z.com/welcome-andy-baker/"&gt;https://a16z.com/welcome-andy-baker/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google DeepMind、計画審査AI「PlanAssist」をイングランドの12自治体に追加提供。担当官の審査時間を最大58%短縮&lt;br&gt;&lt;a href="https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"&gt;https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sakana AI、一から事前学習するLLM「Sakana Sawara（仮称）」を発表。Sawara Smallは2027年春に公開予定&lt;br&gt;&lt;a href="https://sakana.ai/symposium-2026/"&gt;https://sakana.ai/symposium-2026/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月2日 9:15)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261102T001532Z</guid>
-      <pubDate>Mon, 02 Nov 2026 00:15:32 +0000</pubDate>
-      <description>&lt;p&gt;ChatGPTのグラフとPreview機能の連鎖で、共有リンクを開くだけでアカウントを乗っ取れる脆弱性。OpenAIが修正した&lt;br&gt;&lt;a href="https://www.parameter.ai/labs/we-found-a-gap-at-openai"&gt;https://www.parameter.ai/labs/we-found-a-gap-at-openai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;DeepSeek、研究用プロトタイプ「dsh-superagent」を公開。依頼かチームのルールで許された時だけ動くコーディングエージェント&lt;br&gt;&lt;a href="https://github.com/deepseek-ai/dsh-superagent-prototype/"&gt;https://github.com/deepseek-ai/dsh-superagent-prototype/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

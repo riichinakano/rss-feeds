@@ -1,5 +1,20 @@
 {
   "seen": [
+    "https://google-deepmind.github.io/code-verification/",
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code",
+    "https://redditinc.com/news/introducing-reddit-reviews",
+    "https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent",
+    "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "https://developers.openai.com/blog/pushing-voice-agents-further",
+    "https://workspace.google.com/blog/product-announcements/bridging-the-gap-between-ai-ambition-and-readiness-new-survey-data",
+    "https://openai.com/index/introducing-businesses-chatgpt",
+    "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
+    "https://huggingface.co/blog/hub-gcp-marketplace",
+    "https://openrouter.ai/blog/insights/best-ocr-model/",
+    "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+    "https://a16z.com/announcement/investing-in-general-translation/",
+    "https://blog.box.com/gemini-4-carbon-brings-clarity-complex-enterprise-work",
+    "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
     "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
@@ -245,6 +260,103 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261111T010042Z",
+      "title": "Morning AI(2026年11月11日 10:00)",
+      "date": "2026-11-11T01:00:42.723507+00:00",
+      "items": [
+        {
+          "title": "Google DeepMind、AIのAlphaProof CodeでSignalの参照実装libsignalの安全性を無改変の機械語レベルで証明",
+          "link": "https://google-deepmind.github.io/code-verification/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic、Claude Fable 5.2向けプロンプトガイドを公開。旧モデル向け指示の見直しやeffort調整を解説",
+          "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Reddit、製品に関する会話をAIでレビューにまとめる「Reddit Reviews」のテストを開始。米国で約1万製品から",
+          "link": "https://redditinc.com/news/introducing-reddit-reviews",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Artificial Analysis、視覚ファイルを扱うエージェント評価MKAを公開。首位はClaude Fable 5.2の57%",
+          "link": "https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Gemini IntelligenceをPixel 10などに拡大。言葉で説明するだけでウィジェットを作れる新機能を追加",
+          "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、GPT-Live で開発するJunoなど4社の実践知見を紹介。背後のエージェントで音声モデルを舵取りし、会話と作業を分ける",
+          "link": "https://developers.openai.com/blog/pushing-voice-agents-further",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、2,638人を対象にしたAI導入調査の2026年版レポートを公表。楽観は急伸も、AIへの野心と準備度の差は前年から不変",
+          "link": "https://workspace.google.com/blog/product-announcements/bridging-the-gap-between-ai-ambition-and-readiness-new-survey-data",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIがBusinesses in ChatGPTをベータ提供、企業が自社情報を管理し米国ではBusiness Agentも開設できる",
+          "link": "https://openai.com/index/introducing-businesses-chatgpt",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Curative が Claude で契約エージェント Gwen と監督役エージェント群を構築し、医療機関との契約締結を約50倍に高速化",
+          "link": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Hugging Face、利用料を Google Cloud の請求書で支払えるようにした。Team/Enterprise や従量課金も対象",
+          "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenRouterがスキャン文書のOCRを比較、最も正確なのはClaude Opus 5.5でコスパ最良はMistral OCR",
+          "link": "https://openrouter.ai/blog/insights/best-ocr-model/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Claude、新アーティファクトClaude Sheets・Claude Whiteboards・Claude Dataをチーム向けに提供開始",
+          "link": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16zが開発者向けローカライズ基盤General TranslationのSeries Aをリード。Cursor、Rampなどが導入",
+          "link": "https://a16z.com/announcement/investing-in-general-translation/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Box、Gemini 4 Carbonを自社評価で検証。1つの結論に踏み切り、公共部門のスコアが93%から100%に向上",
+          "link": "https://blog.box.com/gemini-4-carbon-brings-clarity-complex-enterprise-work",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Google AI Edge Galleryにオンデバイスの音声認識と音声合成を導入。完全オフラインで動作",
+          "link": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261110T164439Z",
       "title": "Morning AI(2026年11月11日 1:44)",
@@ -1039,25 +1151,6 @@
         {
           "title": "Sakana AI、一から事前学習するLLM「Sakana Sawara（仮称）」を発表。Sawara Smallは2027年春に公開予定",
           "link": "https://sakana.ai/symposium-2026/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261102T001532Z",
-      "title": "Morning AI(2026年11月2日 9:15)",
-      "date": "2026-11-02T00:15:32.111583+00:00",
-      "items": [
-        {
-          "title": "ChatGPTのグラフとPreview機能の連鎖で、共有リンクを開くだけでアカウントを乗っ取れる脆弱性。OpenAIが修正した",
-          "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "DeepSeek、研究用プロトタイプ「dsh-superagent」を公開。依頼かチームのルールで許された時だけ動くコーディングエージェント",
-          "link": "https://github.com/deepseek-ai/dsh-superagent-prototype/",
           "label": null,
           "extra": []
         }
