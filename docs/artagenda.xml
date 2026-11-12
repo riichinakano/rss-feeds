@@ -6,7 +6,14 @@
     <description>アートアジェンダ 展覧会 の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/artagenda.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Nov 2026 16:53:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 02:09:15 +0000</lastBuildDate>
+    <item>
+      <title>アートアジェンダ 展覧会(2026年11月12日 11:09)</title>
+      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
+      <guid isPermaLink="false">artagenda-20261112T020915Z</guid>
+      <pubDate>Thu, 12 Nov 2026 02:09:15 +0000</pubDate>
+      <description>&lt;p&gt;[2027/1/23〜2027/3/28] 2027展示I 小林一三没後70年 小林一三のART愛 －著書に登場する文芸・美術作品&lt;br&gt;逸翁美術館｜大阪府&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/11788"&gt;https://www.artagenda.jp/exhibition/detail/11788&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>アートアジェンダ 展覧会(2026年11月12日 1:53)</title>
       <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
@@ -118,14 +125,6 @@
       <pubDate>Thu, 29 Oct 2026 15:50:43 +0000</pubDate>
       <description>&lt;p&gt;[11/28〜2027/3/28] 企画展「謎のいきもの」&lt;br&gt;岡本太郎記念館｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12936"&gt;https://www.artagenda.jp/exhibition/detail/12936&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[2027/7/31〜2027/9/26] 「銀河鉄道９９９」５０周年プロジェクト 松本零士展 創作の旅路&lt;br&gt;あべのハルカス美術館｜大阪府&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12894"&gt;https://www.artagenda.jp/exhibition/detail/12894&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>アートアジェンダ 展覧会(2026年10月29日 0:43)</title>
-      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
-      <guid isPermaLink="false">artagenda-20261028T154304Z</guid>
-      <pubDate>Wed, 28 Oct 2026 15:43:04 +0000</pubDate>
-      <description>&lt;p&gt;[11/7〜12/13] 2026イタリア・ボローニャ国際絵本原画展&lt;br&gt;石川県七尾美術館｜石川県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12370"&gt;https://www.artagenda.jp/exhibition/detail/12370&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[11/14〜2027/1/17] エコーズ・ビトゥイーン：日本・ドイツ・スイスのアーティストによるブック・アートという実…&lt;br&gt;うらわ美術館｜埼玉県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12592"&gt;https://www.artagenda.jp/exhibition/detail/12592&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,6 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/11788",
     "https://www.artagenda.jp/exhibition/detail/11921",
     "https://www.artagenda.jp/exhibition/detail/12853",
     "https://www.artagenda.jp/exhibition/detail/11734",
@@ -498,10 +499,24 @@
     "https://www.artagenda.jp/exhibition/detail/11920",
     "https://www.artagenda.jp/exhibition/detail/12655",
     "https://www.artagenda.jp/exhibition/detail/11738",
-    "https://www.artagenda.jp/exhibition/detail/12730",
-    "https://www.artagenda.jp/exhibition/detail/12602"
+    "https://www.artagenda.jp/exhibition/detail/12730"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261112T020915Z",
+      "title": "アートアジェンダ 展覧会(2026年11月12日 11:09)",
+      "date": "2026-11-12T02:09:15.899112+00:00",
+      "items": [
+        {
+          "title": "2027展示I 小林一三没後70年 小林一三のART愛 －著書に登場する文芸・美術作品",
+          "link": "https://www.artagenda.jp/exhibition/detail/11788",
+          "label": "2027/1/23〜2027/3/28",
+          "extra": [
+            "逸翁美術館｜大阪府"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261111T165303Z",
       "title": "アートアジェンダ 展覧会(2026年11月12日 1:53)",
@@ -861,29 +876,6 @@
           "label": "2027/7/31〜2027/9/26",
           "extra": [
             "あべのハルカス美術館｜大阪府"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261028T154304Z",
-      "title": "アートアジェンダ 展覧会(2026年10月29日 0:43)",
-      "date": "2026-10-28T15:43:04.537822+00:00",
-      "items": [
-        {
-          "title": "2026イタリア・ボローニャ国際絵本原画展",
-          "link": "https://www.artagenda.jp/exhibition/detail/12370",
-          "label": "11/7〜12/13",
-          "extra": [
-            "石川県七尾美術館｜石川県"
-          ]
-        },
-        {
-          "title": "エコーズ・ビトゥイーン：日本・ドイツ・スイスのアーティストによるブック・アートという実…",
-          "link": "https://www.artagenda.jp/exhibition/detail/12592",
-          "label": "11/14〜2027/1/17",
-          "extra": [
-            "うらわ美術館｜埼玉県"
           ]
         }
       ]

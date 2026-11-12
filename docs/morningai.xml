@@ -6,7 +6,27 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Nov 2026 16:50:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 02:07:08 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月12日 11:07)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261112T020708Z</guid>
+      <pubDate>Thu, 12 Nov 2026 02:07:08 +0000</pubDate>
+      <description>&lt;p&gt;Vals AIが米NISTの再招集したNIST AI Consortiumに参加。実利用を反映した再現性あるAI評価手法づくりに協力&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/nist-ai-consortium"&gt;https://www.vals.ai/blogs/nist-ai-consortium&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenRouter、AIエージェントの無限ループを止める4つのガードを解説。doom-loop検知で呼び出しを314回から64回に削減&lt;br&gt;&lt;a href="https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/"&gt;https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google Research、ウェアラブル由来の健康年齢と世界モデルSensorWMで12週間の「もしも」を模擬する個別コーチング手法を開発&lt;br&gt;&lt;a href="https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/"&gt;https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CodeRabbit、Google Antigravity向けプラグインを提供。コード生成・レビュー・修正を同じエージェントのループで自動化できる&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/agentic-software-development-coderabbit-google-antigravity"&gt;https://www.coderabbit.ai/ja/blog/agentic-software-development-coderabbit-google-antigravity&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、選択肢の判定に特化した Gemini Decisions API を提供開始。遅延150-250 msで出力トークン課金なし&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"&gt;https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AnthropicがNasdaqにティッカー「ANT」で上場へ。株式は11月19日（米国時間）に取引開始の見込み&lt;br&gt;&lt;a href="https://ipo.anthropic.com/us/#roadshow-video"&gt;https://ipo.anthropic.com/us/#roadshow-video&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;IBM、520量子ビットの量子プロセッサNighthawk r3を発表。2027年に2基を連結し1,040量子ビットのシステムを構築する計画&lt;br&gt;&lt;a href="https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027"&gt;https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;JioStarのチーフアーキテクトが5億人超規模のAI発見アシスタント構築を振り返り、本番化には評価とガードレール、判断力ある人材が要と語った&lt;br&gt;&lt;a href="https://openai.com/index/jiostar-vijay-seshadri"&gt;https://openai.com/index/jiostar-vijay-seshadri&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AWS、自律型AIエージェントだけで開発したローカルエミュレーター「AWS Emulator」をCC0ライセンスでGitHubに公開&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator"&gt;https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;xAIが「Grok Bot 1.0」を提供開始。Slack・Microsoft Teamsでチームと協働し、仕事を自ら見つけて提案できる&lt;br&gt;&lt;a href="https://x.ai/news/grok-bot-1-0"&gt;https://x.ai/news/grok-bot-1-0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ElevenLabs、企業が自社データで音声モデルとオープンソースLLMをファインチューニングできる支援を発表&lt;br&gt;&lt;a href="https://elevenlabs.io/blog/nyc-summit"&gt;https://elevenlabs.io/blog/nyc-summit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vals AIが102モデルの推論を調査、悪態をつく14モデルはすべて2026年7月16日以降の公開で行き詰まり時に集中&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/which-models-swear"&gt;https://www.vals.ai/blogs/which-models-swear&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GoogleがGeminiアプリをApple CarPlayに対応。iOSユーザーは車内でGemini Liveとハンズフリーで会話できる&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、生成UI向けオープンプロトコルの初の安定版「A2UI 1.0」を公開。AIエージェントが操作できる画面で応答できる&lt;br&gt;&lt;a href="https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/"&gt;https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月12日 1:50)</title>
       <link>https://morningaiapp.com</link>
@@ -210,20 +230,6 @@
 &lt;p&gt;Anthropic、重みを秘匿したまま応答の出所を証明するFlashProveを公開。400Bモデルを単一H100で約110トークン/秒で証明&lt;br&gt;&lt;a href="https://www.anthropic.com/research/provable-inference"&gt;https://www.anthropic.com/research/provable-inference&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;OpenAI、Cathedralと組み自社モデルで防御を検証する次回セキュリティスプリントを準備。重大な発見への報奨金を4倍超に引き上げ&lt;br&gt;&lt;a href="https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"&gt;https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;OpenAI、Security Bug Bountyの報奨金の中央値を平均4倍超に。ChatGPTなどのcriticalは最大$30,000&lt;br&gt;&lt;a href="https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"&gt;https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月3日 11:45)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261103T024542Z</guid>
-      <pubDate>Tue, 03 Nov 2026 02:45:42 +0000</pubDate>
-      <description>&lt;p&gt;OpenAIが元米陸軍長官のDan Driscoll氏を新設の国家安全保障近代化担当シニアカウンセラーに任命。米同盟国と連携したAI活用を助言&lt;br&gt;&lt;a href="https://openai.com/index/dan-driscoll-joins-openai"&gt;https://openai.com/index/dan-driscoll-joins-openai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、Codexの並列開発に耐える新Gitバックエンド「Pando」をモノレポに導入。pushを中央値でほぼ5倍高速化&lt;br&gt;&lt;a href="https://openai.com/index/scaling-git-at-openai"&gt;https://openai.com/index/scaling-git-at-openai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ChatGPTのPlus・Pro・Businessプラン、12月からChatGPTとCodexで利用枠を共有しトークン単位で計測&lt;br&gt;&lt;a href="https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"&gt;https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;DeepSeek、DeepSeek Harness の Creator Mode 紹介動画に登場する7つのプラグインデモのプロンプトを公開&lt;br&gt;&lt;a href="https://cdn.deepseek.com/harness/dsh-creator-mode-prompt-collection-en.html"&gt;https://cdn.deepseek.com/harness/dsh-creator-mode-prompt-collection-en.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;SEC、自動ツールでSEC.govにアクセスする際はuser agentでの申告を要求。上限は毎秒10リクエスト&lt;br&gt;&lt;a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm"&gt;https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;SpaceXSIのデータサイエンスチーム、Grok Botで「Data Bot」を全社に提供。先週だけで約70時間分の作業を肩代わり&lt;br&gt;&lt;a href="https://x.ai/news/data-bot"&gt;https://x.ai/news/data-bot&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Qodo、Codex向けプラグインで組織のルールとコードベースの知識を提供。リポジトリをまたぐP0バグの検出を支援&lt;br&gt;&lt;a href="https://openai.com/index/qodo-codex-plugin"&gt;https://openai.com/index/qodo-codex-plugin&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claude Enterprise で Smart reports など3機能が一般提供に。チームの仕事内容とコストを可視化できる&lt;br&gt;&lt;a href="https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets"&gt;https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,19 @@
 {
   "seen": [
+    "https://www.vals.ai/blogs/nist-ai-consortium",
+    "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/",
+    "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+    "https://www.coderabbit.ai/ja/blog/agentic-software-development-coderabbit-google-antigravity",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "https://ipo.anthropic.com/us/#roadshow-video",
+    "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+    "https://openai.com/index/jiostar-vijay-seshadri",
+    "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator",
+    "https://x.ai/news/grok-bot-1-0",
+    "https://elevenlabs.io/blog/nyc-summit",
+    "https://www.vals.ai/blogs/which-models-swear",
+    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+    "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
     "https://www.aboutamazon.com/news/aws/aws-south-america-chile-region-launch",
     "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
     "https://huggingface.co/blog/token-pooling",
@@ -269,6 +283,97 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261112T020708Z",
+      "title": "Morning AI(2026年11月12日 11:07)",
+      "date": "2026-11-12T02:07:08.298125+00:00",
+      "items": [
+        {
+          "title": "Vals AIが米NISTの再招集したNIST AI Consortiumに参加。実利用を反映した再現性あるAI評価手法づくりに協力",
+          "link": "https://www.vals.ai/blogs/nist-ai-consortium",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenRouter、AIエージェントの無限ループを止める4つのガードを解説。doom-loop検知で呼び出しを314回から64回に削減",
+          "link": "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google Research、ウェアラブル由来の健康年齢と世界モデルSensorWMで12週間の「もしも」を模擬する個別コーチング手法を開発",
+          "link": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "CodeRabbit、Google Antigravity向けプラグインを提供。コード生成・レビュー・修正を同じエージェントのループで自動化できる",
+          "link": "https://www.coderabbit.ai/ja/blog/agentic-software-development-coderabbit-google-antigravity",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、選択肢の判定に特化した Gemini Decisions API を提供開始。遅延150-250 msで出力トークン課金なし",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "AnthropicがNasdaqにティッカー「ANT」で上場へ。株式は11月19日（米国時間）に取引開始の見込み",
+          "link": "https://ipo.anthropic.com/us/#roadshow-video",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "IBM、520量子ビットの量子プロセッサNighthawk r3を発表。2027年に2基を連結し1,040量子ビットのシステムを構築する計画",
+          "link": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "JioStarのチーフアーキテクトが5億人超規模のAI発見アシスタント構築を振り返り、本番化には評価とガードレール、判断力ある人材が要と語った",
+          "link": "https://openai.com/index/jiostar-vijay-seshadri",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "AWS、自律型AIエージェントだけで開発したローカルエミュレーター「AWS Emulator」をCC0ライセンスでGitHubに公開",
+          "link": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "xAIが「Grok Bot 1.0」を提供開始。Slack・Microsoft Teamsでチームと協働し、仕事を自ら見つけて提案できる",
+          "link": "https://x.ai/news/grok-bot-1-0",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "ElevenLabs、企業が自社データで音声モデルとオープンソースLLMをファインチューニングできる支援を発表",
+          "link": "https://elevenlabs.io/blog/nyc-summit",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Vals AIが102モデルの推論を調査、悪態をつく14モデルはすべて2026年7月16日以降の公開で行き詰まり時に集中",
+          "link": "https://www.vals.ai/blogs/which-models-swear",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "GoogleがGeminiアプリをApple CarPlayに対応。iOSユーザーは車内でGemini Liveとハンズフリーで会話できる",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、生成UI向けオープンプロトコルの初の安定版「A2UI 1.0」を公開。AIエージェントが操作できる画面で応答できる",
+          "link": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261111T165059Z",
       "title": "Morning AI(2026年11月12日 1:50)",
@@ -1111,61 +1216,6 @@
         {
           "title": "OpenAI、Security Bug Bountyの報奨金の中央値を平均4倍超に。ChatGPTなどのcriticalは最大$30,000",
           "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261103T024542Z",
-      "title": "Morning AI(2026年11月3日 11:45)",
-      "date": "2026-11-03T02:45:42.508745+00:00",
-      "items": [
-        {
-          "title": "OpenAIが元米陸軍長官のDan Driscoll氏を新設の国家安全保障近代化担当シニアカウンセラーに任命。米同盟国と連携したAI活用を助言",
-          "link": "https://openai.com/index/dan-driscoll-joins-openai",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、Codexの並列開発に耐える新Gitバックエンド「Pando」をモノレポに導入。pushを中央値でほぼ5倍高速化",
-          "link": "https://openai.com/index/scaling-git-at-openai",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "ChatGPTのPlus・Pro・Businessプラン、12月からChatGPTとCodexで利用枠を共有しトークン単位で計測",
-          "link": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "DeepSeek、DeepSeek Harness の Creator Mode 紹介動画に登場する7つのプラグインデモのプロンプトを公開",
-          "link": "https://cdn.deepseek.com/harness/dsh-creator-mode-prompt-collection-en.html",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "SEC、自動ツールでSEC.govにアクセスする際はuser agentでの申告を要求。上限は毎秒10リクエスト",
-          "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "SpaceXSIのデータサイエンスチーム、Grok Botで「Data Bot」を全社に提供。先週だけで約70時間分の作業を肩代わり",
-          "link": "https://x.ai/news/data-bot",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Qodo、Codex向けプラグインで組織のルールとコードベースの知識を提供。リポジトリをまたぐP0バグの検出を支援",
-          "link": "https://openai.com/index/qodo-codex-plugin",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Claude Enterprise で Smart reports など3機能が一般提供に。チームの仕事内容とコストを可視化できる",
-          "link": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
           "label": null,
           "extra": []
         }
