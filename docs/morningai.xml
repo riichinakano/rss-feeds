@@ -6,7 +6,23 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Nov 2026 02:07:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:18:42 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月13日 2:18)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261112T171842Z</guid>
+      <pubDate>Thu, 12 Nov 2026 17:18:42 +0000</pubDate>
+      <description>&lt;p&gt;Anthropic、スタートアップ8社の事例からSlackのClaude Tagを最初に入れるべき5用途をまとめた導入ガイドを公開&lt;br&gt;&lt;a href="https://claude.com/resources/articles/claude-tag-guide-for-startups"&gt;https://claude.com/resources/articles/claude-tag-guide-for-startups&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16z、AIはインディー開発者・ツール職人・世界構築スタジオというゲーム業界の3つの典型像をすべて後押しすると主張&lt;br&gt;&lt;a href="https://a16z.com/gamings-next-origin-stories/"&gt;https://a16z.com/gamings-next-origin-stories/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Box依頼のHarris Poll調査、AIを使う米国従業員の61%が任せる作業の拡大を望まず。57%は選択肢の多さで利用意欲が低下&lt;br&gt;&lt;a href="https://blog.box.com/knowledge-workers-want-better-ai-less-complexity"&gt;https://blog.box.com/knowledge-workers-want-better-ai-less-complexity&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、TRELLIS.2の形状系DiTのみLoRAで微調整する手順を公開。靴のF-scoreが0.276から0.803に向上&lt;br&gt;&lt;a href="https://huggingface.co/blog/3d-lora-finetuning"&gt;https://huggingface.co/blog/3d-lora-finetuning&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CodeRabbitの年間経常収益が1年余りで1,000万ドルから1億ドルに成長、顧客は2万社超&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/coderabbit-100-million-arr"&gt;https://www.coderabbit.ai/ja/blog/coderabbit-100-million-arr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude の interactive connectors が拡張、ツールを会話の横や全画面で開き Claude が直接変更できる&lt;br&gt;&lt;a href="https://claude.com/resources/articles/interactive-connectors-full-tool"&gt;https://claude.com/resources/articles/interactive-connectors-full-tool&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dify、Gartner初のAIエージェント管理Magic QuadrantでNiche Playerに選出。構築・統制・運用を一体で支える&lt;br&gt;&lt;a href="https://dify.ai/blog/dify-recgonized-gartner-magic-quadrant-ai-agent-management-platform?utm_source=website&amp;amp;utm_medium=launch_blog&amp;amp;utm_campaign=gartner_2026&amp;amp;utm_content=homepage_banner"&gt;https://dify.ai/blog/dify-recgonized-gartner-magic-quadrant-ai-agent-management-platform?utm_source=website&amp;amp;utm_medium=launch_blog&amp;amp;utm_campaign=gartner_2026&amp;amp;utm_content=homepage_banner&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIがパリ平和フォーラムで子ども向けAIの安全憲章に署名。AIが子どもに与える影響の研究に200万ドルを拠出&lt;br&gt;&lt;a href="https://openai.com/index/children-first-declaration"&gt;https://openai.com/index/children-first-declaration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;旅行予約のHoliday Extras、Codexでメインアプリを2週間で作り直し予約転換率が32.5%向上&lt;br&gt;&lt;a href="https://openai.com/business/customer-stories/holidays-extras-codex"&gt;https://openai.com/business/customer-stories/holidays-extras-codex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DifyがGartner初のAIエージェント管理Magic QuadrantでNiche Playerに選出。構築から統制・運用まで一体で支える方針&lt;br&gt;&lt;a href="https://dify.ai/blog/dify-recgonized-gartner-magic-quadrant-ai-agent-management-platform"&gt;https://dify.ai/blog/dify-recgonized-gartner-magic-quadrant-ai-agent-management-platform&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月12日 11:07)</title>
       <link>https://morningaiapp.com</link>
@@ -216,20 +232,6 @@
 &lt;p&gt;DeepMindがGoogle Antigravity向けCheminformatics Skillsを公開、数日かかる創薬ワークフローを1時間で実行できる&lt;br&gt;&lt;a href="https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"&gt;https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google、Jevで難しいタスクだけGemini 3.8 Flashの低思考へ回す構成を50問で検証、全問正解でコストと待ち時間を削減&lt;br&gt;&lt;a href="https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/"&gt;https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Hugging Face、20Bオープンモデルで独自デザイン言語のスライドを作る「Palette」を開発。PresentBenchの2領域で1位&lt;br&gt;&lt;a href="https://huggingface.co/blog/ibm-research/palette-deck-building"&gt;https://huggingface.co/blog/ibm-research/palette-deck-building&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月4日 1:47)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261103T164711Z</guid>
-      <pubDate>Tue, 03 Nov 2026 16:47:11 +0000</pubDate>
-      <description>&lt;p&gt;a16z、米国消費者500人の調査をもとにロンジェビティ分野の有望6領域を分析。価値は検査や処方など「行動」を支える企業に移ると主張&lt;br&gt;&lt;a href="https://a16z.com/the-state-of-longevity/"&gt;https://a16z.com/the-state-of-longevity/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;CodeRabbit Secure がランタイム検証を導入、Deep Scan の検出結果を Runtime Analysis で実行し証拠付きで確かめられる&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/runtime-verification-in-coderabbit-secure"&gt;https://www.coderabbit.ai/ja/blog/runtime-verification-in-coderabbit-secure&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;欧州の住宅不動産会社Heimstaden、OpenAIで賃貸業務を刷新。オランダで物件画像の制作費を99%超削減&lt;br&gt;&lt;a href="https://openai.com/index/heimstaden"&gt;https://openai.com/index/heimstaden&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hugging Face、縮小モデルをCPUで動かしTransformersの回帰をPR段階で検出するテスト規格MICを提案&lt;br&gt;&lt;a href="https://huggingface.co/blog/transformers-mic"&gt;https://huggingface.co/blog/transformers-mic&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Vals、Fireworks顧客向けにカスタムevalの構築・保守を支援。汎用ベンチマークでは自社業務に最適なモデルは選べないと主張&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/vals-fireworks-partnership"&gt;https://www.vals.ai/blogs/vals-fireworks-partnership&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic、重みを秘匿したまま応答の出所を証明するFlashProveを公開。400Bモデルを単一H100で約110トークン/秒で証明&lt;br&gt;&lt;a href="https://www.anthropic.com/research/provable-inference"&gt;https://www.anthropic.com/research/provable-inference&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、Cathedralと組み自社モデルで防御を検証する次回セキュリティスプリントを準備。重大な発見への報奨金を4倍超に引き上げ&lt;br&gt;&lt;a href="https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"&gt;https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、Security Bug Bountyの報奨金の中央値を平均4倍超に。ChatGPTなどのcriticalは最大$30,000&lt;br&gt;&lt;a href="https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"&gt;https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,15 @@
 {
   "seen": [
+    "https://claude.com/resources/articles/claude-tag-guide-for-startups",
+    "https://a16z.com/gamings-next-origin-stories/",
+    "https://blog.box.com/knowledge-workers-want-better-ai-less-complexity",
+    "https://huggingface.co/blog/3d-lora-finetuning",
+    "https://www.coderabbit.ai/ja/blog/coderabbit-100-million-arr",
+    "https://claude.com/resources/articles/interactive-connectors-full-tool",
+    "https://dify.ai/blog/dify-recgonized-gartner-magic-quadrant-ai-agent-management-platform?utm_source=website&utm_medium=launch_blog&utm_campaign=gartner_2026&utm_content=homepage_banner",
+    "https://openai.com/index/children-first-declaration",
+    "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "https://dify.ai/blog/dify-recgonized-gartner-magic-quadrant-ai-agent-management-platform",
     "https://www.vals.ai/blogs/nist-ai-consortium",
     "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/",
     "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
@@ -283,6 +293,73 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261112T171842Z",
+      "title": "Morning AI(2026年11月13日 2:18)",
+      "date": "2026-11-12T17:18:42.740114+00:00",
+      "items": [
+        {
+          "title": "Anthropic、スタートアップ8社の事例からSlackのClaude Tagを最初に入れるべき5用途をまとめた導入ガイドを公開",
+          "link": "https://claude.com/resources/articles/claude-tag-guide-for-startups",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16z、AIはインディー開発者・ツール職人・世界構築スタジオというゲーム業界の3つの典型像をすべて後押しすると主張",
+          "link": "https://a16z.com/gamings-next-origin-stories/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Box依頼のHarris Poll調査、AIを使う米国従業員の61%が任せる作業の拡大を望まず。57%は選択肢の多さで利用意欲が低下",
+          "link": "https://blog.box.com/knowledge-workers-want-better-ai-less-complexity",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Hugging Face、TRELLIS.2の形状系DiTのみLoRAで微調整する手順を公開。靴のF-scoreが0.276から0.803に向上",
+          "link": "https://huggingface.co/blog/3d-lora-finetuning",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "CodeRabbitの年間経常収益が1年余りで1,000万ドルから1億ドルに成長、顧客は2万社超",
+          "link": "https://www.coderabbit.ai/ja/blog/coderabbit-100-million-arr",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Claude の interactive connectors が拡張、ツールを会話の横や全画面で開き Claude が直接変更できる",
+          "link": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Dify、Gartner初のAIエージェント管理Magic QuadrantでNiche Playerに選出。構築・統制・運用を一体で支える",
+          "link": "https://dify.ai/blog/dify-recgonized-gartner-magic-quadrant-ai-agent-management-platform?utm_source=website&utm_medium=launch_blog&utm_campaign=gartner_2026&utm_content=homepage_banner",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIがパリ平和フォーラムで子ども向けAIの安全憲章に署名。AIが子どもに与える影響の研究に200万ドルを拠出",
+          "link": "https://openai.com/index/children-first-declaration",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "旅行予約のHoliday Extras、Codexでメインアプリを2週間で作り直し予約転換率が32.5%向上",
+          "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "DifyがGartner初のAIエージェント管理Magic QuadrantでNiche Playerに選出。構築から統制・運用まで一体で支える方針",
+          "link": "https://dify.ai/blog/dify-recgonized-gartner-magic-quadrant-ai-agent-management-platform",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261112T020708Z",
       "title": "Morning AI(2026年11月12日 11:07)",
@@ -1161,61 +1238,6 @@
         {
           "title": "Hugging Face、20Bオープンモデルで独自デザイン言語のスライドを作る「Palette」を開発。PresentBenchの2領域で1位",
           "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261103T164711Z",
-      "title": "Morning AI(2026年11月4日 1:47)",
-      "date": "2026-11-03T16:47:11.718169+00:00",
-      "items": [
-        {
-          "title": "a16z、米国消費者500人の調査をもとにロンジェビティ分野の有望6領域を分析。価値は検査や処方など「行動」を支える企業に移ると主張",
-          "link": "https://a16z.com/the-state-of-longevity/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "CodeRabbit Secure がランタイム検証を導入、Deep Scan の検出結果を Runtime Analysis で実行し証拠付きで確かめられる",
-          "link": "https://www.coderabbit.ai/ja/blog/runtime-verification-in-coderabbit-secure",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "欧州の住宅不動産会社Heimstaden、OpenAIで賃貸業務を刷新。オランダで物件画像の制作費を99%超削減",
-          "link": "https://openai.com/index/heimstaden",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Hugging Face、縮小モデルをCPUで動かしTransformersの回帰をPR段階で検出するテスト規格MICを提案",
-          "link": "https://huggingface.co/blog/transformers-mic",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Vals、Fireworks顧客向けにカスタムevalの構築・保守を支援。汎用ベンチマークでは自社業務に最適なモデルは選べないと主張",
-          "link": "https://www.vals.ai/blogs/vals-fireworks-partnership",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Anthropic、重みを秘匿したまま応答の出所を証明するFlashProveを公開。400Bモデルを単一H100で約110トークン/秒で証明",
-          "link": "https://www.anthropic.com/research/provable-inference",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、Cathedralと組み自社モデルで防御を検証する次回セキュリティスプリントを準備。重大な発見への報奨金を4倍超に引き上げ",
-          "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、Security Bug Bountyの報奨金の中央値を平均4倍超に。ChatGPTなどのcriticalは最大$30,000",
-          "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
           "label": null,
           "extra": []
         }

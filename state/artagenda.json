@@ -1,5 +1,13 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12684",
+    "https://www.artagenda.jp/exhibition/detail/11909",
+    "https://www.artagenda.jp/exhibition/detail/11546",
+    "https://www.artagenda.jp/exhibition/detail/12911",
+    "https://www.artagenda.jp/exhibition/detail/12912",
+    "https://www.artagenda.jp/exhibition/detail/12913",
+    "https://www.artagenda.jp/exhibition/detail/12969",
+    "https://www.artagenda.jp/exhibition/detail/12963",
     "https://www.artagenda.jp/exhibition/detail/11788",
     "https://www.artagenda.jp/exhibition/detail/11921",
     "https://www.artagenda.jp/exhibition/detail/12853",
@@ -103,7 +111,6 @@
     "https://www.artagenda.jp/exhibition/detail/12288",
     "https://www.artagenda.jp/exhibition/detail/12038",
     "https://www.artagenda.jp/exhibition/detail/12040",
-    "https://www.artagenda.jp/exhibition/detail/12684",
     "https://www.artagenda.jp/exhibition/detail/11982",
     "https://www.artagenda.jp/exhibition/detail/11981",
     "https://www.artagenda.jp/exhibition/detail/12281",
@@ -365,7 +372,6 @@
     "https://www.artagenda.jp/exhibition/detail/12223",
     "https://www.artagenda.jp/exhibition/detail/12752",
     "https://www.artagenda.jp/exhibition/detail/12532",
-    "https://www.artagenda.jp/exhibition/detail/11909",
     "https://www.artagenda.jp/exhibition/detail/12721",
     "https://www.artagenda.jp/exhibition/detail/11520",
     "https://www.artagenda.jp/exhibition/detail/11770",
@@ -447,7 +453,6 @@
     "https://www.artagenda.jp/exhibition/detail/11739",
     "https://www.artagenda.jp/exhibition/detail/11695",
     "https://www.artagenda.jp/exhibition/detail/11587",
-    "https://www.artagenda.jp/exhibition/detail/11546",
     "https://www.artagenda.jp/exhibition/detail/11550",
     "https://www.artagenda.jp/exhibition/detail/11507",
     "https://www.artagenda.jp/exhibition/detail/4240",
@@ -494,14 +499,56 @@
     "https://www.artagenda.jp/exhibition/detail/12531",
     "https://www.artagenda.jp/exhibition/detail/12746",
     "https://www.artagenda.jp/exhibition/detail/12773",
-    "https://www.artagenda.jp/exhibition/detail/11812",
-    "https://www.artagenda.jp/exhibition/detail/12715",
-    "https://www.artagenda.jp/exhibition/detail/11920",
-    "https://www.artagenda.jp/exhibition/detail/12655",
-    "https://www.artagenda.jp/exhibition/detail/11738",
-    "https://www.artagenda.jp/exhibition/detail/12730"
+    "https://www.artagenda.jp/exhibition/detail/11812"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261112T172052Z",
+      "title": "アートアジェンダ 展覧会(2026年11月13日 2:20)",
+      "date": "2026-11-12T17:20:52.815580+00:00",
+      "items": [
+        {
+          "title": "関口雄揮展－箱根百景－",
+          "link": "https://www.artagenda.jp/exhibition/detail/12911",
+          "label": "11/12〜2027/3/17",
+          "extra": [
+            "箱根・芦ノ湖成川美術館｜神奈川県"
+          ]
+        },
+        {
+          "title": "収蔵名作展 日本画の煌めき",
+          "link": "https://www.artagenda.jp/exhibition/detail/12912",
+          "label": "11/12〜2027/3/17",
+          "extra": [
+            "箱根・芦ノ湖成川美術館｜神奈川県"
+          ]
+        },
+        {
+          "title": "山本丘人セレクション展－春夏秋冬を描く－",
+          "link": "https://www.artagenda.jp/exhibition/detail/12913",
+          "label": "11/12〜2027/3/17",
+          "extra": [
+            "箱根・芦ノ湖成川美術館｜神奈川県"
+          ]
+        },
+        {
+          "title": "エッシャー 無限のつくりかた",
+          "link": "https://www.artagenda.jp/exhibition/detail/12969",
+          "label": "2027/7/2〜2027/9/26",
+          "extra": [
+            "CREATIVE MUSEUM TOKYO｜東京都"
+          ]
+        },
+        {
+          "title": "北欧の巨匠 ガッレン＝カッレラ──フィンランドの自然と神話（仮称）",
+          "link": "https://www.artagenda.jp/exhibition/detail/12963",
+          "label": "2027/10/8〜2028/1/23",
+          "extra": [
+            "三菱一号館美術館｜東京都"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261112T020915Z",
       "title": "アートアジェンダ 展覧会(2026年11月12日 11:09)",
@@ -853,29 +900,6 @@
           "label": "12/5〜2027/3/7",
           "extra": [
             "NTTインターコミュニケーション・センター［ICC］｜東京都"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261029T155043Z",
-      "title": "アートアジェンダ 展覧会(2026年10月30日 0:50)",
-      "date": "2026-10-29T15:50:43.838334+00:00",
-      "items": [
-        {
-          "title": "企画展「謎のいきもの」",
-          "link": "https://www.artagenda.jp/exhibition/detail/12936",
-          "label": "11/28〜2027/3/28",
-          "extra": [
-            "岡本太郎記念館｜東京都"
-          ]
-        },
-        {
-          "title": "「銀河鉄道９９９」５０周年プロジェクト 松本零士展 創作の旅路",
-          "link": "https://www.artagenda.jp/exhibition/detail/12894",
-          "label": "2027/7/31〜2027/9/26",
-          "extra": [
-            "あべのハルカス美術館｜大阪府"
           ]
         }
       ]
