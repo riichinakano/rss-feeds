@@ -1,5 +1,23 @@
 {
   "seen": [
+    "https://openai.com/business/customer-stories/amplitude",
+    "https://openrouter.ai/blog/tutorials/reranking-rag/",
+    "https://openai.com/business/customer-stories/gondola",
+    "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+    "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
+    "https://a16z.com/super-intelligence-era-critical-infrastructure-cyber-defense-plan/",
+    "https://openai.com/index/amplitude",
+    "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
+    "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "https://blog.box.com/gemini-4-hydrogen-brings-accuracy-and-speed-data-heavy-enterprise-work",
+    "https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+    "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+    "https://claude.com/resources/articles/j-crew-style-advisor-with-claude",
     "https://claude.com/resources/articles/claude-tag-guide-for-startups",
     "https://a16z.com/gamings-next-origin-stories/",
     "https://blog.box.com/knowledge-workers-want-better-ai-less-complexity",
@@ -293,6 +311,121 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261113T014131Z",
+      "title": "Morning AI(2026年11月13日 10:41)",
+      "date": "2026-11-13T01:41:31.237439+00:00",
+      "items": [
+        {
+          "title": "Amplitude、OpenAIモデル主体のエージェント「Wave」でプロダクト改善の出荷を約1か月から1–2日に短縮できると試算",
+          "link": "https://openai.com/business/customer-stories/amplitude",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenRouter、RAGにリランカーを足す手順を解説。274問の検証で正解チャンクの1位率が81%から97%に向上",
+          "link": "https://openrouter.ai/blog/tutorials/reranking-rag/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "GondolaがCodexとChatGPTを導入し、エンジニアを増やさず開発出力25%増。売上は前年比2倍超",
+          "link": "https://openai.com/business/customer-stories/gondola",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "GitHub、汎用シークレット検出をLLMからModernBERT分類器に移行。コスト98%以上減、push protectionにも拡大",
+          "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "NVIDIAのジェンスン・フアンCEOが即時辞任。CFOのコレット・クレスが暫定CEOを兼務",
+          "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google Labs、AIクリエイティブスタジオGoogle Flowでクリエイターが作った映像制作ツール5種を公開。自作ツールの構築も可能",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16zのAnne NeubergerがAI時代の国家サイバー防衛計画を提言。数百の重要インフラ事業者を優先し6か月以内の封じ込めを求めた",
+          "link": "https://a16z.com/super-intelligence-era-critical-infrastructure-cyber-defense-plan/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Amplitude、OpenAIモデル主体のプロダクトエージェントWaveで改善の出荷を約1か月から1〜2日に短縮できる見込み",
+          "link": "https://openai.com/index/amplitude",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Gemini 4 ArgonにGoのアセンブリをZ3の制約へ翻訳させて境界バグを検出。skill-lintで潜在バグ3件を発見",
+          "link": "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "マークアップ言語LLMONに対応したGranite 4.1 3B/8B実験版が公開。命令とデータの分離で間接プロンプトインジェクションを抑止",
+          "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "BoxがGemini 4 Hydrogenを自社ベンチマークで評価。スコア79%でGemini 3.8 Flashを上回り処理時間は半分以下",
+          "link": "https://blog.box.com/gemini-4-hydrogen-brings-accuracy-and-speed-data-heavy-enterprise-work",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、社内で数百体のOpenClaw永続エージェントを運用するセキュリティ対策を解説。サンドボックスとAuto-reviewを併用",
+          "link": "https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、高速モデルGemini 4 Hydrogenを全ユーザーに提供開始。上位のArgon並みの知能で入力100万トークン$1.50",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、日常のコーディングとエージェント型ワークフロー向けの高速モデルGemini 4 Hydrogenを開発者向けに提供開始",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "GoogleがGoogle検索にGemini 4 Hydrogenを全世界の全ユーザー向けに導入。検索史上最大のモデルアップグレード",
+          "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google DeepMind、高速モデルGemini 4 Hydrogenを全ユーザーに提供開始。上位のArgonを指標で上回る",
+          "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Gemini in Chrome の使い方を紹介。ツールバーからサイドパネルを開き、別タブなしで要約や製品比較ができる",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "J.Crewが、Claude Codeで構築したAIスタイリスト「Style Advisor」を公開。コーディネート一式で買い物できる",
+          "link": "https://claude.com/resources/articles/j-crew-style-advisor-with-claude",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261112T171842Z",
       "title": "Morning AI(2026年11月13日 2:18)",
@@ -1177,67 +1310,6 @@
         {
           "title": "Cloudflare、パーソナルエージェントのアクセス状況を見られる分析機能を提供開始。エージェントごとに許可や広告ページのみのブロックを設定できる",
           "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261104T010238Z",
-      "title": "Morning AI(2026年11月4日 10:02)",
-      "date": "2026-11-04T01:02:38.726863+00:00",
-      "items": [
-        {
-          "title": "Vals AI、7社のトップモデルのreasoning設定を比較。最低設定でも7モデル中4モデルが半分以下のコストでスコアの80%以上を維持",
-          "link": "https://www.vals.ai/blogs/reasoning-effort",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、Uber社長を務めたJill HazelbakerをChief Corporate Affairs Officerに起用",
-          "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Cisco、OpenAIのモデルとネットワークテレメトリを組み合わせマシンスピードで防御。GPT-6 Astraで脆弱性対応を短縮",
-          "link": "https://openai.com/index/cisco-cyber",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAIのGPT‑6 Astra、人の直接編集なしでデバイスを設計。社内ハードウェアチームの利用は2月以降23倍に増加",
-          "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Collinear AI、脆弱性修正ベンチマークCWE-bench v2の100タスクを公開。首位モデルでもpass@1は67.8%",
-          "link": "https://huggingface.co/blog/cwe-bench",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Hugging Face、長文の状態追跡を4段階で測るStateBenchを公開。フロンティアモデルは最難関の最長問題で精度13%以下",
-          "link": "https://huggingface.co/blog/allenai/statebench",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "DeepMindがGoogle Antigravity向けCheminformatics Skillsを公開、数日かかる創薬ワークフローを1時間で実行できる",
-          "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、Jevで難しいタスクだけGemini 3.8 Flashの低思考へ回す構成を50問で検証、全問正解でコストと待ち時間を削減",
-          "link": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Hugging Face、20Bオープンモデルで独自デザイン言語のスライドを作る「Palette」を開発。PresentBenchの2領域で1位",
-          "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
           "label": null,
           "extra": []
         }
