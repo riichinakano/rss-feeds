@@ -1,5 +1,10 @@
 {
   "seen": [
+    "https://www.coderabbit.ai/ja/blog/coderabbit-secure-deep-scan-open-source",
+    "https://openai.com/index/introducing-chatgpt-wallet",
+    "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "https://a16z.com/big-pharma-can-rival-big-software/",
+    "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
     "https://openai.com/business/customer-stories/amplitude",
     "https://openrouter.ai/blog/tutorials/reranking-rag/",
     "https://openai.com/business/customer-stories/gondola",
@@ -311,6 +316,43 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261113T165408Z",
+      "title": "Morning AI(2026年11月14日 1:54)",
+      "date": "2026-11-13T16:54:08.133189+00:00",
+      "items": [
+        {
+          "title": "CodeRabbit SecureのDeep Scan、OSSで1,200件超の脆弱性を発見。初回スキャンを最大1,000ドル分無料で提供",
+          "link": "https://www.coderabbit.ai/ja/blog/coderabbit-secure-deep-scan-open-source",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIが「ChatGPT Wallet」を発表。エージェントが実際のカード情報を使わず、購入ごとのセキュリティチェックを経て支払える",
+          "link": "https://openai.com/index/introducing-chatgpt-wallet",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Hugging Face、llama.cppとggmlのライブラリv1.0.0を公開。API・ABIの非互換はメジャーバージョン更新で明示",
+          "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16z、フロンティアモデルの進化が創薬の「Eroomの法則」に対抗すると分析。AIで自社医薬品を開発する垂直統合型企業に最も期待",
+          "link": "https://a16z.com/big-pharma-can-rival-big-software/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "DeepMind、衛星画像SatWeaveとAI降水データPARDIGを公開。PARDIGはIMERG-Finalを全降水強度で上回る",
+          "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261113T014131Z",
       "title": "Morning AI(2026年11月13日 10:41)",
@@ -1273,43 +1315,6 @@
         {
           "title": "Dharma-AI、文書から指定項目をJSONで抽出する20億パラメータのモデルを公開。フロンティアLLMより高品質でコストは6〜147分の1",
           "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261104T164702Z",
-      "title": "Morning AI(2026年11月5日 1:47)",
-      "date": "2026-11-04T16:47:02.206361+00:00",
-      "items": [
-        {
-          "title": "OpenAI、GPT‑5.6 CyberをDaybreak Red経由でAWS GovCloud (US-East)の承認済み顧客に提供開始",
-          "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAIがCode Storage開発元のPierreを買収へ。Codexのコードレビューとソース管理を強化",
-          "link": "https://openai.com/index/openai-to-acquire-pierre",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "a16z、テック・バイアウトの苦境は構造的だと指摘し、LPに再投資よりトップ5%のベンチャーを選ぶよう提言",
-          "link": "https://a16z.com/is-private-equity-cooked/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Amazon、無料のShop Direct Merchant Workspaceを開始。既存カタログを使い回して自社ストアをAmazonに接続できる",
-          "link": "https://www.aboutamazon.com/news/retail/amazon-shop-direct-merchant-workspace",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Cloudflare、パーソナルエージェントのアクセス状況を見られる分析機能を提供開始。エージェントごとに許可や広告ページのみのブロックを設定できる",
-          "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
           "label": null,
           "extra": []
         }

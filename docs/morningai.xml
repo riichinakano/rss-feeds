@@ -6,7 +6,18 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Nov 2026 01:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:54:08 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月14日 1:54)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261113T165408Z</guid>
+      <pubDate>Fri, 13 Nov 2026 16:54:08 +0000</pubDate>
+      <description>&lt;p&gt;CodeRabbit SecureのDeep Scan、OSSで1,200件超の脆弱性を発見。初回スキャンを最大1,000ドル分無料で提供&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/coderabbit-secure-deep-scan-open-source"&gt;https://www.coderabbit.ai/ja/blog/coderabbit-secure-deep-scan-open-source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIが「ChatGPT Wallet」を発表。エージェントが実際のカード情報を使わず、購入ごとのセキュリティチェックを経て支払える&lt;br&gt;&lt;a href="https://openai.com/index/introducing-chatgpt-wallet"&gt;https://openai.com/index/introducing-chatgpt-wallet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、llama.cppとggmlのライブラリv1.0.0を公開。API・ABIの非互換はメジャーバージョン更新で明示&lt;br&gt;&lt;a href="https://huggingface.co/blog/ggml-org/llama-cpp-v1"&gt;https://huggingface.co/blog/ggml-org/llama-cpp-v1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16z、フロンティアモデルの進化が創薬の「Eroomの法則」に対抗すると分析。AIで自社医薬品を開発する垂直統合型企業に最も期待&lt;br&gt;&lt;a href="https://a16z.com/big-pharma-can-rival-big-software/"&gt;https://a16z.com/big-pharma-can-rival-big-software/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DeepMind、衛星画像SatWeaveとAI降水データPARDIGを公開。PARDIGはIMERG-Finalを全降水強度で上回る&lt;br&gt;&lt;a href="https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/"&gt;https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月13日 10:41)</title>
       <link>https://morningaiapp.com</link>
@@ -230,17 +241,6 @@
 &lt;p&gt;Claude Platformがmessage threadsをパブリックベータ公開。500k〜1Mトークン時のTTFT中央値が約35%短縮&lt;br&gt;&lt;a href="https://claude.com/resources/articles/message-threads"&gt;https://claude.com/resources/articles/message-threads&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google Research、境界事例を見せて主観的な画像分類器を作るAgile Deliberationを発表。精度向上と負担軽減を確認&lt;br&gt;&lt;a href="https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/"&gt;https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Dharma-AI、文書から指定項目をJSONで抽出する20億パラメータのモデルを公開。フロンティアLLMより高品質でコストは6〜147分の1&lt;br&gt;&lt;a href="https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"&gt;https://huggingface.co/blog/Dharma-AI/dharma-field-extractor&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月5日 1:47)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261104T164702Z</guid>
-      <pubDate>Wed, 04 Nov 2026 16:47:02 +0000</pubDate>
-      <description>&lt;p&gt;OpenAI、GPT‑5.6 CyberをDaybreak Red経由でAWS GovCloud (US-East)の承認済み顧客に提供開始&lt;br&gt;&lt;a href="https://openai.com/index/daybreak-red-aws-govcloud"&gt;https://openai.com/index/daybreak-red-aws-govcloud&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIがCode Storage開発元のPierreを買収へ。Codexのコードレビューとソース管理を強化&lt;br&gt;&lt;a href="https://openai.com/index/openai-to-acquire-pierre"&gt;https://openai.com/index/openai-to-acquire-pierre&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;a16z、テック・バイアウトの苦境は構造的だと指摘し、LPに再投資よりトップ5%のベンチャーを選ぶよう提言&lt;br&gt;&lt;a href="https://a16z.com/is-private-equity-cooked/"&gt;https://a16z.com/is-private-equity-cooked/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Amazon、無料のShop Direct Merchant Workspaceを開始。既存カタログを使い回して自社ストアをAmazonに接続できる&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/retail/amazon-shop-direct-merchant-workspace"&gt;https://www.aboutamazon.com/news/retail/amazon-shop-direct-merchant-workspace&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Cloudflare、パーソナルエージェントのアクセス状況を見られる分析機能を提供開始。エージェントごとに許可や広告ページのみのブロックを設定できる&lt;br&gt;&lt;a href="https://blog.cloudflare.com/personal-agents-visibility-control/"&gt;https://blog.cloudflare.com/personal-agents-visibility-control/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
