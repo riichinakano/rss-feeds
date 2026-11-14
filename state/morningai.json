@@ -1,5 +1,14 @@
 {
   "seen": [
+    "https://openai.com/business/customer-stories/shield",
+    "https://openai.com/daybreak/defense-factory/",
+    "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+    "https://blog.cloudflare.com/kitesurf-open-source/",
+    "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+    "https://www.anthropic.com/research/building-strong-safety-evaluations",
+    "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "https://huggingface.co/blog/allenai/xybench",
+    "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
     "https://www.coderabbit.ai/ja/blog/coderabbit-secure-deep-scan-open-source",
     "https://openai.com/index/introducing-chatgpt-wallet",
     "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
@@ -316,6 +325,67 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261114T011736Z",
+      "title": "Morning AI(2026年11月14日 10:17)",
+      "date": "2026-11-14T01:17:36.919295+00:00",
+      "items": [
+        {
+          "title": "Shield、GPT‑6 AstraでAPIのない古いポータル作業をエージェントに任せる。従来モデルより平均35-40%高速",
+          "link": "https://openai.com/business/customer-stories/shield",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Defense Factory、AIエージェントが脆弱性を調査して修正パッチを用意。エンジニアはCodexで調整しマージ前にレビューできる",
+          "link": "https://openai.com/daybreak/defense-factory/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google Researchが/teamworkとGemini 4で数学や化学の未解決問題に成果。Antigravityで外部研究者にも提供",
+          "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "CloudflareがAIエージェント向けブラウザKitesurfをApache 2.0でオープンソース化。自分のアカウントにデプロイできる",
+          "link": "https://blog.cloudflare.com/kitesurf-open-source/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Claude Managed Agents、セルフホスト版をプライベートベータで提供開始。サービス全体を自社クラウドやオンプレミスで運用できる",
+          "link": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic、AI安全性評価の作り方を提言。測る構成概念の事前定義やグレーダーの人間判断での検証、不確実性の報告を重視",
+          "link": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Hugging Face、SimReady CentralのアセットとAIエージェントでIsaac Simに缶のピック＆プレースを構築する手順",
+          "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Hugging Face、誤った前提の質問への対応を測る「XYBench」を公開。5モデルとも誤解の指摘で人間を下回った",
+          "link": "https://huggingface.co/blog/allenai/xybench",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、GeminiのPersonal IntelligenceにGoogle Wallet連携を追加。米国の全ユーザーが支出データに基づく家計相談を利用できる",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261113T165408Z",
       "title": "Morning AI(2026年11月14日 1:54)",
@@ -1260,61 +1330,6 @@
         {
           "title": "OpenAI、画像生成モデルImages 2.6を公開。生成速度が50%向上し、GIFで動きのある表現も作成できる",
           "link": "https://openai.com/index/introducing-images-2-6",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261105T011754Z",
-      "title": "Morning AI(2026年11月5日 10:17)",
-      "date": "2026-11-05T01:17:54.304565+00:00",
-      "items": [
-        {
-          "title": "DevRev、企業のサービス業務を担うComputerとOperatorをGPT‑6.1 Solで駆動。推論力・速度・コストを両立",
-          "link": "https://openai.com/index/devrev-enterprise-self-service",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、自律型パイプラインでLinuxのローカル権限昇格脆弱性948件を検証しパッチ生成、APIコストは$1.2 million",
-          "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Tencent が Hy4 をリリース。Hy として初めてオープンソースモデルの最上位級に入ったとし、重みは今後公開予定",
-          "link": "https://hy.tencent.ai/research/hy4?langVersion=en",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "PangramがAI画像・動画検出のPangram Image 1.0を発表。画像で正解率99.96%、高速版は動画のDF26で98.7%",
-          "link": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Anthropic、原核細胞のvault粒子の3D構造を初めて解明。Claudeを全工程に組み込み4か月未満で到達",
-          "link": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Claude Platformがmessage threadsをパブリックベータ公開。500k〜1Mトークン時のTTFT中央値が約35%短縮",
-          "link": "https://claude.com/resources/articles/message-threads",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google Research、境界事例を見せて主観的な画像分類器を作るAgile Deliberationを発表。精度向上と負担軽減を確認",
-          "link": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Dharma-AI、文書から指定項目をJSONで抽出する20億パラメータのモデルを公開。フロンティアLLMより高品質でコストは6〜147分の1",
-          "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
           "label": null,
           "extra": []
         }

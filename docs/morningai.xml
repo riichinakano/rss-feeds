@@ -6,7 +6,22 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Nov 2026 16:54:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:17:36 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月14日 10:17)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261114T011736Z</guid>
+      <pubDate>Sat, 14 Nov 2026 01:17:36 +0000</pubDate>
+      <description>&lt;p&gt;Shield、GPT‑6 AstraでAPIのない古いポータル作業をエージェントに任せる。従来モデルより平均35-40%高速&lt;br&gt;&lt;a href="https://openai.com/business/customer-stories/shield"&gt;https://openai.com/business/customer-stories/shield&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Defense Factory、AIエージェントが脆弱性を調査して修正パッチを用意。エンジニアはCodexで調整しマージ前にレビューできる&lt;br&gt;&lt;a href="https://openai.com/daybreak/defense-factory/"&gt;https://openai.com/daybreak/defense-factory/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google Researchが/teamworkとGemini 4で数学や化学の未解決問題に成果。Antigravityで外部研究者にも提供&lt;br&gt;&lt;a href="https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"&gt;https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CloudflareがAIエージェント向けブラウザKitesurfをApache 2.0でオープンソース化。自分のアカウントにデプロイできる&lt;br&gt;&lt;a href="https://blog.cloudflare.com/kitesurf-open-source/"&gt;https://blog.cloudflare.com/kitesurf-open-source/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude Managed Agents、セルフホスト版をプライベートベータで提供開始。サービス全体を自社クラウドやオンプレミスで運用できる&lt;br&gt;&lt;a href="https://claude.com/resources/articles/self-hosted-claude-managed-agents"&gt;https://claude.com/resources/articles/self-hosted-claude-managed-agents&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic、AI安全性評価の作り方を提言。測る構成概念の事前定義やグレーダーの人間判断での検証、不確実性の報告を重視&lt;br&gt;&lt;a href="https://www.anthropic.com/research/building-strong-safety-evaluations"&gt;https://www.anthropic.com/research/building-strong-safety-evaluations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、SimReady CentralのアセットとAIエージェントでIsaac Simに缶のピック＆プレースを構築する手順&lt;br&gt;&lt;a href="https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"&gt;https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、誤った前提の質問への対応を測る「XYBench」を公開。5モデルとも誤解の指摘で人間を下回った&lt;br&gt;&lt;a href="https://huggingface.co/blog/allenai/xybench"&gt;https://huggingface.co/blog/allenai/xybench&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、GeminiのPersonal IntelligenceにGoogle Wallet連携を追加。米国の全ユーザーが支出データに基づく家計相談を利用できる&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月14日 1:54)</title>
       <link>https://morningaiapp.com</link>
@@ -227,20 +242,6 @@
 &lt;p&gt;Gradiumが約65 MBと75 MBの端末内TTS「Phonon」を公開、Open TTS LeaderboardのCPU応答速度で首位&lt;br&gt;&lt;a href="https://huggingface.co/blog/phonon-tts"&gt;https://huggingface.co/blog/phonon-tts&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;OpenAIがNational Community Compactで自社キャンパスの住民関与と電力費全額負担を約束、業界ルール整備も提言&lt;br&gt;&lt;a href="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"&gt;https://openai.com/index/setting-new-standard-responsible-ai-infrastructure&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;OpenAI、画像生成モデルImages 2.6を公開。生成速度が50%向上し、GIFで動きのある表現も作成できる&lt;br&gt;&lt;a href="https://openai.com/index/introducing-images-2-6"&gt;https://openai.com/index/introducing-images-2-6&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月5日 10:17)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261105T011754Z</guid>
-      <pubDate>Thu, 05 Nov 2026 01:17:54 +0000</pubDate>
-      <description>&lt;p&gt;DevRev、企業のサービス業務を担うComputerとOperatorをGPT‑6.1 Solで駆動。推論力・速度・コストを両立&lt;br&gt;&lt;a href="https://openai.com/index/devrev-enterprise-self-service"&gt;https://openai.com/index/devrev-enterprise-self-service&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、自律型パイプラインでLinuxのローカル権限昇格脆弱性948件を検証しパッチ生成、APIコストは$1.2 million&lt;br&gt;&lt;a href="https://openai.com/index/a-thousand-fewer-paths-to-root"&gt;https://openai.com/index/a-thousand-fewer-paths-to-root&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Tencent が Hy4 をリリース。Hy として初めてオープンソースモデルの最上位級に入ったとし、重みは今後公開予定&lt;br&gt;&lt;a href="https://hy.tencent.ai/research/hy4?langVersion=en"&gt;https://hy.tencent.ai/research/hy4?langVersion=en&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;PangramがAI画像・動画検出のPangram Image 1.0を発表。画像で正解率99.96%、高速版は動画のDF26で98.7%&lt;br&gt;&lt;a href="https://www.pangram.com/blog/introducing-pangram-image-1-0"&gt;https://www.pangram.com/blog/introducing-pangram-image-1-0&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic、原核細胞のvault粒子の3D構造を初めて解明。Claudeを全工程に組み込み4か月未満で到達&lt;br&gt;&lt;a href="https://www.anthropic.com/research/investigating-vault-particles-with-claude"&gt;https://www.anthropic.com/research/investigating-vault-particles-with-claude&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claude Platformがmessage threadsをパブリックベータ公開。500k〜1Mトークン時のTTFT中央値が約35%短縮&lt;br&gt;&lt;a href="https://claude.com/resources/articles/message-threads"&gt;https://claude.com/resources/articles/message-threads&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google Research、境界事例を見せて主観的な画像分類器を作るAgile Deliberationを発表。精度向上と負担軽減を確認&lt;br&gt;&lt;a href="https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/"&gt;https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Dharma-AI、文書から指定項目をJSONで抽出する20億パラメータのモデルを公開。フロンティアLLMより高品質でコストは6〜147分の1&lt;br&gt;&lt;a href="https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"&gt;https://huggingface.co/blog/Dharma-AI/dharma-field-extractor&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
