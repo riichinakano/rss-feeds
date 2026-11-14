@@ -1,5 +1,8 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12214",
+    "https://www.artagenda.jp/exhibition/detail/11979",
+    "https://www.artagenda.jp/exhibition/detail/12977",
     "https://www.artagenda.jp/exhibition/detail/12532",
     "https://www.artagenda.jp/exhibition/detail/12825",
     "https://www.artagenda.jp/exhibition/detail/12716",
@@ -438,7 +441,6 @@
     "https://www.artagenda.jp/exhibition/detail/11846",
     "https://www.artagenda.jp/exhibition/detail/12438",
     "https://www.artagenda.jp/exhibition/detail/12332",
-    "https://www.artagenda.jp/exhibition/detail/12214",
     "https://www.artagenda.jp/exhibition/detail/12215",
     "https://www.artagenda.jp/exhibition/detail/12274",
     "https://www.artagenda.jp/exhibition/detail/12141",
@@ -497,11 +499,32 @@
     "https://www.artagenda.jp/exhibition/detail/11629",
     "https://www.artagenda.jp/exhibition/detail/12412",
     "https://www.artagenda.jp/exhibition/detail/12531",
-    "https://www.artagenda.jp/exhibition/detail/12746",
-    "https://www.artagenda.jp/exhibition/detail/12773",
-    "https://www.artagenda.jp/exhibition/detail/11812"
+    "https://www.artagenda.jp/exhibition/detail/12746"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261114T153111Z",
+      "title": "アートアジェンダ 展覧会(2026年11月15日 0:31)",
+      "date": "2026-11-14T15:31:11.827623+00:00",
+      "items": [
+        {
+          "title": "企画展「正月の風物詩－年越し･歳取りの芸能や美術」",
+          "link": "https://www.artagenda.jp/exhibition/detail/11979",
+          "label": "2027/1/1〜2027/3/22",
+          "extra": [
+            "大倉集古館｜東京都"
+          ]
+        },
+        {
+          "title": "レンブラントからモネ、ゴッホ ハマー美術館展",
+          "link": "https://www.artagenda.jp/exhibition/detail/12977",
+          "label": "2027/9/11〜2027/12/12",
+          "extra": [
+            "東京都美術館｜東京都"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261112T172052Z",
       "title": "アートアジェンダ 展覧会(2026年11月13日 2:20)",
@@ -869,37 +892,6 @@
           "label": "11/21〜2027/1/11",
           "extra": [
             "八戸市美術館｜青森県"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261030T153135Z",
-      "title": "アートアジェンダ 展覧会(2026年10月31日 0:31)",
-      "date": "2026-10-30T15:31:35.377049+00:00",
-      "items": [
-        {
-          "title": "海の表象 ～ヴェネツィアガラスと水のなかまたち",
-          "link": "https://www.artagenda.jp/exhibition/detail/12631",
-          "label": "5/20〜11/29",
-          "extra": [
-            "北一ヴェネツィア美術館｜北海道"
-          ]
-        },
-        {
-          "title": "Ocean View・横須賀ストーリー ─横須賀美術館コレクション展─",
-          "link": "https://www.artagenda.jp/exhibition/detail/12268",
-          "label": "10/25〜12/25",
-          "extra": [
-            "和泉市久保惣記念美術館｜大阪府"
-          ]
-        },
-        {
-          "title": "わたしの身体はだれのもの？",
-          "link": "https://www.artagenda.jp/exhibition/detail/12573",
-          "label": "12/5〜2027/3/7",
-          "extra": [
-            "NTTインターコミュニケーション・センター［ICC］｜東京都"
           ]
         }
       ]
