@@ -6,7 +6,15 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 14 Nov 2026 01:17:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:46:08 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月16日 9:46)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261116T004608Z</guid>
+      <pubDate>Mon, 16 Nov 2026 00:46:08 +0000</pubDate>
+      <description>&lt;p&gt;OpenAIが「OpenAI science blog」を開設。AIを使った研究成果や手法、その検証方法と限界、研究者の視点を発信&lt;br&gt;&lt;a href="https://openai.com/index/our-new-blog-for-science"&gt;https://openai.com/index/our-new-blog-for-science&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;物理学者Nathaniel CraigとGPT‑6 Astra、50年以上未解決だった標準模型の非摂動的な格子定義の候補を提案&lt;br&gt;&lt;a href="https://openai.com/index/step-toward-defining-the-standard-model"&gt;https://openai.com/index/step-toward-defining-the-standard-model&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月14日 10:17)</title>
       <link>https://morningaiapp.com</link>
@@ -230,18 +238,6 @@
 &lt;p&gt;Google、動画生成モデル Gemini Omni 1.2 Flash を一般提供。15秒の生成と会話型編集に対応し、価格は30%値下げ&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"&gt;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Cloudflare、AIエージェントが仲介してもサイトとユーザーの関係を保つオープン標準が必要と提言。TAD連合の発足も発表&lt;br&gt;&lt;a href="https://blog.cloudflare.com/trusted-agent-delegation/"&gt;https://blog.cloudflare.com/trusted-agent-delegation/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google DeepMind、動画生成モデル Gemini Omni 1.2 Flash を一般提供。15秒クリップに対応し価格は30%値下げ&lt;br&gt;&lt;a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"&gt;https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月6日 2:02)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261105T170244Z</guid>
-      <pubDate>Thu, 05 Nov 2026 17:02:44 +0000</pubDate>
-      <description>&lt;p&gt;Google Research、市販スマートウォッチからカフ校正なしで高血圧の兆候を検出するAIを開発。カフ式の診断フローに匹敵する精度&lt;br&gt;&lt;a href="https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/"&gt;https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic、ClaudeとClaude Codeの207,000研究セッションを分析。現行AIの普及で一部分野の成果は最大2倍と試算&lt;br&gt;&lt;a href="https://www.anthropic.com/research/how-researchers-use-claude"&gt;https://www.anthropic.com/research/how-researchers-use-claude&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;a16z、AIでエクスプロイト作成が数分〜数時間に縮む一方パッチは速まらず、2026年を長く高くつくワーム時代の始まりと予測&lt;br&gt;&lt;a href="https://a16z.com/the-exploit-was-the-bottleneck/"&gt;https://a16z.com/the-exploit-was-the-bottleneck/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Gradiumが約65 MBと75 MBの端末内TTS「Phonon」を公開、Open TTS LeaderboardのCPU応答速度で首位&lt;br&gt;&lt;a href="https://huggingface.co/blog/phonon-tts"&gt;https://huggingface.co/blog/phonon-tts&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIがNational Community Compactで自社キャンパスの住民関与と電力費全額負担を約束、業界ルール整備も提言&lt;br&gt;&lt;a href="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"&gt;https://openai.com/index/setting-new-standard-responsible-ai-infrastructure&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、画像生成モデルImages 2.6を公開。生成速度が50%向上し、GIFで動きのある表現も作成できる&lt;br&gt;&lt;a href="https://openai.com/index/introducing-images-2-6"&gt;https://openai.com/index/introducing-images-2-6&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

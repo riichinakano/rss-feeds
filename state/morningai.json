@@ -1,5 +1,7 @@
 {
   "seen": [
+    "https://openai.com/index/our-new-blog-for-science",
+    "https://openai.com/index/step-toward-defining-the-standard-model",
     "https://openai.com/business/customer-stories/shield",
     "https://openai.com/daybreak/defense-factory/",
     "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
@@ -325,6 +327,25 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261116T004608Z",
+      "title": "Morning AI(2026年11月16日 9:46)",
+      "date": "2026-11-16T00:46:08.836583+00:00",
+      "items": [
+        {
+          "title": "OpenAIが「OpenAI science blog」を開設。AIを使った研究成果や手法、その検証方法と限界、研究者の視点を発信",
+          "link": "https://openai.com/index/our-new-blog-for-science",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "物理学者Nathaniel CraigとGPT‑6 Astra、50年以上未解決だった標準模型の非摂動的な格子定義の候補を提案",
+          "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261114T011736Z",
       "title": "Morning AI(2026年11月14日 10:17)",
@@ -1287,49 +1308,6 @@
         {
           "title": "Google DeepMind、動画生成モデル Gemini Omni 1.2 Flash を一般提供。15秒クリップに対応し価格は30%値下げ",
           "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261105T170244Z",
-      "title": "Morning AI(2026年11月6日 2:02)",
-      "date": "2026-11-05T17:02:44.152156+00:00",
-      "items": [
-        {
-          "title": "Google Research、市販スマートウォッチからカフ校正なしで高血圧の兆候を検出するAIを開発。カフ式の診断フローに匹敵する精度",
-          "link": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Anthropic、ClaudeとClaude Codeの207,000研究セッションを分析。現行AIの普及で一部分野の成果は最大2倍と試算",
-          "link": "https://www.anthropic.com/research/how-researchers-use-claude",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "a16z、AIでエクスプロイト作成が数分〜数時間に縮む一方パッチは速まらず、2026年を長く高くつくワーム時代の始まりと予測",
-          "link": "https://a16z.com/the-exploit-was-the-bottleneck/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Gradiumが約65 MBと75 MBの端末内TTS「Phonon」を公開、Open TTS LeaderboardのCPU応答速度で首位",
-          "link": "https://huggingface.co/blog/phonon-tts",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAIがNational Community Compactで自社キャンパスの住民関与と電力費全額負担を約束、業界ルール整備も提言",
-          "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、画像生成モデルImages 2.6を公開。生成速度が50%向上し、GIFで動きのある表現も作成できる",
-          "link": "https://openai.com/index/introducing-images-2-6",
           "label": null,
           "extra": []
         }
