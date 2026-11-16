@@ -1,5 +1,22 @@
 {
   "seen": [
+    "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "https://openai.com/index/science-at-the-frontier",
+    "https://openai.com/index/strengthening-online-child-safety",
+    "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "https://openrouter.ai/blog/announcements/hugging-face-inference-providers/",
+    "https://huggingface.co/blog/openrouter",
+    "https://www.coderabbit.ai/ja/blog/the-merge-ryan-vogel-deciding-what-to-keep",
+    "https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/",
+    "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "https://a16z.com/the-dream-of-the-1990s-is-alive-again-in-cybersecurity/",
+    "https://www.aboutamazon.com/stories/doordash-aws-autonomous-delivery-robot",
+    "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+    "https://openai.com/index/the-kings-trust-and-openai",
+    "https://openai.com/index/lvmh-media-division-partnership",
+    "https://sakana.ai/jfinbench/",
+    "https://dify.ai/blog/ai-agent-management-platform",
     "https://openai.com/index/our-new-blog-for-science",
     "https://openai.com/index/step-toward-defining-the-standard-model",
     "https://openai.com/business/customer-stories/shield",
@@ -327,6 +344,115 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261116T191151Z",
+      "title": "Morning AI(2026年11月17日 4:11)",
+      "date": "2026-11-16T19:11:51.026449+00:00",
+      "items": [
+        {
+          "title": "OpenAI、外部の評価機関4社に内部モデルへの深いアクセスを与えて安全性を独立評価する「組み込み型評価」を開始",
+          "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIが科学者のChatGPT利用を調査。AIなしでは同じ作業に1.9倍の時間がかかり、98%が発見の加速を予想",
+          "link": "https://openai.com/index/science-at-the-frontier",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、AI生成物も判別するCSAM画像分類器を審査済み組織に無償提供。既存ツールよりフラグ画像を48%削減",
+          "link": "https://openai.com/index/strengthening-online-child-safety",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、研究者へのChatGPT無料提供を最大20万人に拡大。11月23日から先着順で5万件のChatGPT Plusグラントを受付",
+          "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenRouter、Hugging Face Inference Providersのチャット推論を担う。160モデルが対象",
+          "link": "https://openrouter.ai/blog/announcements/hugging-face-inference-providers/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Hugging Face、Inference Providersの言語モデル呼び出しをOpenRouter経由に。失敗時は別プロバイダーで再試行",
+          "link": "https://huggingface.co/blog/openrouter",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "CodeRabbit創業者Harjot GillとOpenCodeのRyan Vogelが対談、AIコード時代の課題は生成でなく何をマージするかの判断",
+          "link": "https://www.coderabbit.ai/ja/blog/the-merge-ryan-vogel-deciding-what-to-keep",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、GKE上で待機中のエージェントをAgent SubstrateとAXで退避する手法を解説。2プロンプト/時ならノード費用40%削減",
+          "link": "https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、ChatGPT for Healthcareにコンピューター操作エージェントと20以上の医療プラグインを追加。臨床検索も改善",
+          "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、医療向けcomputer-useエージェントを提供開始。GPT‑6 Astraは325タスクの99%で安全と評価",
+          "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16z、Opus 4.5/4.6以降のAIでゼロデイ多発時代が再来と指摘。継続的なレッドチームとAIネイティブな防御への移行を提言",
+          "link": "https://a16z.com/the-dream-of-the-1990s-is-alive-again-in-cybersecurity/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "DoorDash、配送ロボットDotの運転AIをAWS上の大規模シミュレーションで検証。実機投入前に数百万マイル相当の走行でテスト",
+          "link": "https://www.aboutamazon.com/stories/doordash-aws-autonomous-delivery-robot",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic、AIによる脆弱性発見の高速化を受け開示期限を90日から30日に短縮。高・重大以外は45日",
+          "link": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIとThe King’s Trustが100万ポンドの提携を開始。NEETを優先し英国の若者最大2万5,000人のAIスキルを育成",
+          "link": "https://openai.com/index/the-kings-trust-and-openai",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "LVMHのメディア部門がOpenAIと戦略的提携。ChatGPT Enterpriseを導入し、ChatGPTで記事を出典リンク付きで提供",
+          "link": "https://openai.com/index/lvmh-media-division-partnership",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Sakana AI、6つの金融資格試験から日本語金融ベンチマーク「JFinBench」を構築。最良のオープンウェイトモデルも12ポイント差",
+          "link": "https://sakana.ai/jfinbench/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Dify、AIエージェント管理プラットフォームの5つの中核領域と選定法を解説。チェック数より必須要件を実証で確かめるよう提言",
+          "link": "https://dify.ai/blog/ai-agent-management-platform",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261116T004608Z",
       "title": "Morning AI(2026年11月16日 9:46)",
@@ -1217,97 +1343,6 @@
         {
           "title": "インドのcult.fitがCodexを非エンジニア部門にも展開し20以上の社内アプリを構築。サポート費用は50%以上削減",
           "link": "https://openai.com/index/cultfit-builds-with-codex",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261106T012249Z",
-      "title": "Morning AI(2026年11月6日 10:22)",
-      "date": "2026-11-06T01:22:49.797343+00:00",
-      "items": [
-        {
-          "title": "Thinking MachinesのInkling 2 Small、スコア18ポイント増でGemini 3.8 Flash (high)に並ぶ",
-          "link": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Flipsnack、ChatGPT Ads をコンバージョン重視に切り替え、米国5キャンペーンで登録数約310%増・登録単価約75%減",
-          "link": "https://openai.com/ads/customers/flipsnack",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Thinking Machines Lab、長時間の自律作業に強いInkling 2 SmallをTinkerで提供。来週ウェイト公開予定",
-          "link": "https://thinkingmachines.ai/news/inkling-2-small/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "MergeがGPT-6 AstraとCodexを製品開発や営業に活用し、役員向け会食の準備を数十時間から約30分に短縮",
-          "link": "https://openai.com/index/merge-builds-with-openai",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Anthropic、Claudeに銀行・カード口座を読み取り専用で接続して質問できる「Personal Finance」を米国でベータ提供",
-          "link": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "NVIDIAがCosmos 3にオープンウェイトの4モデルを追加。対話型の世界シミュレーションと多センサー・多視点の走行シーン生成に対応",
-          "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAIがCritical分類のGPT-6 Cyberを発表。Firefoxで未知の脆弱性81件を発見し、まず承認済み顧客に提供",
-          "link": "https://openai.com/index/introducing-gpt-6-cyber",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Artificial AnalysisがNanbeige4.3-33Bを評価、総パラメータ33BでIntelligence Index 20",
-          "link": "https://artificialanalysis.ai/articles/nanbeige-has-released-nanbeige4-3-33b-scoring-20-on-the-intelligence-index",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "CodeRabbitがGPT-6 Cyberの追加効果を評価。検出は22件対19件、深刻度が高・中の指摘は66%増だが有効性は未評価",
-          "link": "https://www.coderabbit.ai/ja/blog/gpt-6-cyber-security-evaluation",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Claude Enterprise がセキュリティ・管理機能を追加。セキュリティセンターと一元管理はベータ、推論フックは一般提供",
-          "link": "https://claude.com/resources/articles/claude-enterprise-security-updates",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、Gemini の Canvas ツールで紙のスケッチの写真からコードを生成し動くツールにする手順を紹介",
-          "link": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、動画生成モデル Gemini Omni 1.2 Flash を一般提供。15秒の生成と会話型編集に対応し、価格は30%値下げ",
-          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Cloudflare、AIエージェントが仲介してもサイトとユーザーの関係を保つオープン標準が必要と提言。TAD連合の発足も発表",
-          "link": "https://blog.cloudflare.com/trusted-agent-delegation/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google DeepMind、動画生成モデル Gemini Omni 1.2 Flash を一般提供。15秒クリップに対応し価格は30%値下げ",
-          "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
           "label": null,
           "extra": []
         }

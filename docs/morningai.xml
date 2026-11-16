@@ -6,7 +6,30 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 16 Nov 2026 00:46:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:11:51 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月17日 4:11)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261116T191151Z</guid>
+      <pubDate>Mon, 16 Nov 2026 19:11:51 +0000</pubDate>
+      <description>&lt;p&gt;OpenAI、外部の評価機関4社に内部モデルへの深いアクセスを与えて安全性を独立評価する「組み込み型評価」を開始&lt;br&gt;&lt;a href="https://openai.com/index/our-first-phase-of-embedded-assessments"&gt;https://openai.com/index/our-first-phase-of-embedded-assessments&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIが科学者のChatGPT利用を調査。AIなしでは同じ作業に1.9倍の時間がかかり、98%が発見の加速を予想&lt;br&gt;&lt;a href="https://openai.com/index/science-at-the-frontier"&gt;https://openai.com/index/science-at-the-frontier&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、AI生成物も判別するCSAM画像分類器を審査済み組織に無償提供。既存ツールよりフラグ画像を48%削減&lt;br&gt;&lt;a href="https://openai.com/index/strengthening-online-child-safety"&gt;https://openai.com/index/strengthening-online-child-safety&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、研究者へのChatGPT無料提供を最大20万人に拡大。11月23日から先着順で5万件のChatGPT Plusグラントを受付&lt;br&gt;&lt;a href="https://openai.com/index/expanding-chatgpt-for-academic-researchers"&gt;https://openai.com/index/expanding-chatgpt-for-academic-researchers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenRouter、Hugging Face Inference Providersのチャット推論を担う。160モデルが対象&lt;br&gt;&lt;a href="https://openrouter.ai/blog/announcements/hugging-face-inference-providers/"&gt;https://openrouter.ai/blog/announcements/hugging-face-inference-providers/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、Inference Providersの言語モデル呼び出しをOpenRouter経由に。失敗時は別プロバイダーで再試行&lt;br&gt;&lt;a href="https://huggingface.co/blog/openrouter"&gt;https://huggingface.co/blog/openrouter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CodeRabbit創業者Harjot GillとOpenCodeのRyan Vogelが対談、AIコード時代の課題は生成でなく何をマージするかの判断&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/the-merge-ryan-vogel-deciding-what-to-keep"&gt;https://www.coderabbit.ai/ja/blog/the-merge-ryan-vogel-deciding-what-to-keep&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、GKE上で待機中のエージェントをAgent SubstrateとAXで退避する手法を解説。2プロンプト/時ならノード費用40%削減&lt;br&gt;&lt;a href="https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/"&gt;https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、ChatGPT for Healthcareにコンピューター操作エージェントと20以上の医療プラグインを追加。臨床検索も改善&lt;br&gt;&lt;a href="https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"&gt;https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、医療向けcomputer-useエージェントを提供開始。GPT‑6 Astraは325タスクの99%で安全と評価&lt;br&gt;&lt;a href="https://openai.com/index/advancing-computer-use-for-healthcare-teams"&gt;https://openai.com/index/advancing-computer-use-for-healthcare-teams&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16z、Opus 4.5/4.6以降のAIでゼロデイ多発時代が再来と指摘。継続的なレッドチームとAIネイティブな防御への移行を提言&lt;br&gt;&lt;a href="https://a16z.com/the-dream-of-the-1990s-is-alive-again-in-cybersecurity/"&gt;https://a16z.com/the-dream-of-the-1990s-is-alive-again-in-cybersecurity/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DoorDash、配送ロボットDotの運転AIをAWS上の大規模シミュレーションで検証。実機投入前に数百万マイル相当の走行でテスト&lt;br&gt;&lt;a href="https://www.aboutamazon.com/stories/doordash-aws-autonomous-delivery-robot"&gt;https://www.aboutamazon.com/stories/doordash-aws-autonomous-delivery-robot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic、AIによる脆弱性発見の高速化を受け開示期限を90日から30日に短縮。高・重大以外は45日&lt;br&gt;&lt;a href="https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines"&gt;https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIとThe King’s Trustが100万ポンドの提携を開始。NEETを優先し英国の若者最大2万5,000人のAIスキルを育成&lt;br&gt;&lt;a href="https://openai.com/index/the-kings-trust-and-openai"&gt;https://openai.com/index/the-kings-trust-and-openai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LVMHのメディア部門がOpenAIと戦略的提携。ChatGPT Enterpriseを導入し、ChatGPTで記事を出典リンク付きで提供&lt;br&gt;&lt;a href="https://openai.com/index/lvmh-media-division-partnership"&gt;https://openai.com/index/lvmh-media-division-partnership&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sakana AI、6つの金融資格試験から日本語金融ベンチマーク「JFinBench」を構築。最良のオープンウェイトモデルも12ポイント差&lt;br&gt;&lt;a href="https://sakana.ai/jfinbench/"&gt;https://sakana.ai/jfinbench/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dify、AIエージェント管理プラットフォームの5つの中核領域と選定法を解説。チェック数より必須要件を実証で確かめるよう提言&lt;br&gt;&lt;a href="https://dify.ai/blog/ai-agent-management-platform"&gt;https://dify.ai/blog/ai-agent-management-platform&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月16日 9:46)</title>
       <link>https://morningaiapp.com</link>
@@ -218,26 +241,6 @@
 &lt;p&gt;Hugging Face、Open ASR LeaderboardにLiva AI提供のエジプト英語とナイジェリア英語の非公開データを追加&lt;br&gt;&lt;a href="https://huggingface.co/blog/open-asr-leaderboard-liva"&gt;https://huggingface.co/blog/open-asr-leaderboard-liva&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;豪州のUNSWやシドニー大学がOpenAIと提携しChatGPT Eduを展開。OpenAI委託の調査では学生の81%が週に数回以上AIを利用&lt;br&gt;&lt;a href="https://openai.com/index/australian-universities-ai-native-graduates"&gt;https://openai.com/index/australian-universities-ai-native-graduates&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;インドのcult.fitがCodexを非エンジニア部門にも展開し20以上の社内アプリを構築。サポート費用は50%以上削減&lt;br&gt;&lt;a href="https://openai.com/index/cultfit-builds-with-codex"&gt;https://openai.com/index/cultfit-builds-with-codex&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月6日 10:22)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261106T012249Z</guid>
-      <pubDate>Fri, 06 Nov 2026 01:22:49 +0000</pubDate>
-      <description>&lt;p&gt;Thinking MachinesのInkling 2 Small、スコア18ポイント増でGemini 3.8 Flash (high)に並ぶ&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it"&gt;https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Flipsnack、ChatGPT Ads をコンバージョン重視に切り替え、米国5キャンペーンで登録数約310%増・登録単価約75%減&lt;br&gt;&lt;a href="https://openai.com/ads/customers/flipsnack"&gt;https://openai.com/ads/customers/flipsnack&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Thinking Machines Lab、長時間の自律作業に強いInkling 2 SmallをTinkerで提供。来週ウェイト公開予定&lt;br&gt;&lt;a href="https://thinkingmachines.ai/news/inkling-2-small/"&gt;https://thinkingmachines.ai/news/inkling-2-small/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;MergeがGPT-6 AstraとCodexを製品開発や営業に活用し、役員向け会食の準備を数十時間から約30分に短縮&lt;br&gt;&lt;a href="https://openai.com/index/merge-builds-with-openai"&gt;https://openai.com/index/merge-builds-with-openai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic、Claudeに銀行・カード口座を読み取り専用で接続して質問できる「Personal Finance」を米国でベータ提供&lt;br&gt;&lt;a href="https://claude.com/resources/articles/introducing-personal-finance-in-claude"&gt;https://claude.com/resources/articles/introducing-personal-finance-in-claude&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIAがCosmos 3にオープンウェイトの4モデルを追加。対話型の世界シミュレーションと多センサー・多視点の走行シーン生成に対応&lt;br&gt;&lt;a href="https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"&gt;https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIがCritical分類のGPT-6 Cyberを発表。Firefoxで未知の脆弱性81件を発見し、まず承認済み顧客に提供&lt;br&gt;&lt;a href="https://openai.com/index/introducing-gpt-6-cyber"&gt;https://openai.com/index/introducing-gpt-6-cyber&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Artificial AnalysisがNanbeige4.3-33Bを評価、総パラメータ33BでIntelligence Index 20&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/nanbeige-has-released-nanbeige4-3-33b-scoring-20-on-the-intelligence-index"&gt;https://artificialanalysis.ai/articles/nanbeige-has-released-nanbeige4-3-33b-scoring-20-on-the-intelligence-index&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;CodeRabbitがGPT-6 Cyberの追加効果を評価。検出は22件対19件、深刻度が高・中の指摘は66%増だが有効性は未評価&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/gpt-6-cyber-security-evaluation"&gt;https://www.coderabbit.ai/ja/blog/gpt-6-cyber-security-evaluation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claude Enterprise がセキュリティ・管理機能を追加。セキュリティセンターと一元管理はベータ、推論フックは一般提供&lt;br&gt;&lt;a href="https://claude.com/resources/articles/claude-enterprise-security-updates"&gt;https://claude.com/resources/articles/claude-enterprise-security-updates&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、Gemini の Canvas ツールで紙のスケッチの写真からコードを生成し動くツールにする手順を紹介&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、動画生成モデル Gemini Omni 1.2 Flash を一般提供。15秒の生成と会話型編集に対応し、価格は30%値下げ&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"&gt;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Cloudflare、AIエージェントが仲介してもサイトとユーザーの関係を保つオープン標準が必要と提言。TAD連合の発足も発表&lt;br&gt;&lt;a href="https://blog.cloudflare.com/trusted-agent-delegation/"&gt;https://blog.cloudflare.com/trusted-agent-delegation/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google DeepMind、動画生成モデル Gemini Omni 1.2 Flash を一般提供。15秒クリップに対応し価格は30%値下げ&lt;br&gt;&lt;a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"&gt;https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
