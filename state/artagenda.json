@@ -1,5 +1,9 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12299",
+    "https://www.artagenda.jp/exhibition/detail/12984",
+    "https://www.artagenda.jp/exhibition/detail/12943",
+    "https://www.artagenda.jp/exhibition/detail/12919",
     "https://www.artagenda.jp/exhibition/detail/12327",
     "https://www.artagenda.jp/exhibition/detail/12029",
     "https://www.artagenda.jp/exhibition/detail/12544",
@@ -13,7 +17,6 @@
     "https://www.artagenda.jp/exhibition/detail/13058",
     "https://www.artagenda.jp/exhibition/detail/13013",
     "https://www.artagenda.jp/exhibition/detail/13012",
-    "https://www.artagenda.jp/exhibition/detail/12984",
     "https://www.artagenda.jp/exhibition/detail/12983",
     "https://www.artagenda.jp/exhibition/detail/12979",
     "https://www.artagenda.jp/exhibition/detail/12214",
@@ -121,7 +124,6 @@
     "https://www.artagenda.jp/exhibition/detail/12814",
     "https://www.artagenda.jp/exhibition/detail/11802",
     "https://www.artagenda.jp/exhibition/detail/12916",
-    "https://www.artagenda.jp/exhibition/detail/12299",
     "https://www.artagenda.jp/exhibition/detail/11614",
     "https://www.artagenda.jp/exhibition/detail/12728",
     "https://www.artagenda.jp/exhibition/detail/11936",
@@ -497,11 +499,32 @@
     "https://www.artagenda.jp/exhibition/detail/12841",
     "https://www.artagenda.jp/exhibition/detail/12431",
     "https://www.artagenda.jp/exhibition/detail/11544",
-    "https://www.artagenda.jp/exhibition/detail/12690",
-    "https://www.artagenda.jp/exhibition/detail/11890",
-    "https://www.artagenda.jp/exhibition/detail/11750"
+    "https://www.artagenda.jp/exhibition/detail/12690"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261117T032640Z",
+      "title": "アートアジェンダ 展覧会(2026年11月17日 12:26)",
+      "date": "2026-11-17T03:26:40.368807+00:00",
+      "items": [
+        {
+          "title": "ベルナール・ビュフェの時代―戦後の具象画の変遷",
+          "link": "https://www.artagenda.jp/exhibition/detail/12919",
+          "label": "12/4〜2027/3/30",
+          "extra": [
+            "ベルナール・ビュフェ美術館｜静岡県"
+          ]
+        },
+        {
+          "title": "企画展 平野政吉コレクションの人物像",
+          "link": "https://www.artagenda.jp/exhibition/detail/12943",
+          "label": "12/5〜2027/1/17",
+          "extra": [
+            "秋田県立美術館（平野政吉コレクション）｜秋田県"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261116T191356Z",
       "title": "アートアジェンダ 展覧会(2026年11月17日 4:13)",
@@ -925,53 +948,6 @@
           "label": "2027/1/23〜2027/4/11",
           "extra": [
             "富山県美術館｜富山県"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261103T164921Z",
-      "title": "アートアジェンダ 展覧会(2026年11月4日 1:49)",
-      "date": "2026-11-03T16:49:21.951304+00:00",
-      "items": [
-        {
-          "title": "企画展「くらひらく−博物館の蔵仕事−」",
-          "link": "https://www.artagenda.jp/exhibition/detail/12915",
-          "label": "10/10〜12/6",
-          "extra": [
-            "和歌山県立博物館｜和歌山県"
-          ]
-        },
-        {
-          "title": "アーツ・アンド・クラフツとデザイン ウィリアム・モリスからフランク・ロイド・ライトまで",
-          "link": "https://www.artagenda.jp/exhibition/detail/12539",
-          "label": "11/14〜2027/1/17",
-          "extra": [
-            "郡山市立美術館｜福島県"
-          ]
-        },
-        {
-          "title": "チェコ絵本の父 ヨゼフ・ラダ展",
-          "link": "https://www.artagenda.jp/exhibition/detail/12910",
-          "label": "11/20〜2027/1/17",
-          "extra": [
-            "山梨県立美術館｜山梨県"
-          ]
-        },
-        {
-          "title": "Duet/二人展 芝康弘/野地美樹子",
-          "link": "https://www.artagenda.jp/exhibition/detail/11771",
-          "label": "12/8〜2027/2/14",
-          "extra": [
-            "郷さくら美術館｜東京都"
-          ]
-        },
-        {
-          "title": "特別展「フォンタネージ—イタリアの光・心の風景」",
-          "link": "https://www.artagenda.jp/exhibition/detail/12895",
-          "label": "2027/2/6〜2027/4/4",
-          "extra": [
-            "名古屋市美術館｜愛知県"
           ]
         }
       ]

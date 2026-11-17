@@ -6,7 +6,17 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 16 Nov 2026 19:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 03:24:26 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月17日 12:24)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261117T032426Z</guid>
+      <pubDate>Tue, 17 Nov 2026 03:24:26 +0000</pubDate>
+      <description>&lt;p&gt;AlibabaがQwen4-Maxをリリース。Qwen3.8-Max比でトークン35%減、タスク当たりコストは約60%減&lt;br&gt;&lt;a href="https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783"&gt;https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vals AI、10代を診るセラピスト10人への聞き取りで、10代がAIに薬の自己調整や虐待かどうかの判断まで相談する実態を報告&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/teens-ai-therapists"&gt;https://www.vals.ai/blogs/teens-ai-therapists&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude Code チーム、コードの約90%を Claude が書く中での検証ループの作り方を解説。E2E・プロパティ・差分テストを推奨&lt;br&gt;&lt;a href="https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"&gt;https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GoogleがGeminiアプリ（Android/iOS）で地域の話し方に合わせた音声66種を提供開始、Gemini Liveや回答の読み上げでも使える&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月17日 4:11)</title>
       <link>https://morningaiapp.com</link>
@@ -229,18 +239,6 @@
 &lt;p&gt;a16z、AIでエクスプロイト作成が安価になる中、パッチ高速化では追いつけないと主張。パッチに頼らない防御で少なくとも6つの事業機会を提示&lt;br&gt;&lt;a href="https://a16z.com/defense-in-depth-rebuilt-for-machine-speed/"&gt;https://a16z.com/defense-in-depth-rebuilt-for-machine-speed/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google、コード内のTODOによるエージェントの脱線を定量化。依頼外のバグ追跡でトークン77%増、待ち時間105%増&lt;br&gt;&lt;a href="https://developers.googleblog.com/agent-distraction/"&gt;https://developers.googleblog.com/agent-distraction/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;OpenRouterがAuto Routerを刷新。コーディング特化のAuto CodeはClaude Opus 5.5と同水準でコスト74%減&lt;br&gt;&lt;a href="https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/"&gt;https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月7日 1:33)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261106T163354Z</guid>
-      <pubDate>Fri, 06 Nov 2026 16:33:54 +0000</pubDate>
-      <description>&lt;p&gt;ロボット学習の統制環境ToyBlocksが公開。シミュレーションのみで学習したManiFlowは実機の単体スキル成功率81.1%&lt;br&gt;&lt;a href="https://huggingface.co/blog/allenai/toyblocks"&gt;https://huggingface.co/blog/allenai/toyblocks&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Amazon、Alexa for Shoppingにテキストで買い物を頼める機能を米国で招待制提供開始。商品探しから購入まで代行&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop"&gt;https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Artificial Analysisの科学画像評価VIALS-AA、3回全正解率64%でGemini 4 Carbon (high)が首位&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/vials-aa"&gt;https://artificialanalysis.ai/articles/vials-aa&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hugging Face、Open ASR LeaderboardにLiva AI提供のエジプト英語とナイジェリア英語の非公開データを追加&lt;br&gt;&lt;a href="https://huggingface.co/blog/open-asr-leaderboard-liva"&gt;https://huggingface.co/blog/open-asr-leaderboard-liva&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;豪州のUNSWやシドニー大学がOpenAIと提携しChatGPT Eduを展開。OpenAI委託の調査では学生の81%が週に数回以上AIを利用&lt;br&gt;&lt;a href="https://openai.com/index/australian-universities-ai-native-graduates"&gt;https://openai.com/index/australian-universities-ai-native-graduates&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;インドのcult.fitがCodexを非エンジニア部門にも展開し20以上の社内アプリを構築。サポート費用は50%以上削減&lt;br&gt;&lt;a href="https://openai.com/index/cultfit-builds-with-codex"&gt;https://openai.com/index/cultfit-builds-with-codex&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

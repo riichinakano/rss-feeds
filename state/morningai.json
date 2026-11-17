@@ -1,5 +1,9 @@
 {
   "seen": [
+    "https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783",
+    "https://www.vals.ai/blogs/teens-ai-therapists",
+    "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
     "https://openai.com/index/our-first-phase-of-embedded-assessments",
     "https://openai.com/index/science-at-the-frontier",
     "https://openai.com/index/strengthening-online-child-safety",
@@ -344,6 +348,37 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261117T032426Z",
+      "title": "Morning AI(2026年11月17日 12:24)",
+      "date": "2026-11-17T03:24:26.477609+00:00",
+      "items": [
+        {
+          "title": "AlibabaがQwen4-Maxをリリース。Qwen3.8-Max比でトークン35%減、タスク当たりコストは約60%減",
+          "link": "https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Vals AI、10代を診るセラピスト10人への聞き取りで、10代がAIに薬の自己調整や虐待かどうかの判断まで相談する実態を報告",
+          "link": "https://www.vals.ai/blogs/teens-ai-therapists",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Claude Code チーム、コードの約90%を Claude が書く中での検証ループの作り方を解説。E2E・プロパティ・差分テストを推奨",
+          "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "GoogleがGeminiアプリ（Android/iOS）で地域の話し方に合わせた音声66種を提供開始、Gemini Liveや回答の読み上げでも使える",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261116T191151Z",
       "title": "Morning AI(2026年11月17日 4:11)",
@@ -1300,49 +1335,6 @@
         {
           "title": "OpenRouterがAuto Routerを刷新。コーディング特化のAuto CodeはClaude Opus 5.5と同水準でコスト74%減",
           "link": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261106T163354Z",
-      "title": "Morning AI(2026年11月7日 1:33)",
-      "date": "2026-11-06T16:33:54.752969+00:00",
-      "items": [
-        {
-          "title": "ロボット学習の統制環境ToyBlocksが公開。シミュレーションのみで学習したManiFlowは実機の単体スキル成功率81.1%",
-          "link": "https://huggingface.co/blog/allenai/toyblocks",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Amazon、Alexa for Shoppingにテキストで買い物を頼める機能を米国で招待制提供開始。商品探しから購入まで代行",
-          "link": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Artificial Analysisの科学画像評価VIALS-AA、3回全正解率64%でGemini 4 Carbon (high)が首位",
-          "link": "https://artificialanalysis.ai/articles/vials-aa",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Hugging Face、Open ASR LeaderboardにLiva AI提供のエジプト英語とナイジェリア英語の非公開データを追加",
-          "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "豪州のUNSWやシドニー大学がOpenAIと提携しChatGPT Eduを展開。OpenAI委託の調査では学生の81%が週に数回以上AIを利用",
-          "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "インドのcult.fitがCodexを非エンジニア部門にも展開し20以上の社内アプリを構築。サポート費用は50%以上削減",
-          "link": "https://openai.com/index/cultfit-builds-with-codex",
           "label": null,
           "extra": []
         }
