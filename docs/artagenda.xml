@@ -6,7 +6,15 @@
     <description>アートアジェンダ 展覧会 の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/artagenda.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Nov 2026 03:26:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 18:07:03 +0000</lastBuildDate>
+    <item>
+      <title>アートアジェンダ 展覧会(2026年11月18日 3:07)</title>
+      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
+      <guid isPermaLink="false">artagenda-20261117T180703Z</guid>
+      <pubDate>Tue, 17 Nov 2026 18:07:03 +0000</pubDate>
+      <description>&lt;p&gt;[2027/1/30〜2027/3/14] 高松コンテンポラリーアート・アニュアルvol.13 Error― 予定不調和&lt;br&gt;高松市美術館｜香川県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12249"&gt;https://www.artagenda.jp/exhibition/detail/12249&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2027/2/2〜2027/3/14] 第3展示室 特集展示「御用絵師の仕事：歴博の狩野派」&lt;br&gt;国立歴史民俗博物館｜千葉県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12974"&gt;https://www.artagenda.jp/exhibition/detail/12974&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>アートアジェンダ 展覧会(2026年11月17日 12:26)</title>
       <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
@@ -125,15 +133,6 @@
       <guid isPermaLink="false">artagenda-20261105T012005Z</guid>
       <pubDate>Thu, 05 Nov 2026 01:20:05 +0000</pubDate>
       <description>&lt;p&gt;[12/26〜2027/2/28] トーベとムーミン展～とっておきのものを探しに～&lt;br&gt;岩手県立美術館｜岩手県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12300"&gt;https://www.artagenda.jp/exhibition/detail/12300&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>アートアジェンダ 展覧会(2026年11月5日 1:49)</title>
-      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
-      <guid isPermaLink="false">artagenda-20261104T164908Z</guid>
-      <pubDate>Wed, 04 Nov 2026 16:49:08 +0000</pubDate>
-      <description>&lt;p&gt;[12/15〜2027/2/7] 昭和のキャバレー王が愛した絵画 コレクター福富太郎の眼&lt;br&gt;広島県立美術館｜広島県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12293"&gt;https://www.artagenda.jp/exhibition/detail/12293&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2027/1/7〜2027/3/22] 逆引き！吉祥展 ―古伊万里の文様どんな意味？―&lt;br&gt;戸栗美術館｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/11570"&gt;https://www.artagenda.jp/exhibition/detail/11570&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2027/1/23〜2027/4/11] シンシナティ美術館展 ～アメリカに渡ったヨーロッパの至宝～&lt;br&gt;富山県美術館｜富山県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12306"&gt;https://www.artagenda.jp/exhibition/detail/12306&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

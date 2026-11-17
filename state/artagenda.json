@@ -1,5 +1,9 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12896",
+    "https://www.artagenda.jp/exhibition/detail/12909",
+    "https://www.artagenda.jp/exhibition/detail/12974",
+    "https://www.artagenda.jp/exhibition/detail/12249",
     "https://www.artagenda.jp/exhibition/detail/12299",
     "https://www.artagenda.jp/exhibition/detail/12984",
     "https://www.artagenda.jp/exhibition/detail/12943",
@@ -169,7 +173,6 @@
     "https://www.artagenda.jp/exhibition/detail/12354",
     "https://www.artagenda.jp/exhibition/detail/12658",
     "https://www.artagenda.jp/exhibition/detail/12548",
-    "https://www.artagenda.jp/exhibition/detail/12909",
     "https://www.artagenda.jp/exhibition/detail/12863",
     "https://www.artagenda.jp/exhibition/detail/12864",
     "https://www.artagenda.jp/exhibition/detail/12865",
@@ -178,7 +181,6 @@
     "https://www.artagenda.jp/exhibition/detail/12903",
     "https://www.artagenda.jp/exhibition/detail/12904",
     "https://www.artagenda.jp/exhibition/detail/12899",
-    "https://www.artagenda.jp/exhibition/detail/12896",
     "https://www.artagenda.jp/exhibition/detail/12218",
     "https://www.artagenda.jp/exhibition/detail/12642",
     "https://www.artagenda.jp/exhibition/detail/12392",
@@ -497,11 +499,32 @@
     "https://www.artagenda.jp/exhibition/detail/12710",
     "https://www.artagenda.jp/exhibition/detail/12827",
     "https://www.artagenda.jp/exhibition/detail/12841",
-    "https://www.artagenda.jp/exhibition/detail/12431",
-    "https://www.artagenda.jp/exhibition/detail/11544",
-    "https://www.artagenda.jp/exhibition/detail/12690"
+    "https://www.artagenda.jp/exhibition/detail/12431"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261117T180703Z",
+      "title": "アートアジェンダ 展覧会(2026年11月18日 3:07)",
+      "date": "2026-11-17T18:07:03.048439+00:00",
+      "items": [
+        {
+          "title": "高松コンテンポラリーアート・アニュアルvol.13 Error― 予定不調和",
+          "link": "https://www.artagenda.jp/exhibition/detail/12249",
+          "label": "2027/1/30〜2027/3/14",
+          "extra": [
+            "高松市美術館｜香川県"
+          ]
+        },
+        {
+          "title": "第3展示室 特集展示「御用絵師の仕事：歴博の狩野派」",
+          "link": "https://www.artagenda.jp/exhibition/detail/12974",
+          "label": "2027/2/2〜2027/3/14",
+          "extra": [
+            "国立歴史民俗博物館｜千葉県"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261117T032640Z",
       "title": "アートアジェンダ 展覧会(2026年11月17日 12:26)",
@@ -917,37 +940,6 @@
           "label": "12/26〜2027/2/28",
           "extra": [
             "岩手県立美術館｜岩手県"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261104T164908Z",
-      "title": "アートアジェンダ 展覧会(2026年11月5日 1:49)",
-      "date": "2026-11-04T16:49:08.493522+00:00",
-      "items": [
-        {
-          "title": "昭和のキャバレー王が愛した絵画 コレクター福富太郎の眼",
-          "link": "https://www.artagenda.jp/exhibition/detail/12293",
-          "label": "12/15〜2027/2/7",
-          "extra": [
-            "広島県立美術館｜広島県"
-          ]
-        },
-        {
-          "title": "逆引き！吉祥展 ―古伊万里の文様どんな意味？―",
-          "link": "https://www.artagenda.jp/exhibition/detail/11570",
-          "label": "2027/1/7〜2027/3/22",
-          "extra": [
-            "戸栗美術館｜東京都"
-          ]
-        },
-        {
-          "title": "シンシナティ美術館展 ～アメリカに渡ったヨーロッパの至宝～",
-          "link": "https://www.artagenda.jp/exhibition/detail/12306",
-          "label": "2027/1/23〜2027/4/11",
-          "extra": [
-            "富山県美術館｜富山県"
           ]
         }
       ]

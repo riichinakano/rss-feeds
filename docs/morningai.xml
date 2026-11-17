@@ -6,7 +6,21 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Nov 2026 03:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 18:04:58 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月18日 3:04)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261117T180458Z</guid>
+      <pubDate>Tue, 17 Nov 2026 18:04:58 +0000</pubDate>
+      <description>&lt;p&gt;Google、電話や買い物などを Gemini に任せられる機能を日米などで無料提供。新モデル Gemini 4 Hydrogen を使用&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude、常駐型エージェントの設計指針を公開。イベント受信箱・タイマー・メモリ・権限・送信箱の5要素で構成&lt;br&gt;&lt;a href="https://claude.com/resources/articles/building-always-on-agents"&gt;https://claude.com/resources/articles/building-always-on-agents&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、Androidビルド基盤ABFSをオープンソース化。チェックアウトを約36分から8秒未満、フルビルドを約80分から2分強に短縮&lt;br&gt;&lt;a href="https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/"&gt;https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vals AI、フロンティアAIモデルは自律兵器の標的指定をほぼ拒否せず、「ゲームだ」と伝えるだけで拒否も突破できると報告&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/autonomous-warfare"&gt;https://www.vals.ai/blogs/autonomous-warfare&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Boring Company、トンネル掘削コストを1マイル1,000万ドル未満に削減。400万〜500万ドルへの低減とhyperloop実現が次の目標&lt;br&gt;&lt;a href="https://a16z.com/the-boring-company-the-future-underground/"&gt;https://a16z.com/the-boring-company-the-future-underground/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、チリ政府と「OpenAI for Chile」で覚書。行政のAI導入、公務員の研修、スタートアップ支援を検討&lt;br&gt;&lt;a href="https://openai.com/index/introducing-openai-for-chile"&gt;https://openai.com/index/introducing-openai-for-chile&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、DaybreakでNATOや欧州・ウクライナのサイバー防衛機関に先端AIを提供。NATOは月最大3,000億トークンを使用&lt;br&gt;&lt;a href="https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"&gt;https://openai.com/index/strengthening-nato-allied-cyber-defences-ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Revolut、Codexでコーディング時間を30–60%短縮。実装はAIに任せ、説明責任は人間が担う体制&lt;br&gt;&lt;a href="https://openai.com/business/customer-stories/revolut"&gt;https://openai.com/business/customer-stories/revolut&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月17日 12:24)</title>
       <link>https://morningaiapp.com</link>
@@ -222,23 +236,6 @@
 &lt;p&gt;MoE刈り込みの新手法HOPE、エキスパート間の協調を考慮し50%刈り込みで平均順位が最良に。エージェント型コーディングで次点手法比最大+6.1%&lt;br&gt;&lt;a href="https://huggingface.co/blog/amazon/higher-order-pruning-experts"&gt;https://huggingface.co/blog/amazon/higher-order-pruning-experts&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google、Gemini学習用の分散システムPathwaysをGoogle Cloudで一般提供。単一クライアントで学習全体を記述できる&lt;br&gt;&lt;a href="https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/"&gt;https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Artificial Analysis、Decision Index v2を公開。私有データ比率45%、判断モデル上位3種は1ポイント差&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/decision-index-v2"&gt;https://artificialanalysis.ai/articles/decision-index-v2&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月7日 9:38)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261107T003805Z</guid>
-      <pubDate>Sat, 07 Nov 2026 00:38:05 +0000</pubDate>
-      <description>&lt;p&gt;米ニューヨーク南部地区連邦検察局、SIでCEOや弁護士になりすまし企業から1億2900万ドル超を詐取した疑いで外国籍の3人を起訴&lt;br&gt;&lt;a href="https://www.justice.gov/usao-sdny/pr/three-foreign-nationals-arrested-and-charged-scheme-use-super-intelligence-defraud"&gt;https://www.justice.gov/usao-sdny/pr/three-foreign-nationals-arrested-and-charged-scheme-use-super-intelligence-defraud&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Vals AIがInkling 2 Smallの2,655回の実行を分析。罵り語は長い実行の後半に偏るが失敗の予兆ではないと示した&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/inkling-2-small-swears"&gt;https://www.vals.ai/blogs/inkling-2-small-swears&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic、Claudeのメモリはその場のメモとログを振り返るdreamingの分業が有効と評価結果から考察&lt;br&gt;&lt;a href="https://www.anthropic.com/research/components-of-agent-memory"&gt;https://www.anthropic.com/research/components-of-agent-memory&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;GitHub、Copilot app をプロジェクトに合わせる4手段の使い分けを解説。まず規約1つをカスタム指示に書くよう勧めた&lt;br&gt;&lt;a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/"&gt;https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;University of Tübingenの研究者ら、科学モデリングでAIは単一モデルでなくモデルの分布と失敗した代替案を示すべきと主張&lt;br&gt;&lt;a href="https://www.anthropic.com/research/teaching-ai-to-build-scientific-models"&gt;https://www.anthropic.com/research/teaching-ai-to-build-scientific-models&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIがウェットラボ解析を測るBioBasicsBenchを公開。GPT‑6 Astraは66.7%でGPT‑5.6 Solを上回った&lt;br&gt;&lt;a href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"&gt;https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI が Hacktron と提携、第三者サービスとの連携部分を重点に自社システムの脆弱性を共同で検証&lt;br&gt;&lt;a href="https://openai.com/index/partnering-with-hacktron"&gt;https://openai.com/index/partnering-with-hacktron&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic Frontier Red Team、EVEでClaudeを検証。Fable 5で平均利益3倍、仲間の妨害は検出困難&lt;br&gt;&lt;a href="https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs"&gt;https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;a16z、AIでエクスプロイト作成が安価になる中、パッチ高速化では追いつけないと主張。パッチに頼らない防御で少なくとも6つの事業機会を提示&lt;br&gt;&lt;a href="https://a16z.com/defense-in-depth-rebuilt-for-machine-speed/"&gt;https://a16z.com/defense-in-depth-rebuilt-for-machine-speed/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、コード内のTODOによるエージェントの脱線を定量化。依頼外のバグ追跡でトークン77%増、待ち時間105%増&lt;br&gt;&lt;a href="https://developers.googleblog.com/agent-distraction/"&gt;https://developers.googleblog.com/agent-distraction/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenRouterがAuto Routerを刷新。コーディング特化のAuto CodeはClaude Opus 5.5と同水準でコスト74%減&lt;br&gt;&lt;a href="https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/"&gt;https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
