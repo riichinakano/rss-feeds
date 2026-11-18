@@ -1,5 +1,13 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/13058",
+    "https://www.artagenda.jp/exhibition/detail/11765",
+    "https://www.artagenda.jp/exhibition/detail/12944",
+    "https://www.artagenda.jp/exhibition/detail/11937",
+    "https://www.artagenda.jp/exhibition/detail/13062",
+    "https://www.artagenda.jp/exhibition/detail/12424",
+    "https://www.artagenda.jp/exhibition/detail/12758",
+    "https://www.artagenda.jp/exhibition/detail/11781",
     "https://www.artagenda.jp/exhibition/detail/12896",
     "https://www.artagenda.jp/exhibition/detail/12909",
     "https://www.artagenda.jp/exhibition/detail/12974",
@@ -16,9 +24,7 @@
     "https://www.artagenda.jp/exhibition/detail/12382",
     "https://www.artagenda.jp/exhibition/detail/12180",
     "https://www.artagenda.jp/exhibition/detail/12986",
-    "https://www.artagenda.jp/exhibition/detail/11765",
     "https://www.artagenda.jp/exhibition/detail/13032",
-    "https://www.artagenda.jp/exhibition/detail/13058",
     "https://www.artagenda.jp/exhibition/detail/13013",
     "https://www.artagenda.jp/exhibition/detail/13012",
     "https://www.artagenda.jp/exhibition/detail/12983",
@@ -493,15 +499,64 @@
     "https://www.artagenda.jp/exhibition/detail/12794",
     "https://www.artagenda.jp/exhibition/detail/11759",
     "https://www.artagenda.jp/exhibition/detail/12183",
-    "https://www.artagenda.jp/exhibition/detail/12182",
-    "https://www.artagenda.jp/exhibition/detail/12181",
-    "https://www.artagenda.jp/exhibition/detail/12897",
-    "https://www.artagenda.jp/exhibition/detail/12710",
-    "https://www.artagenda.jp/exhibition/detail/12827",
-    "https://www.artagenda.jp/exhibition/detail/12841",
-    "https://www.artagenda.jp/exhibition/detail/12431"
+    "https://www.artagenda.jp/exhibition/detail/12182"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261118T174704Z",
+      "title": "アートアジェンダ 展覧会(2026年11月19日 2:47)",
+      "date": "2026-11-18T17:47:04.545225+00:00",
+      "items": [
+        {
+          "title": "没後20年 平川敏夫展",
+          "link": "https://www.artagenda.jp/exhibition/detail/12424",
+          "label": "11/25〜2027/1/24",
+          "extra": [
+            "豊橋市美術博物館｜愛知県"
+          ]
+        },
+        {
+          "title": "生誕160年 寺崎廣業展 －横山大観らとともに－",
+          "link": "https://www.artagenda.jp/exhibition/detail/12944",
+          "label": "12/12〜2027/2/14",
+          "extra": [
+            "秋田県立近代美術館｜秋田県"
+          ]
+        },
+        {
+          "title": "開館10周年記念 北斎クロスオーバー 時代を超えて“すみだ”に集う",
+          "link": "https://www.artagenda.jp/exhibition/detail/11781",
+          "label": "12/16〜2027/2/28",
+          "extra": [
+            "すみだ北斎美術館｜東京都"
+          ]
+        },
+        {
+          "title": "［館蔵］茶道具取合せ展",
+          "link": "https://www.artagenda.jp/exhibition/detail/11937",
+          "label": "12/19〜2027/2/7",
+          "extra": [
+            "五島美術館｜東京都"
+          ]
+        },
+        {
+          "title": "1920-30 モダン楽譜イラストレーション ―音楽を表現する女性・東京・アールデコの美―",
+          "link": "https://www.artagenda.jp/exhibition/detail/13062",
+          "label": "12/26〜2027/3/28",
+          "extra": [
+            "竹久夢二美術館｜東京都"
+          ]
+        },
+        {
+          "title": "鳩山郁子×秋田和徳 夢みるコントルポワン ―漫画とグラフィックデザインの小宇宙―",
+          "link": "https://www.artagenda.jp/exhibition/detail/12758",
+          "label": "12/26〜2027/3/28",
+          "extra": [
+            "弥生美術館｜東京都"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261117T180703Z",
       "title": "アートアジェンダ 展覧会(2026年11月18日 3:07)",
@@ -925,21 +980,6 @@
           "label": "2027/1/2〜2027/1/25",
           "extra": [
             "美術館「えき」KYOTO｜京都府"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261105T012005Z",
-      "title": "アートアジェンダ 展覧会(2026年11月5日 10:20)",
-      "date": "2026-11-05T01:20:05.827230+00:00",
-      "items": [
-        {
-          "title": "トーベとムーミン展～とっておきのものを探しに～",
-          "link": "https://www.artagenda.jp/exhibition/detail/12300",
-          "label": "12/26〜2027/2/28",
-          "extra": [
-            "岩手県立美術館｜岩手県"
           ]
         }
       ]

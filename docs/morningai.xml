@@ -6,7 +6,21 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 18 Nov 2026 02:44:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 17:44:53 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月19日 2:44)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261118T174453Z</guid>
+      <pubDate>Wed, 18 Nov 2026 17:44:53 +0000</pubDate>
+      <description>&lt;p&gt;CodeRabbit、実行中のアプリをテストしPRのバグや回帰を見つけるCodeRabbit Verifyをパブリックベータ公開。期間中は無料&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/introducing-coderabbit-verify"&gt;https://www.coderabbit.ai/ja/blog/introducing-coderabbit-verify&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Reson8、0.5Bの音声認識モデル「Rumble-2-Flash」をApache 2.0で公開。3〜60倍大きいモデルと競う精度&lt;br&gt;&lt;a href="https://huggingface.co/blog/rumble-2-flash"&gt;https://huggingface.co/blog/rumble-2-flash&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;IBMとConfluent、時系列基盤モデルをFlinkの組み込み関数として提供。GPU不要のCPU上でSQLから予測・異常検知できる&lt;br&gt;&lt;a href="https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"&gt;https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16z、Boltzの1億1000万ドルのSeries Aに追加出資。分子モデルをmolecular tokens単位の従量課金で提供&lt;br&gt;&lt;a href="https://a16z.com/announcement/investing-in-boltz/"&gt;https://a16z.com/announcement/investing-in-boltz/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIとLe Groupe Figaroが提携。Le Figaroの最新記事とアーカイブをChatGPTで要約・抜粋と元記事リンク付きで表示&lt;br&gt;&lt;a href="https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"&gt;https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dify、AIエージェントの計画から廃止までのライフサイクル管理を解説。リリース前のオーナー任命と影響度に応じた監督を重視&lt;br&gt;&lt;a href="https://dify.ai/blog/ai-agent-lifecycle-management"&gt;https://dify.ai/blog/ai-agent-lifecycle-management&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft、Ignite 2026でCopilot WorkspacesやAutopilotを含む新しいCopilotを発表&lt;br&gt;&lt;a href="https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/"&gt;https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NVIDIAがSC26で科学計算向けGPU「Rubin HPC」を発表。5万超のCUDAコアとデータ移動の強化でシミュレーションを加速&lt;br&gt;&lt;a href="https://blogs.nvidia.com/blog/rubin-hpc/"&gt;https://blogs.nvidia.com/blog/rubin-hpc/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月18日 11:44)</title>
       <link>https://morningaiapp.com</link>
@@ -221,26 +235,6 @@
 &lt;p&gt;Anthropic、Nasdaq上場に向けIPOロードショーを開始。想定価格は1株70.00〜78.00ドル&lt;br&gt;&lt;a href="https://www.anthropic.com/news/roadshow-launch"&gt;https://www.anthropic.com/news/roadshow-launch&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google DeepMind、「AlphaProof Code」でSignalプロトコルの実装コードを4週間で形式検証&lt;br&gt;&lt;a href="https://deepmind.google/blog/introducing-alphaproof-code/"&gt;https://deepmind.google/blog/introducing-alphaproof-code/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;OpenAI、教育のAIガイダンス格差を埋める提言レポートを公開。宿題にAIを使う生徒79%に対し使い方を教わったのは47%&lt;br&gt;&lt;a href="https://openai.com/index/closing-ai-guidance-gap-education"&gt;https://openai.com/index/closing-ai-guidance-gap-education&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月10日 12:10)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261110T031014Z</guid>
-      <pubDate>Tue, 10 Nov 2026 03:10:14 +0000</pubDate>
-      <description>&lt;p&gt;OpenAI、研究インフラ上のモデル出力を35秒以内に止められる中央システム「Control Room」を導入&lt;br&gt;&lt;a href="https://openai.com/index/control-room"&gt;https://openai.com/index/control-room&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Box、企業コンテンツのAI検索にはハイブリッド検索が適すると解説。Box Context Retrievalは既存の権限を守って適用&lt;br&gt;&lt;a href="https://blog.box.com/text-to-hybrid-search"&gt;https://blog.box.com/text-to-hybrid-search&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;CodeRabbit、Codexでエンジニアを増やさず出荷ソフトウェアを約20倍に。OpenAIモデルでAI生成コードの検証を拡大&lt;br&gt;&lt;a href="https://openai.com/index/coderabbit-codex-daybreak"&gt;https://openai.com/index/coderabbit-codex-daybreak&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google Research、世界の言語の多様性を可視化するWebツール「Language Explorer」を公開。ベルリンの博物館で展示&lt;br&gt;&lt;a href="https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/"&gt;https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;claude.dev、Claudeのモデル選択指針を公開。まずOpus 5.5のmediumで始め、最難関の作業はFable 5.2を推奨&lt;br&gt;&lt;a href="https://claude.dev/blog/which-claude-model-should-you-build-with/"&gt;https://claude.dev/blog/which-claude-model-should-you-build-with/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Codex向けModRetro Chromaticプラグイン、プロンプトで作ったGame Boy Colorゲームを実機で遊べる&lt;br&gt;&lt;a href="https://developers.openai.com/blog/build-a-game-with-modretro-chromatic"&gt;https://developers.openai.com/blog/build-a-game-with-modretro-chromatic&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic、Claude Fable 5.2に電子機器3種を設計させ回路の修正なしで動く試作機を製作。PCB Gymで69%&lt;br&gt;&lt;a href="https://www.anthropic.com/research/claude-electronics-design"&gt;https://www.anthropic.com/research/claude-electronics-design&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Kuken Industries、OpenAI APIで70年分の図面を検索。交換部品の図面探しが約1時間から4.5分に短縮&lt;br&gt;&lt;a href="https://openai.com/index/kuken"&gt;https://openai.com/index/kuken&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、第8世代TPUに機密推論向け「TPU 8tx」と巨大コンテキスト向け「TPU 8i Max」を追加&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"&gt;https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、ChatGPT EnterpriseをAWS Marketplaceで提供開始。対象支出をAWSのコミットメントに充当できる&lt;br&gt;&lt;a href="https://openai.com/index/chatgpt-enterprise-aws-marketplace"&gt;https://openai.com/index/chatgpt-enterprise-aws-marketplace&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Meta、成人の誕生日で登録した10代をAIで見つけてTeen Accountの保護下に置く技術をInstagramで全世界に拡大&lt;br&gt;&lt;a href="https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/"&gt;https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Box、Claude Fable 5.2を自社評価で検証。元データの読み方の判断が改善し、公共部門のスコアは81%から92%に上昇&lt;br&gt;&lt;a href="https://blog.box.com/claude-fable-52-brings-sharper-judgment-messy-enterprise-data"&gt;https://blog.box.com/claude-fable-52-brings-sharper-judgment-messy-enterprise-data&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic、Opus 5.5をほぼ全能力で上回るClaude Fable 5.2とMythos 5.2を公開&lt;br&gt;&lt;a href="https://www.anthropic.com/claude-fable-and-mythos-5-2"&gt;https://www.anthropic.com/claude-fable-and-mythos-5-2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claude Fable 5.2初期版で動く1,000体のエージェント、専用基盤なしでフェルマーの最終定理の形式化を再現&lt;br&gt;&lt;a href="https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/"&gt;https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
