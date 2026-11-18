@@ -1,5 +1,18 @@
 {
   "seen": [
+    "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
+    "https://elevenlabs.io/blog/kotoba",
+    "https://www.coderabbit.ai/ja/blog/ai-feature-bloat-why-shipping-less-is-better",
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
+    "https://openai.com/index/introducing-chatgpt-for-sales",
+    "https://microsoft.ai/news/introducing-mai-realtime-1/",
+    "https://microsoft.ai/news/introducing-mai-image-2-7/",
+    "https://microsoft.ai/news/introducing-mai-licensed-weights/",
+    "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
+    "https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol",
+    "https://openai.com/index/astra-law-6-2",
+    "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "https://x.ai/news/grok-bot-accounting",
     "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
     "https://claude.com/resources/articles/building-always-on-agents",
     "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/",
@@ -356,6 +369,91 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261118T024433Z",
+      "title": "Morning AI(2026年11月18日 11:44)",
+      "date": "2026-11-18T02:44:33.178990+00:00",
+      "items": [
+        {
+          "title": "Anthropic、Claude Docsのローンチ前にClaudeで2週間カオスループを回し、20億リクエスト中サーバーエラー60件に抑えた",
+          "link": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "ElevenLabs、日本の音声AIラボKotobaを買収へ。日本語音声モデルKotoを取り込み、日本でのAIエージェント普及を加速",
+          "link": "https://elevenlabs.io/blog/kotoba",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Together AIのHassan El-Mghari、エージェント時代は機能を絞りアイデアを5語で説明できるアプリを作るべきと提言",
+          "link": "https://www.coderabbit.ai/ja/blog/ai-feature-bloat-why-shipping-less-is-better",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google DeepMind、AlphaGenomeで90億通りすべてのDNA一塩基変化の影響を予測し疾患原因の変異探しを効率化",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIが営業向け「ChatGPT for Sales」を発表。Salesプラグインと30超のパートナープラグインで顧客情報を集約",
+          "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Microsoft、初の音声対音声モデル「MAI Realtime 1」を発表。音声1分あたり$0.01からで企業向け音声エージェントに対応",
+          "link": "https://microsoft.ai/news/introducing-mai-realtime-1/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Microsoft AI、MAI Image 2.7を公開。Artificial Analysisの画像編集で1位、競合モデルの約5分の1のコスト",
+          "link": "https://microsoft.ai/news/introducing-mai-image-2-7/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Microsoft、企業が自社のAzure環境でMAIモデルを導入・カスタマイズできるMAI Licensed Weightsを発表",
+          "link": "https://microsoft.ai/news/introducing-mai-licensed-weights/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Gemini 4 Carbonで開発者が作った5作品を紹介。草花52,000本の草原や1,048,576粒子シミュレーション",
+          "link": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Artificial Analysis評価でOpenAIのGPT-6.2 Astraが2位に。上回るのはClaude Fable 5.2のみ",
+          "link": "https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIが法務向けAstra for Lawを更新し、Harvey LAB-AAで首位。ChatGPT Enterpriseの全顧客が利用を申請できる",
+          "link": "https://openai.com/index/astra-law-6-2",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAIが「GPT-6.2 Astra」と「GPT-6.2 Sol」を公開。Astraは入出力価格を20%下げ、専門業務の評価で最高記録",
+          "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "SpaceXSIの経理チーム、5つのGrok Botに経理業務を1つずつ丸ごと任せる。文書化と約3週間のオンボーディングで育成",
+          "link": "https://x.ai/news/grok-bot-accounting",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261117T180458Z",
       "title": "Morning AI(2026年11月18日 3:04)",
@@ -1270,61 +1368,6 @@
         {
           "title": "Claude Fable 5.2初期版で動く1,000体のエージェント、専用基盤なしでフェルマーの最終定理の形式化を再現",
           "link": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261109T192625Z",
-      "title": "Morning AI(2026年11月10日 4:26)",
-      "date": "2026-11-09T19:26:25.392018+00:00",
-      "items": [
-        {
-          "title": "Artificial Analysis、Meta の Muse Ember を評価。1タスク$0.14で同スコアの Claude Haiku 5.5 の約3分の1のコスト",
-          "link": "https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google AI StudioでGoogle Maps Platform活用アプリを作成可能に。1 APIあたり1日100回まで無料",
-          "link": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "ElithとNVIDIA、実顧客データ不要の金融AI向け合成データ「Nemotron-Personas-Finance-Japan」を公開",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "a16z、米国の建設停滞の原因は民主主義や環境保護でなくNEPAなどの手続きと主張し、議会に超党派の許認可改革を要求",
-          "link": "https://a16z.com/america-can-build-again-heres-how/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "AWSが「AWS Health Impact Initiative」を発表。医療格差に取り組む組織へ5年間で1億ドル分のAIとクラウドを提供",
-          "link": "https://www.aboutamazon.com/news/aws/aws-health-impact-initiative-100-million-ai-cloud",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "MoE刈り込みの新手法HOPE、エキスパート間の協調を考慮し50%刈り込みで平均順位が最良に。エージェント型コーディングで次点手法比最大+6.1%",
-          "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、Gemini学習用の分散システムPathwaysをGoogle Cloudで一般提供。単一クライアントで学習全体を記述できる",
-          "link": "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Artificial Analysis、Decision Index v2を公開。私有データ比率45%、判断モデル上位3種は1ポイント差",
-          "link": "https://artificialanalysis.ai/articles/decision-index-v2",
           "label": null,
           "extra": []
         }
