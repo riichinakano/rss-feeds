@@ -1,5 +1,25 @@
 {
   "seen": [
+    "https://blog.box.com/gemini-4-neon-major-step-enterprise-work",
+    "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+    "https://openai.com/business/customer-stories/sumitomo-life",
+    "https://openai.com/index/research-acceleration-jagged-frontier",
+    "https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain",
+    "https://blog.cloudflare.com/open-clairic/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "https://openai.com/index/managing-frontier-ai-risk",
+    "https://ollama.com/blog/open-models-long-horizon-agents",
+    "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "https://www.vals.ai/blogs/smoktunowicz-gap-theorem",
+    "https://www.anthropic.com/research/claude-black-hole-physics",
+    "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "https://openai.com/index/the-silent-consensus",
+    "https://openai.com/index/inside-the-codex-sandbox",
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "https://deepmind.google/blog/genie-4-is-now-available/",
+    "https://huggingface.co/blog/moe-expert-streaming",
+    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
     "https://www.coderabbit.ai/ja/blog/introducing-coderabbit-verify",
     "https://huggingface.co/blog/rumble-2-flash",
     "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
@@ -377,6 +397,133 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261119T021614Z",
+      "title": "Morning AI(2026年11月19日 11:16)",
+      "date": "2026-11-19T02:16:14.666729+00:00",
+      "items": [
+        {
+          "title": "Box、Complex Work EvalでGemini 4 Neonを評価。84%でGemini 4 Hydrogenの79%を上回った",
+          "link": "https://blog.box.com/gemini-4-neon-major-step-enterprise-work",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "AnthropicがIPO価格を1株83.00ドルに決定。11月19日にNasdaqでティッカー「ANT」として取引開始",
+          "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "住友生命、経営層の率先利用で ChatGPT Enterprise の週次利用率が80%超に。月101回以上使う社員の推定ROIは524%",
+          "link": "https://openai.com/business/customer-stories/sumitomo-life",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、社内研究でのコーディングエージェント活用を報告。介入なしの成功率はCommunicate 69%、Build 43%とタスクで差",
+          "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Artificial Analysis評価でGemini 4 NeonがCarbonを1ポイント上回り、1タスクのコストは約17%減",
+          "link": "https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Cloudflare、抽出特化モデルClairicを27Bに刷新し、軽量版の9B Clairic-flashとともにオープンウェイトで公開",
+          "link": "https://blog.cloudflare.com/open-clairic/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Gemini 4 Neonを提供開始。上位モデルCarbon比でタスクあたりコスト32%減",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google DeepMindがGemini 4 Neonを発表。Carbonよりタスクあたりコストを32%抑えフロンティア級の知能を提供",
+          "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、フロンティアモデルのリスクを研究・社内展開・社外展開の3段階で管理。安全基準に届かなければ訓練停止や公開見送り",
+          "link": "https://openai.com/index/managing-frontier-ai-risk",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OllamaとTogether AI、エージェントのプレフィックスキャッシュを守る手法を解説。プロンプト先頭の固定と同じノードへのルーティング",
+          "link": "https://ollama.com/blog/open-models-long-horizon-agents",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "RadixArkがDaisyRose-27Bを公開。強化学習でTerminal-Bench 4.1のpass@1を5.6%から12.0%に向上",
+          "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Vals AIのAutoform-Hardで、GPT-6.2 Astraだけが2006年のSmoktunowiczの定理をLeanで形式証明した",
+          "link": "https://www.vals.ai/blogs/smoktunowicz-gap-theorem",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "AnthropicのClaudeが理論物理の未解決問題2つを解いた。20年以上未完だった相転移の計算と3次元重力の上限証明",
+          "link": "https://www.anthropic.com/research/claude-black-hole-physics",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Dharma-AI、ファインチューニングの所要時間をCatBoostで予測。FLOP見積もりのR² 0.31に対しR² 0.98を達成",
+          "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Dean Ball氏、AIへの人類の主導権の明け渡しを必然とする「silent consensus」を拒否し、説明責任の維持を訴え",
+          "link": "https://openai.com/index/the-silent-consensus",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、Codex sandboxの設計を解説。仮想マシンやコンテナでなくOS標準の機構で既存環境のコマンドを制限",
+          "link": "https://openai.com/index/inside-the-codex-sandbox",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Google AI Ultra 加入者に Genie 4 を初提供。Project Genie で探索中に世界を編集できる",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google DeepMind、Genie 4をGoogle AI Ultra加入者に提供開始。プレイ中にプロンプトで世界を即時に編集できる",
+          "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Hugging Face、Transformersで180BのMoEを32GBのMac上で実行。SSDからエキスパートを流しStrataとの差は約6%",
+          "link": "https://huggingface.co/blog/moe-expert-streaming",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、低メモリ端末向けに再設計したGeminiアプリをAndroid（Go edition）端末で提供開始",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261118T174453Z",
       "title": "Morning AI(2026年11月19日 2:44)",
@@ -1255,91 +1402,6 @@
         {
           "title": "Google、Google AI Edge Galleryにオンデバイスの音声認識と音声合成を導入。完全オフラインで動作",
           "link": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261110T164439Z",
-      "title": "Morning AI(2026年11月11日 1:44)",
-      "date": "2026-11-10T16:44:39.477324+00:00",
-      "items": [
-        {
-          "title": "Google、サイバーセキュリティと長時間のエージェント作業に強いGemini 4 Carbonを一般提供。価格はArgonと同じ",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、視覚的に複雑な知識労働でエージェントを測るベンチマークMKAを公開。Gemini 4 Carbonは品質2位",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google DeepMindが最強モデル「Gemini 4 Carbon」を一般提供。導入価格はArgonと同じ入力100万トークンあたり$2",
-          "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Hugging Face、選択肢の確率を返すdecision modelの共通APIを整備。Transformersとllama.cppが対応",
-          "link": "https://huggingface.co/blog/decision",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "CodeRabbit、Deep Scan にマルチリポジトリ分析を組み込み。IaC など関連リポジトリを参照し検出結果の条件まで調査できる",
-          "link": "https://www.coderabbit.ai/ja/blog/multi-repository-security-analysis-with-coderabbit-secure",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAIとUpworkの共同研究、AIはフリーランスの仕事を単純には置き換えず、AI関連求人のタスク構成は45%多様化",
-          "link": "https://openai.com/index/ai-effect-on-freelance-work",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "DeepMindがGemini Robotics 2.5を発表。Mercedes-Benz工場で部品キッティング成功率96%",
-          "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Ringが屋内飛行カメラRing Drone Camと事業者向け巡回ロボットRing Rover Camを発表、自律移動型セキュリティに参入",
-          "link": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "GoogleがAdobeとの提携を拡大。Google DriveやGmailからAdobe Acrobatへ直接移れる導線を用意",
-          "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI Academy、米国5都市で介護者向けの無料ChatGPTワークショップを対面開催。スケジュール整理や支援探しへの活用を学べる",
-          "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Anthropic、Nasdaq上場に向けIPOロードショーを開始。想定価格は1株70.00〜78.00ドル",
-          "link": "https://www.anthropic.com/news/roadshow-launch",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google DeepMind、「AlphaProof Code」でSignalプロトコルの実装コードを4週間で形式検証",
-          "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、教育のAIガイダンス格差を埋める提言レポートを公開。宿題にAIを使う生徒79%に対し使い方を教わったのは47%",
-          "link": "https://openai.com/index/closing-ai-guidance-gap-education",
           "label": null,
           "extra": []
         }

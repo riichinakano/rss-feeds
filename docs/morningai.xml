@@ -6,7 +6,33 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 18 Nov 2026 17:44:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:16:14 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月19日 11:16)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261119T021614Z</guid>
+      <pubDate>Thu, 19 Nov 2026 02:16:14 +0000</pubDate>
+      <description>&lt;p&gt;Box、Complex Work EvalでGemini 4 Neonを評価。84%でGemini 4 Hydrogenの79%を上回った&lt;br&gt;&lt;a href="https://blog.box.com/gemini-4-neon-major-step-enterprise-work"&gt;https://blog.box.com/gemini-4-neon-major-step-enterprise-work&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AnthropicがIPO価格を1株83.00ドルに決定。11月19日にNasdaqでティッカー「ANT」として取引開始&lt;br&gt;&lt;a href="https://www.anthropic.com/news/anthropic-prices-initial-public-offering"&gt;https://www.anthropic.com/news/anthropic-prices-initial-public-offering&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;住友生命、経営層の率先利用で ChatGPT Enterprise の週次利用率が80%超に。月101回以上使う社員の推定ROIは524%&lt;br&gt;&lt;a href="https://openai.com/business/customer-stories/sumitomo-life"&gt;https://openai.com/business/customer-stories/sumitomo-life&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、社内研究でのコーディングエージェント活用を報告。介入なしの成功率はCommunicate 69%、Build 43%とタスクで差&lt;br&gt;&lt;a href="https://openai.com/index/research-acceleration-jagged-frontier"&gt;https://openai.com/index/research-acceleration-jagged-frontier&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Artificial Analysis評価でGemini 4 NeonがCarbonを1ポイント上回り、1タスクのコストは約17%減&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain"&gt;https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cloudflare、抽出特化モデルClairicを27Bに刷新し、軽量版の9B Clairic-flashとともにオープンウェイトで公開&lt;br&gt;&lt;a href="https://blog.cloudflare.com/open-clairic/"&gt;https://blog.cloudflare.com/open-clairic/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、Gemini 4 Neonを提供開始。上位モデルCarbon比でタスクあたりコスト32%減&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"&gt;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google DeepMindがGemini 4 Neonを発表。Carbonよりタスクあたりコストを32%抑えフロンティア級の知能を提供&lt;br&gt;&lt;a href="https://deepmind.google/blog/introducing-gemini-4-neon/"&gt;https://deepmind.google/blog/introducing-gemini-4-neon/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、フロンティアモデルのリスクを研究・社内展開・社外展開の3段階で管理。安全基準に届かなければ訓練停止や公開見送り&lt;br&gt;&lt;a href="https://openai.com/index/managing-frontier-ai-risk"&gt;https://openai.com/index/managing-frontier-ai-risk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OllamaとTogether AI、エージェントのプレフィックスキャッシュを守る手法を解説。プロンプト先頭の固定と同じノードへのルーティング&lt;br&gt;&lt;a href="https://ollama.com/blog/open-models-long-horizon-agents"&gt;https://ollama.com/blog/open-models-long-horizon-agents&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;RadixArkがDaisyRose-27Bを公開。強化学習でTerminal-Bench 4.1のpass@1を5.6%から12.0%に向上&lt;br&gt;&lt;a href="https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"&gt;https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vals AIのAutoform-Hardで、GPT-6.2 Astraだけが2006年のSmoktunowiczの定理をLeanで形式証明した&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/smoktunowicz-gap-theorem"&gt;https://www.vals.ai/blogs/smoktunowicz-gap-theorem&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AnthropicのClaudeが理論物理の未解決問題2つを解いた。20年以上未完だった相転移の計算と3次元重力の上限証明&lt;br&gt;&lt;a href="https://www.anthropic.com/research/claude-black-hole-physics"&gt;https://www.anthropic.com/research/claude-black-hole-physics&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dharma-AI、ファインチューニングの所要時間をCatBoostで予測。FLOP見積もりのR² 0.31に対しR² 0.98を達成&lt;br&gt;&lt;a href="https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"&gt;https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dean Ball氏、AIへの人類の主導権の明け渡しを必然とする「silent consensus」を拒否し、説明責任の維持を訴え&lt;br&gt;&lt;a href="https://openai.com/index/the-silent-consensus"&gt;https://openai.com/index/the-silent-consensus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、Codex sandboxの設計を解説。仮想マシンやコンテナでなくOS標準の機構で既存環境のコマンドを制限&lt;br&gt;&lt;a href="https://openai.com/index/inside-the-codex-sandbox"&gt;https://openai.com/index/inside-the-codex-sandbox&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、Google AI Ultra 加入者に Genie 4 を初提供。Project Genie で探索中に世界を編集できる&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"&gt;https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google DeepMind、Genie 4をGoogle AI Ultra加入者に提供開始。プレイ中にプロンプトで世界を即時に編集できる&lt;br&gt;&lt;a href="https://deepmind.google/blog/genie-4-is-now-available/"&gt;https://deepmind.google/blog/genie-4-is-now-available/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、Transformersで180BのMoEを32GBのMac上で実行。SSDからエキスパートを流しStrataとの差は約6%&lt;br&gt;&lt;a href="https://huggingface.co/blog/moe-expert-streaming"&gt;https://huggingface.co/blog/moe-expert-streaming&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、低メモリ端末向けに再設計したGeminiアプリをAndroid（Go edition）端末で提供開始&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月19日 2:44)</title>
       <link>https://morningaiapp.com</link>
@@ -216,25 +242,6 @@
 &lt;p&gt;a16zが開発者向けローカライズ基盤General TranslationのSeries Aをリード。Cursor、Rampなどが導入&lt;br&gt;&lt;a href="https://a16z.com/announcement/investing-in-general-translation/"&gt;https://a16z.com/announcement/investing-in-general-translation/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Box、Gemini 4 Carbonを自社評価で検証。1つの結論に踏み切り、公共部門のスコアが93%から100%に向上&lt;br&gt;&lt;a href="https://blog.box.com/gemini-4-carbon-brings-clarity-complex-enterprise-work"&gt;https://blog.box.com/gemini-4-carbon-brings-clarity-complex-enterprise-work&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google、Google AI Edge Galleryにオンデバイスの音声認識と音声合成を導入。完全オフラインで動作&lt;br&gt;&lt;a href="https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/"&gt;https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月11日 1:44)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261110T164439Z</guid>
-      <pubDate>Tue, 10 Nov 2026 16:44:39 +0000</pubDate>
-      <description>&lt;p&gt;Google、サイバーセキュリティと長時間のエージェント作業に強いGemini 4 Carbonを一般提供。価格はArgonと同じ&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"&gt;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、視覚的に複雑な知識労働でエージェントを測るベンチマークMKAを公開。Gemini 4 Carbonは品質2位&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/"&gt;https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google DeepMindが最強モデル「Gemini 4 Carbon」を一般提供。導入価格はArgonと同じ入力100万トークンあたり$2&lt;br&gt;&lt;a href="https://deepmind.google/blog/gemini-4-carbon-is-now-available/"&gt;https://deepmind.google/blog/gemini-4-carbon-is-now-available/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hugging Face、選択肢の確率を返すdecision modelの共通APIを整備。Transformersとllama.cppが対応&lt;br&gt;&lt;a href="https://huggingface.co/blog/decision"&gt;https://huggingface.co/blog/decision&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;CodeRabbit、Deep Scan にマルチリポジトリ分析を組み込み。IaC など関連リポジトリを参照し検出結果の条件まで調査できる&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/multi-repository-security-analysis-with-coderabbit-secure"&gt;https://www.coderabbit.ai/ja/blog/multi-repository-security-analysis-with-coderabbit-secure&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIとUpworkの共同研究、AIはフリーランスの仕事を単純には置き換えず、AI関連求人のタスク構成は45%多様化&lt;br&gt;&lt;a href="https://openai.com/index/ai-effect-on-freelance-work"&gt;https://openai.com/index/ai-effect-on-freelance-work&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;DeepMindがGemini Robotics 2.5を発表。Mercedes-Benz工場で部品キッティング成功率96%&lt;br&gt;&lt;a href="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"&gt;https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ringが屋内飛行カメラRing Drone Camと事業者向け巡回ロボットRing Rover Camを発表、自律移動型セキュリティに参入&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot"&gt;https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;GoogleがAdobeとの提携を拡大。Google DriveやGmailからAdobe Acrobatへ直接移れる導線を用意&lt;br&gt;&lt;a href="https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"&gt;https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI Academy、米国5都市で介護者向けの無料ChatGPTワークショップを対面開催。スケジュール整理や支援探しへの活用を学べる&lt;br&gt;&lt;a href="https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"&gt;https://openai.com/index/helping-caregivers-use-ai-in-everyday-life&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic、Nasdaq上場に向けIPOロードショーを開始。想定価格は1株70.00〜78.00ドル&lt;br&gt;&lt;a href="https://www.anthropic.com/news/roadshow-launch"&gt;https://www.anthropic.com/news/roadshow-launch&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google DeepMind、「AlphaProof Code」でSignalプロトコルの実装コードを4週間で形式検証&lt;br&gt;&lt;a href="https://deepmind.google/blog/introducing-alphaproof-code/"&gt;https://deepmind.google/blog/introducing-alphaproof-code/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、教育のAIガイダンス格差を埋める提言レポートを公開。宿題にAIを使う生徒79%に対し使い方を教わったのは47%&lt;br&gt;&lt;a href="https://openai.com/index/closing-ai-guidance-gap-education"&gt;https://openai.com/index/closing-ai-guidance-gap-education&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
