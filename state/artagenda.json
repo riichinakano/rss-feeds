@@ -1,5 +1,10 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12910",
+    "https://www.artagenda.jp/exhibition/detail/12620",
+    "https://www.artagenda.jp/exhibition/detail/13063",
+    "https://www.artagenda.jp/exhibition/detail/12253",
+    "https://www.artagenda.jp/exhibition/detail/12327",
     "https://www.artagenda.jp/exhibition/detail/12034",
     "https://www.artagenda.jp/exhibition/detail/13058",
     "https://www.artagenda.jp/exhibition/detail/11765",
@@ -17,7 +22,6 @@
     "https://www.artagenda.jp/exhibition/detail/12984",
     "https://www.artagenda.jp/exhibition/detail/12943",
     "https://www.artagenda.jp/exhibition/detail/12919",
-    "https://www.artagenda.jp/exhibition/detail/12327",
     "https://www.artagenda.jp/exhibition/detail/12029",
     "https://www.artagenda.jp/exhibition/detail/12544",
     "https://www.artagenda.jp/exhibition/detail/12607",
@@ -84,7 +88,6 @@
     "https://www.artagenda.jp/exhibition/detail/12293",
     "https://www.artagenda.jp/exhibition/detail/11570",
     "https://www.artagenda.jp/exhibition/detail/12566",
-    "https://www.artagenda.jp/exhibition/detail/12910",
     "https://www.artagenda.jp/exhibition/detail/12915",
     "https://www.artagenda.jp/exhibition/detail/11771",
     "https://www.artagenda.jp/exhibition/detail/12895",
@@ -496,12 +499,40 @@
     "https://www.artagenda.jp/exhibition/detail/12509",
     "https://www.artagenda.jp/exhibition/detail/12359",
     "https://www.artagenda.jp/exhibition/detail/12646",
-    "https://www.artagenda.jp/exhibition/detail/12794",
-    "https://www.artagenda.jp/exhibition/detail/11759",
-    "https://www.artagenda.jp/exhibition/detail/12183",
-    "https://www.artagenda.jp/exhibition/detail/12182"
+    "https://www.artagenda.jp/exhibition/detail/12794"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261119T175829Z",
+      "title": "アートアジェンダ 展覧会(2026年11月20日 2:58)",
+      "date": "2026-11-19T17:58:29.409789+00:00",
+      "items": [
+        {
+          "title": "ARTIST FOCUS #06 中山晃子",
+          "link": "https://www.artagenda.jp/exhibition/detail/12620",
+          "label": "11/7〜2027/1/17",
+          "extra": [
+            "高知県立美術館｜高知県"
+          ]
+        },
+        {
+          "title": "【開館35周年】山口蓬春と春子 ―大正15年から始まる二人の物語―",
+          "link": "https://www.artagenda.jp/exhibition/detail/12253",
+          "label": "11/21〜2027/1/24",
+          "extra": [
+            "山口蓬春記念館｜神奈川県"
+          ]
+        },
+        {
+          "title": "JAGDA国際学生ポスターアワード2026",
+          "link": "https://www.artagenda.jp/exhibition/detail/13063",
+          "label": "11/25〜12/7",
+          "extra": [
+            "国立新美術館｜東京都"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261118T174704Z",
       "title": "アートアジェンダ 展覧会(2026年11月19日 2:47)",
@@ -965,21 +996,6 @@
           "label": "2027/10/9〜2027/12/5",
           "extra": [
             "九州国立博物館｜福岡県"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261105T170453Z",
-      "title": "アートアジェンダ 展覧会(2026年11月6日 2:04)",
-      "date": "2026-11-05T17:04:53.410648+00:00",
-      "items": [
-        {
-          "title": "魯山人の宇宙 魂を刳る美がほしい",
-          "link": "https://www.artagenda.jp/exhibition/detail/12953",
-          "label": "2027/1/2〜2027/1/25",
-          "extra": [
-            "美術館「えき」KYOTO｜京都府"
           ]
         }
       ]

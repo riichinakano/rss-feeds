@@ -1,5 +1,11 @@
 {
   "seen": [
+    "https://www.vals.ai/blogs/building-rctbench",
+    "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+    "https://www.coderabbit.ai/ja/blog/ai-pull-requests-open-source-context-problem",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+    "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+    "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-and-flow-music-session-artists/",
     "https://blog.box.com/gemini-4-neon-major-step-enterprise-work",
     "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
     "https://openai.com/business/customer-stories/sumitomo-life",
@@ -397,6 +403,49 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261119T175620Z",
+      "title": "Morning AI(2026年11月20日 2:56)",
+      "date": "2026-11-19T17:56:20.892681+00:00",
+      "items": [
+        {
+          "title": "Vals AI、意思決定モデル9種にRollerCoaster Tycoon 2で遊園地を96週運営させ比較。首位はDecider V1.3の71点",
+          "link": "https://www.vals.ai/blogs/building-rctbench",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Mac版Geminiアプリでcomputer useを米国で提供開始。ローカルファイルやアプリ、Webをまたぐ作業を代行",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "prompts.chat作者のFatih Kadir Akın、エージェントが書いたPRの問題はコードの良し悪しでなく文脈の欠如と指摘",
+          "link": "https://www.coderabbit.ai/ja/blog/ai-pull-requests-open-source-context-problem",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google DeepMind、Genie 4をGemini APIとGoogle AI Studioで開発者に提供。音声付きの720p・24fpsの世界をリアルタイムに操作できる",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、TunixのマルチターンRLでGemma 4 E2Bを学習する手順を解説。100ステップで勝率9.4%が95%に向上",
+          "link": "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Flow Music Sessions参加者がSpacesで作ったプラグインや楽器を公開。リミックスして試せる",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-and-flow-music-session-artists/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261119T021614Z",
       "title": "Morning AI(2026年11月19日 11:16)",
@@ -1305,103 +1354,6 @@
         {
           "title": "OpenRouter、429エラーの対処法を実測で解説。SDK既定の再試行では60件中23件が失敗、limit_sourceで原因を確認",
           "link": "https://openrouter.ai/blog/tutorials/llm-api-rate-limits/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261111T010042Z",
-      "title": "Morning AI(2026年11月11日 10:00)",
-      "date": "2026-11-11T01:00:42.723507+00:00",
-      "items": [
-        {
-          "title": "Google DeepMind、AIのAlphaProof CodeでSignalの参照実装libsignalの安全性を無改変の機械語レベルで証明",
-          "link": "https://google-deepmind.github.io/code-verification/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Anthropic、Claude Fable 5.2向けプロンプトガイドを公開。旧モデル向け指示の見直しやeffort調整を解説",
-          "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Reddit、製品に関する会話をAIでレビューにまとめる「Reddit Reviews」のテストを開始。米国で約1万製品から",
-          "link": "https://redditinc.com/news/introducing-reddit-reviews",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Artificial Analysis、視覚ファイルを扱うエージェント評価MKAを公開。首位はClaude Fable 5.2の57%",
-          "link": "https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、Gemini IntelligenceをPixel 10などに拡大。言葉で説明するだけでウィジェットを作れる新機能を追加",
-          "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、GPT-Live で開発するJunoなど4社の実践知見を紹介。背後のエージェントで音声モデルを舵取りし、会話と作業を分ける",
-          "link": "https://developers.openai.com/blog/pushing-voice-agents-further",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、2,638人を対象にしたAI導入調査の2026年版レポートを公表。楽観は急伸も、AIへの野心と準備度の差は前年から不変",
-          "link": "https://workspace.google.com/blog/product-announcements/bridging-the-gap-between-ai-ambition-and-readiness-new-survey-data",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAIがBusinesses in ChatGPTをベータ提供、企業が自社情報を管理し米国ではBusiness Agentも開設できる",
-          "link": "https://openai.com/index/introducing-businesses-chatgpt",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Curative が Claude で契約エージェント Gwen と監督役エージェント群を構築し、医療機関との契約締結を約50倍に高速化",
-          "link": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Hugging Face、利用料を Google Cloud の請求書で支払えるようにした。Team/Enterprise や従量課金も対象",
-          "link": "https://huggingface.co/blog/hub-gcp-marketplace",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenRouterがスキャン文書のOCRを比較、最も正確なのはClaude Opus 5.5でコスパ最良はMistral OCR",
-          "link": "https://openrouter.ai/blog/insights/best-ocr-model/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Claude、新アーティファクトClaude Sheets・Claude Whiteboards・Claude Dataをチーム向けに提供開始",
-          "link": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "a16zが開発者向けローカライズ基盤General TranslationのSeries Aをリード。Cursor、Rampなどが導入",
-          "link": "https://a16z.com/announcement/investing-in-general-translation/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Box、Gemini 4 Carbonを自社評価で検証。1つの結論に踏み切り、公共部門のスコアが93%から100%に向上",
-          "link": "https://blog.box.com/gemini-4-carbon-brings-clarity-complex-enterprise-work",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、Google AI Edge Galleryにオンデバイスの音声認識と音声合成を導入。完全オフラインで動作",
-          "link": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
           "label": null,
           "extra": []
         }

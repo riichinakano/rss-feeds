@@ -6,7 +6,16 @@
     <description>アートアジェンダ 展覧会 の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/artagenda.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 18 Nov 2026 17:47:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:58:29 +0000</lastBuildDate>
+    <item>
+      <title>アートアジェンダ 展覧会(2026年11月20日 2:58)</title>
+      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
+      <guid isPermaLink="false">artagenda-20261119T175829Z</guid>
+      <pubDate>Thu, 19 Nov 2026 17:58:29 +0000</pubDate>
+      <description>&lt;p&gt;[11/7〜2027/1/17] ARTIST FOCUS #06 中山晃子&lt;br&gt;高知県立美術館｜高知県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12620"&gt;https://www.artagenda.jp/exhibition/detail/12620&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[11/21〜2027/1/24] 【開館35周年】山口蓬春と春子 ―大正15年から始まる二人の物語―&lt;br&gt;山口蓬春記念館｜神奈川県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12253"&gt;https://www.artagenda.jp/exhibition/detail/12253&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[11/25〜12/7] JAGDA国際学生ポスターアワード2026&lt;br&gt;国立新美術館｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/13063"&gt;https://www.artagenda.jp/exhibition/detail/13063&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>アートアジェンダ 展覧会(2026年11月19日 2:47)</title>
       <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
@@ -131,13 +140,6 @@
 &lt;p&gt;[2027/3/13〜2027/5/16] 第12回テーマ展示「アイヌ民族とキリスト教 ―聖公会のつながりのなかで―」&lt;br&gt;国立アイヌ民族博物館｜北海道&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12961"&gt;https://www.artagenda.jp/exhibition/detail/12961&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[2027/7/17〜2027/9/12] 特別展「菅原道真」&lt;br&gt;東京国立博物館｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12939"&gt;https://www.artagenda.jp/exhibition/detail/12939&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[2027/10/9〜2027/12/5] 特別展「菅原道真」&lt;br&gt;九州国立博物館｜福岡県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12940"&gt;https://www.artagenda.jp/exhibition/detail/12940&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>アートアジェンダ 展覧会(2026年11月6日 2:04)</title>
-      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
-      <guid isPermaLink="false">artagenda-20261105T170453Z</guid>
-      <pubDate>Thu, 05 Nov 2026 17:04:53 +0000</pubDate>
-      <description>&lt;p&gt;[2027/1/2〜2027/1/25] 魯山人の宇宙 魂を刳る美がほしい&lt;br&gt;美術館「えき」KYOTO｜京都府&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12953"&gt;https://www.artagenda.jp/exhibition/detail/12953&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
