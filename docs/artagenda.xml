@@ -6,7 +6,17 @@
     <description>アートアジェンダ 展覧会 の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/artagenda.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 20 Nov 2026 02:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:30:48 +0000</lastBuildDate>
+    <item>
+      <title>アートアジェンダ 展覧会(2026年11月21日 2:30)</title>
+      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
+      <guid isPermaLink="false">artagenda-20261120T173048Z</guid>
+      <pubDate>Fri, 20 Nov 2026 17:30:48 +0000</pubDate>
+      <description>&lt;p&gt;[12/1〜2027/1/31] 令和8年度首里城正殿完成記念事業 博物館特別展「首里城―琉球の御城―」&lt;br&gt;沖縄県立博物館・美術館（おきみゅー）｜沖縄県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12982"&gt;https://www.artagenda.jp/exhibition/detail/12982&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[12/19〜2027/8/30] 体感型デジタルアート劇場新作『ファン・ゴッホ ひまわりの情熱ファン・ゴッホ ひまわりの…&lt;br&gt;角川武蔵野ミュージアム｜埼玉県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/13067"&gt;https://www.artagenda.jp/exhibition/detail/13067&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2027/1/8〜2027/4/18] 新春展「意外とかわいい樂焼の世界」&lt;br&gt;樂美術館｜京都府&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12966"&gt;https://www.artagenda.jp/exhibition/detail/12966&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2027/1/13〜2027/3/7] ねこ∞（づくし）―浮世絵のなかのねこたち&lt;br&gt;福岡県立美術館｜福岡県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12623"&gt;https://www.artagenda.jp/exhibition/detail/12623&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>アートアジェンダ 展覧会(2026年11月20日 11:02)</title>
       <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
@@ -130,13 +140,6 @@
       <pubDate>Mon, 09 Nov 2026 19:28:30 +0000</pubDate>
       <description>&lt;p&gt;[12/2〜12/25] 第73回日本伝統工芸展&lt;br&gt;島根県立美術館｜島根県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12967"&gt;https://www.artagenda.jp/exhibition/detail/12967&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[2027/3/6〜2027/5/16] 世界遺産の歩き方展&lt;br&gt;寺田倉庫G1ビル｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12964"&gt;https://www.artagenda.jp/exhibition/detail/12964&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>アートアジェンダ 展覧会(2026年11月9日 0:46)</title>
-      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
-      <guid isPermaLink="false">artagenda-20261108T154600Z</guid>
-      <pubDate>Sun, 08 Nov 2026 15:46:00 +0000</pubDate>
-      <description>&lt;p&gt;[2027/1/23〜2027/3/28] 企画展「RAKU WARE樂茶碗 千利休が愛した美のかたち」&lt;br&gt;中之島香雪美術館｜大阪府&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12952"&gt;https://www.artagenda.jp/exhibition/detail/12952&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
