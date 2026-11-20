@@ -6,7 +6,15 @@
     <description>アートアジェンダ 展覧会 の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/artagenda.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Nov 2026 17:58:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 02:02:36 +0000</lastBuildDate>
+    <item>
+      <title>アートアジェンダ 展覧会(2026年11月20日 11:02)</title>
+      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
+      <guid isPermaLink="false">artagenda-20261120T020236Z</guid>
+      <pubDate>Fri, 20 Nov 2026 02:02:36 +0000</pubDate>
+      <description>&lt;p&gt;[11/25〜2027/1/31] 所蔵名作展 「近代日本の洋画・日本画」&lt;br&gt;中野美術館｜奈良県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12900"&gt;https://www.artagenda.jp/exhibition/detail/12900&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[12/1〜2027/4/11] レースガラス展－紡がれる ヴェネツィア伝統の技と美－&lt;br&gt;北一ヴェネツィア美術館｜北海道&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12980"&gt;https://www.artagenda.jp/exhibition/detail/12980&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>アートアジェンダ 展覧会(2026年11月20日 2:58)</title>
       <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
@@ -129,17 +137,6 @@
       <guid isPermaLink="false">artagenda-20261108T154600Z</guid>
       <pubDate>Sun, 08 Nov 2026 15:46:00 +0000</pubDate>
       <description>&lt;p&gt;[2027/1/23〜2027/3/28] 企画展「RAKU WARE樂茶碗 千利休が愛した美のかたち」&lt;br&gt;中之島香雪美術館｜大阪府&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12952"&gt;https://www.artagenda.jp/exhibition/detail/12952&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>アートアジェンダ 展覧会(2026年11月7日 1:36)</title>
-      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
-      <guid isPermaLink="false">artagenda-20261106T163606Z</guid>
-      <pubDate>Fri, 06 Nov 2026 16:36:06 +0000</pubDate>
-      <description>&lt;p&gt;[12/12〜2027/1/17] あなたの知らない浮世絵師たち&lt;br&gt;太田記念美術館｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/11943"&gt;https://www.artagenda.jp/exhibition/detail/11943&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[12/15〜2027/2/21] 大・松尾スズキ展 －松尾スズキの脳内観光－&lt;br&gt;北九州市立美術館｜福岡県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12117"&gt;https://www.artagenda.jp/exhibition/detail/12117&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2027/3/13〜2027/5/16] 第12回テーマ展示「アイヌ民族とキリスト教 ―聖公会のつながりのなかで―」&lt;br&gt;国立アイヌ民族博物館｜北海道&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12961"&gt;https://www.artagenda.jp/exhibition/detail/12961&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2027/7/17〜2027/9/12] 特別展「菅原道真」&lt;br&gt;東京国立博物館｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12939"&gt;https://www.artagenda.jp/exhibition/detail/12939&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2027/10/9〜2027/12/5] 特別展「菅原道真」&lt;br&gt;九州国立博物館｜福岡県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12940"&gt;https://www.artagenda.jp/exhibition/detail/12940&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

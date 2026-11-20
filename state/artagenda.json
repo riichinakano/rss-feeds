@@ -1,5 +1,7 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12980",
+    "https://www.artagenda.jp/exhibition/detail/12900",
     "https://www.artagenda.jp/exhibition/detail/12910",
     "https://www.artagenda.jp/exhibition/detail/12620",
     "https://www.artagenda.jp/exhibition/detail/13063",
@@ -497,11 +499,32 @@
     "https://www.artagenda.jp/exhibition/detail/12252",
     "https://www.artagenda.jp/exhibition/detail/12812",
     "https://www.artagenda.jp/exhibition/detail/12509",
-    "https://www.artagenda.jp/exhibition/detail/12359",
-    "https://www.artagenda.jp/exhibition/detail/12646",
-    "https://www.artagenda.jp/exhibition/detail/12794"
+    "https://www.artagenda.jp/exhibition/detail/12359"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261120T020236Z",
+      "title": "アートアジェンダ 展覧会(2026年11月20日 11:02)",
+      "date": "2026-11-20T02:02:36.744393+00:00",
+      "items": [
+        {
+          "title": "所蔵名作展 「近代日本の洋画・日本画」",
+          "link": "https://www.artagenda.jp/exhibition/detail/12900",
+          "label": "11/25〜2027/1/31",
+          "extra": [
+            "中野美術館｜奈良県"
+          ]
+        },
+        {
+          "title": "レースガラス展－紡がれる ヴェネツィア伝統の技と美－",
+          "link": "https://www.artagenda.jp/exhibition/detail/12980",
+          "label": "12/1〜2027/4/11",
+          "extra": [
+            "北一ヴェネツィア美術館｜北海道"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261119T175829Z",
       "title": "アートアジェンダ 展覧会(2026年11月20日 2:58)",
@@ -949,53 +972,6 @@
           "label": "2027/1/23〜2027/3/28",
           "extra": [
             "中之島香雪美術館｜大阪府"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261106T163606Z",
-      "title": "アートアジェンダ 展覧会(2026年11月7日 1:36)",
-      "date": "2026-11-06T16:36:06.271145+00:00",
-      "items": [
-        {
-          "title": "あなたの知らない浮世絵師たち",
-          "link": "https://www.artagenda.jp/exhibition/detail/11943",
-          "label": "12/12〜2027/1/17",
-          "extra": [
-            "太田記念美術館｜東京都"
-          ]
-        },
-        {
-          "title": "大・松尾スズキ展 －松尾スズキの脳内観光－",
-          "link": "https://www.artagenda.jp/exhibition/detail/12117",
-          "label": "12/15〜2027/2/21",
-          "extra": [
-            "北九州市立美術館｜福岡県"
-          ]
-        },
-        {
-          "title": "第12回テーマ展示「アイヌ民族とキリスト教 ―聖公会のつながりのなかで―」",
-          "link": "https://www.artagenda.jp/exhibition/detail/12961",
-          "label": "2027/3/13〜2027/5/16",
-          "extra": [
-            "国立アイヌ民族博物館｜北海道"
-          ]
-        },
-        {
-          "title": "特別展「菅原道真」",
-          "link": "https://www.artagenda.jp/exhibition/detail/12939",
-          "label": "2027/7/17〜2027/9/12",
-          "extra": [
-            "東京国立博物館｜東京都"
-          ]
-        },
-        {
-          "title": "特別展「菅原道真」",
-          "link": "https://www.artagenda.jp/exhibition/detail/12940",
-          "label": "2027/10/9〜2027/12/5",
-          "extra": [
-            "九州国立博物館｜福岡県"
           ]
         }
       ]

@@ -1,5 +1,16 @@
 {
   "seen": [
+    "https://openai.com/business/learn/deploying-daybreak-red",
+    "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "https://openai.com/business/learn/pr-scans-demo",
+    "https://openai.com/business/learn/codex-security-plugin-demo",
+    "https://www.vals.ai/blogs/model-behavior-report",
+    "https://developers.openai.com/blog/prompting-multilingual-voice-agents",
+    "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+    "https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer",
+    "https://blog.google/security/mirror-dimension-for-agents/",
+    "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
     "https://www.vals.ai/blogs/building-rctbench",
     "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
     "https://www.coderabbit.ai/ja/blog/ai-pull-requests-open-source-context-problem",
@@ -403,6 +414,79 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261120T020031Z",
+      "title": "Morning AI(2026年11月20日 11:00)",
+      "date": "2026-11-20T02:00:31.149027+00:00",
+      "items": [
+        {
+          "title": "OpenAI、Daybreak Redで監督付きセキュリティ調査を行う隔離環境の構築ガイドを公開。安全制御や調査の監視方法も解説",
+          "link": "https://openai.com/business/learn/deploying-daybreak-red",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、Daybreak Blueのオンボーディングを解説するデモ動画を公開。セットアップ体験と使い始め方を紹介",
+          "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、PR scansの製品デモ動画を公開。プルリクエストのワークフローでスキャン結果を確認する流れを紹介",
+          "link": "https://openai.com/business/learn/pr-scans-demo",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、Codex Security Pluginのデモ動画を公開。使い始めから結果の確認までの流れを紹介",
+          "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Vals AI、AIモデルの不正や報酬ハッキングを記録する「Vals Misalignment Incidents」を公開。外部からも事例を報告できる",
+          "link": "https://www.vals.ai/blogs/model-behavior-report",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、GPT-Live音声エージェントを地域の利用者に合わせる手法を解説。音声選びとセッション指示を分けて設計し、実際の発話で検証",
+          "link": "https://developers.openai.com/blog/prompting-multilingual-voice-agents",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google Quantum AI、量子の文脈依存性を最大105量子ビットで実証。古典戦略を上回り、ランダム回路では見逃す誤差も検出",
+          "link": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Gemini、他のAIアシスタントから好み設定とチャット履歴を取り込める。ZIPのアップロードで会話を続きから再開できる",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "MicrosoftのPyPIパッケージagent-framework 1.26.1と1.26.2が侵害され、認証情報を盗むコードが混入",
+          "link": "https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Chromeのauto browse向け合成Web環境「mirror dimension」を構築。攻撃テスト候補は手作業の30倍超",
+          "link": "https://blog.google/security/mirror-dimension-for-agents/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、ChatGPTの性能劣化をCodexで調査・修正する「Performance Factory」を構築。3か月余りで1,700件超を調査",
+          "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261119T175620Z",
       "title": "Morning AI(2026年11月20日 2:56)",
@@ -1293,67 +1377,6 @@
         {
           "title": "Google、生成UI向けオープンプロトコルの初の安定版「A2UI 1.0」を公開。AIエージェントが操作できる画面で応答できる",
           "link": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261111T165059Z",
-      "title": "Morning AI(2026年11月12日 1:50)",
-      "date": "2026-11-11T16:50:59.671789+00:00",
-      "items": [
-        {
-          "title": "AWSがチリ初のリージョン「AWS South America (Chile)」を一部顧客向けに開設。データを国内に置き規制要件に対応できる",
-          "link": "https://www.aboutamazon.com/news/aws/aws-south-america-chile-region-launch",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google Labs、グループで旅行の行程表や割り勘ツールを作れる実験的ツール「Tabletop」を米国でウェイトリスト提供",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Hugging Face、Sentence Transformersでトークンプーリング対応学習を解説。文書ベクトル4分の1で性能保持率97.8%",
-          "link": "https://huggingface.co/blog/token-pooling",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "DeepMind、細胞型ごとにDNA変異の影響を予測するAlphaGenome 2を発表。遺伝子発現を変える変異の検出数は従来モデルの約2倍",
-          "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Sakana AI、元NSA長官のロジャース氏と元CIA支局長のモラン氏がシニアアドバイザーに就任。防衛とサイバーセキュリティの強化を助言",
-          "link": "https://sakana.ai/michael-tom/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAIが退役軍人らに1年間無料で提供するChatGPT Plus、過去1年で20,000人超が取得。求職や面接準備に活用",
-          "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Tether AI Research、端末上で動く0.8BのエージェントモデルBotPsyを発表。1.2B以下で最高のツール利用性能",
-          "link": "https://huggingface.co/blog/qvac/botpsy",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "豪法律事務所Gilbert + TobinのCEO、AI導入はトップが自ら使うことが鍵と語る。ChatGPTのアクティブ利用率は87%",
-          "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenRouter、429エラーの対処法を実測で解説。SDK既定の再試行では60件中23件が失敗、limit_sourceで原因を確認",
-          "link": "https://openrouter.ai/blog/tutorials/llm-api-rate-limits/",
           "label": null,
           "extra": []
         }

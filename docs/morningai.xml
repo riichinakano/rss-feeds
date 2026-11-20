@@ -6,7 +6,24 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Nov 2026 17:56:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 02:00:31 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月20日 11:00)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261120T020031Z</guid>
+      <pubDate>Fri, 20 Nov 2026 02:00:31 +0000</pubDate>
+      <description>&lt;p&gt;OpenAI、Daybreak Redで監督付きセキュリティ調査を行う隔離環境の構築ガイドを公開。安全制御や調査の監視方法も解説&lt;br&gt;&lt;a href="https://openai.com/business/learn/deploying-daybreak-red"&gt;https://openai.com/business/learn/deploying-daybreak-red&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、Daybreak Blueのオンボーディングを解説するデモ動画を公開。セットアップ体験と使い始め方を紹介&lt;br&gt;&lt;a href="https://openai.com/business/learn/daybreak-blue-onboarding-demo"&gt;https://openai.com/business/learn/daybreak-blue-onboarding-demo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、PR scansの製品デモ動画を公開。プルリクエストのワークフローでスキャン結果を確認する流れを紹介&lt;br&gt;&lt;a href="https://openai.com/business/learn/pr-scans-demo"&gt;https://openai.com/business/learn/pr-scans-demo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、Codex Security Pluginのデモ動画を公開。使い始めから結果の確認までの流れを紹介&lt;br&gt;&lt;a href="https://openai.com/business/learn/codex-security-plugin-demo"&gt;https://openai.com/business/learn/codex-security-plugin-demo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vals AI、AIモデルの不正や報酬ハッキングを記録する「Vals Misalignment Incidents」を公開。外部からも事例を報告できる&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/model-behavior-report"&gt;https://www.vals.ai/blogs/model-behavior-report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、GPT-Live音声エージェントを地域の利用者に合わせる手法を解説。音声選びとセッション指示を分けて設計し、実際の発話で検証&lt;br&gt;&lt;a href="https://developers.openai.com/blog/prompting-multilingual-voice-agents"&gt;https://developers.openai.com/blog/prompting-multilingual-voice-agents&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google Quantum AI、量子の文脈依存性を最大105量子ビットで実証。古典戦略を上回り、ランダム回路では見逃す誤差も検出&lt;br&gt;&lt;a href="https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/"&gt;https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gemini、他のAIアシスタントから好み設定とチャット履歴を取り込める。ZIPのアップロードで会話を続きから再開できる&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MicrosoftのPyPIパッケージagent-framework 1.26.1と1.26.2が侵害され、認証情報を盗むコードが混入&lt;br&gt;&lt;a href="https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer"&gt;https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、Chromeのauto browse向け合成Web環境「mirror dimension」を構築。攻撃テスト候補は手作業の30倍超&lt;br&gt;&lt;a href="https://blog.google/security/mirror-dimension-for-agents/"&gt;https://blog.google/security/mirror-dimension-for-agents/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、ChatGPTの性能劣化をCodexで調査・修正する「Performance Factory」を構築。3か月余りで1,700件超を調査&lt;br&gt;&lt;a href="https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"&gt;https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月20日 2:56)</title>
       <link>https://morningaiapp.com</link>
@@ -218,21 +235,6 @@
 &lt;p&gt;Vals AIが102モデルの推論を調査、悪態をつく14モデルはすべて2026年7月16日以降の公開で行き詰まり時に集中&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/which-models-swear"&gt;https://www.vals.ai/blogs/which-models-swear&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;GoogleがGeminiアプリをApple CarPlayに対応。iOSユーザーは車内でGemini Liveとハンズフリーで会話できる&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google、生成UI向けオープンプロトコルの初の安定版「A2UI 1.0」を公開。AIエージェントが操作できる画面で応答できる&lt;br&gt;&lt;a href="https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/"&gt;https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月12日 1:50)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261111T165059Z</guid>
-      <pubDate>Wed, 11 Nov 2026 16:50:59 +0000</pubDate>
-      <description>&lt;p&gt;AWSがチリ初のリージョン「AWS South America (Chile)」を一部顧客向けに開設。データを国内に置き規制要件に対応できる&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/aws/aws-south-america-chile-region-launch"&gt;https://www.aboutamazon.com/news/aws/aws-south-america-chile-region-launch&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google Labs、グループで旅行の行程表や割り勘ツールを作れる実験的ツール「Tabletop」を米国でウェイトリスト提供&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"&gt;https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hugging Face、Sentence Transformersでトークンプーリング対応学習を解説。文書ベクトル4分の1で性能保持率97.8%&lt;br&gt;&lt;a href="https://huggingface.co/blog/token-pooling"&gt;https://huggingface.co/blog/token-pooling&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;DeepMind、細胞型ごとにDNA変異の影響を予測するAlphaGenome 2を発表。遺伝子発現を変える変異の検出数は従来モデルの約2倍&lt;br&gt;&lt;a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"&gt;https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sakana AI、元NSA長官のロジャース氏と元CIA支局長のモラン氏がシニアアドバイザーに就任。防衛とサイバーセキュリティの強化を助言&lt;br&gt;&lt;a href="https://sakana.ai/michael-tom/"&gt;https://sakana.ai/michael-tom/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIが退役軍人らに1年間無料で提供するChatGPT Plus、過去1年で20,000人超が取得。求職や面接準備に活用&lt;br&gt;&lt;a href="https://openai.com/index/chatgpt-plus-for-veterans"&gt;https://openai.com/index/chatgpt-plus-for-veterans&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Tether AI Research、端末上で動く0.8BのエージェントモデルBotPsyを発表。1.2B以下で最高のツール利用性能&lt;br&gt;&lt;a href="https://huggingface.co/blog/qvac/botpsy"&gt;https://huggingface.co/blog/qvac/botpsy&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;豪法律事務所Gilbert + TobinのCEO、AI導入はトップが自ら使うことが鍵と語る。ChatGPTのアクティブ利用率は87%&lt;br&gt;&lt;a href="https://openai.com/index/gilbert-tobin-sam-nickless"&gt;https://openai.com/index/gilbert-tobin-sam-nickless&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenRouter、429エラーの対処法を実測で解説。SDK既定の再試行では60件中23件が失敗、limit_sourceで原因を確認&lt;br&gt;&lt;a href="https://openrouter.ai/blog/tutorials/llm-api-rate-limits/"&gt;https://openrouter.ai/blog/tutorials/llm-api-rate-limits/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
