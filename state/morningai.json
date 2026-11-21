@@ -1,5 +1,6 @@
 {
   "seen": [
+    "https://sakana.ai/applied-research-lab/",
     "https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast",
     "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
     "https://institute.deepmind.com/essays/what-comes-after-agi/",
@@ -431,6 +432,19 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261121T163400Z",
+      "title": "Morning AI(2026年11月22日 1:34)",
+      "date": "2026-11-21T16:34:00.856806+00:00",
+      "items": [
+        {
+          "title": "Sakana AIが社内研究組織「Sakana AI Applied Research Lab」を設立。最初は金融・経済のCOFEプログラム",
+          "link": "https://sakana.ai/applied-research-lab/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261121T015822Z",
       "title": "Morning AI(2026年11月21日 10:58)",
@@ -1237,121 +1251,6 @@
         {
           "title": "DeepMind、衛星画像SatWeaveとAI降水データPARDIGを公開。PARDIGはIMERG-Finalを全降水強度で上回る",
           "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261113T014131Z",
-      "title": "Morning AI(2026年11月13日 10:41)",
-      "date": "2026-11-13T01:41:31.237439+00:00",
-      "items": [
-        {
-          "title": "Amplitude、OpenAIモデル主体のエージェント「Wave」でプロダクト改善の出荷を約1か月から1–2日に短縮できると試算",
-          "link": "https://openai.com/business/customer-stories/amplitude",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenRouter、RAGにリランカーを足す手順を解説。274問の検証で正解チャンクの1位率が81%から97%に向上",
-          "link": "https://openrouter.ai/blog/tutorials/reranking-rag/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "GondolaがCodexとChatGPTを導入し、エンジニアを増やさず開発出力25%増。売上は前年比2倍超",
-          "link": "https://openai.com/business/customer-stories/gondola",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "GitHub、汎用シークレット検出をLLMからModernBERT分類器に移行。コスト98%以上減、push protectionにも拡大",
-          "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "NVIDIAのジェンスン・フアンCEOが即時辞任。CFOのコレット・クレスが暫定CEOを兼務",
-          "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google Labs、AIクリエイティブスタジオGoogle Flowでクリエイターが作った映像制作ツール5種を公開。自作ツールの構築も可能",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "a16zのAnne NeubergerがAI時代の国家サイバー防衛計画を提言。数百の重要インフラ事業者を優先し6か月以内の封じ込めを求めた",
-          "link": "https://a16z.com/super-intelligence-era-critical-infrastructure-cyber-defense-plan/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Amplitude、OpenAIモデル主体のプロダクトエージェントWaveで改善の出荷を約1か月から1〜2日に短縮できる見込み",
-          "link": "https://openai.com/index/amplitude",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、Gemini 4 ArgonにGoのアセンブリをZ3の制約へ翻訳させて境界バグを検出。skill-lintで潜在バグ3件を発見",
-          "link": "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "マークアップ言語LLMONに対応したGranite 4.1 3B/8B実験版が公開。命令とデータの分離で間接プロンプトインジェクションを抑止",
-          "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "BoxがGemini 4 Hydrogenを自社ベンチマークで評価。スコア79%でGemini 3.8 Flashを上回り処理時間は半分以下",
-          "link": "https://blog.box.com/gemini-4-hydrogen-brings-accuracy-and-speed-data-heavy-enterprise-work",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、社内で数百体のOpenClaw永続エージェントを運用するセキュリティ対策を解説。サンドボックスとAuto-reviewを併用",
-          "link": "https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、高速モデルGemini 4 Hydrogenを全ユーザーに提供開始。上位のArgon並みの知能で入力100万トークン$1.50",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、日常のコーディングとエージェント型ワークフロー向けの高速モデルGemini 4 Hydrogenを開発者向けに提供開始",
-          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "GoogleがGoogle検索にGemini 4 Hydrogenを全世界の全ユーザー向けに導入。検索史上最大のモデルアップグレード",
-          "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google DeepMind、高速モデルGemini 4 Hydrogenを全ユーザーに提供開始。上位のArgonを指標で上回る",
-          "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、Gemini in Chrome の使い方を紹介。ツールバーからサイドパネルを開き、別タブなしで要約や製品比較ができる",
-          "link": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "J.Crewが、Claude Codeで構築したAIスタイリスト「Style Advisor」を公開。コーディネート一式で買い物できる",
-          "link": "https://claude.com/resources/articles/j-crew-style-advisor-with-claude",
           "label": null,
           "extra": []
         }

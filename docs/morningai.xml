@@ -6,7 +6,14 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 21 Nov 2026 01:58:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 16:34:00 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月22日 1:34)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261121T163400Z</guid>
+      <pubDate>Sat, 21 Nov 2026 16:34:00 +0000</pubDate>
+      <description>&lt;p&gt;Sakana AIが社内研究組織「Sakana AI Applied Research Lab」を設立。最初は金融・経済のCOFEプログラム&lt;br&gt;&lt;a href="https://sakana.ai/applied-research-lab/"&gt;https://sakana.ai/applied-research-lab/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月21日 10:58)</title>
       <link>https://morningaiapp.com</link>
@@ -204,30 +211,6 @@
 &lt;p&gt;Hugging Face、llama.cppとggmlのライブラリv1.0.0を公開。API・ABIの非互換はメジャーバージョン更新で明示&lt;br&gt;&lt;a href="https://huggingface.co/blog/ggml-org/llama-cpp-v1"&gt;https://huggingface.co/blog/ggml-org/llama-cpp-v1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;a16z、フロンティアモデルの進化が創薬の「Eroomの法則」に対抗すると分析。AIで自社医薬品を開発する垂直統合型企業に最も期待&lt;br&gt;&lt;a href="https://a16z.com/big-pharma-can-rival-big-software/"&gt;https://a16z.com/big-pharma-can-rival-big-software/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;DeepMind、衛星画像SatWeaveとAI降水データPARDIGを公開。PARDIGはIMERG-Finalを全降水強度で上回る&lt;br&gt;&lt;a href="https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/"&gt;https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月13日 10:41)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261113T014131Z</guid>
-      <pubDate>Fri, 13 Nov 2026 01:41:31 +0000</pubDate>
-      <description>&lt;p&gt;Amplitude、OpenAIモデル主体のエージェント「Wave」でプロダクト改善の出荷を約1か月から1–2日に短縮できると試算&lt;br&gt;&lt;a href="https://openai.com/business/customer-stories/amplitude"&gt;https://openai.com/business/customer-stories/amplitude&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenRouter、RAGにリランカーを足す手順を解説。274問の検証で正解チャンクの1位率が81%から97%に向上&lt;br&gt;&lt;a href="https://openrouter.ai/blog/tutorials/reranking-rag/"&gt;https://openrouter.ai/blog/tutorials/reranking-rag/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;GondolaがCodexとChatGPTを導入し、エンジニアを増やさず開発出力25%増。売上は前年比2倍超&lt;br&gt;&lt;a href="https://openai.com/business/customer-stories/gondola"&gt;https://openai.com/business/customer-stories/gondola&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;GitHub、汎用シークレット検出をLLMからModernBERT分類器に移行。コスト98%以上減、push protectionにも拡大&lt;br&gt;&lt;a href="https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/"&gt;https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIAのジェンスン・フアンCEOが即時辞任。CFOのコレット・クレスが暫定CEOを兼務&lt;br&gt;&lt;a href="https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"&gt;https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google Labs、AIクリエイティブスタジオGoogle Flowでクリエイターが作った映像制作ツール5種を公開。自作ツールの構築も可能&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/"&gt;https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;a16zのAnne NeubergerがAI時代の国家サイバー防衛計画を提言。数百の重要インフラ事業者を優先し6か月以内の封じ込めを求めた&lt;br&gt;&lt;a href="https://a16z.com/super-intelligence-era-critical-infrastructure-cyber-defense-plan/"&gt;https://a16z.com/super-intelligence-era-critical-infrastructure-cyber-defense-plan/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Amplitude、OpenAIモデル主体のプロダクトエージェントWaveで改善の出荷を約1か月から1〜2日に短縮できる見込み&lt;br&gt;&lt;a href="https://openai.com/index/amplitude"&gt;https://openai.com/index/amplitude&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、Gemini 4 ArgonにGoのアセンブリをZ3の制約へ翻訳させて境界バグを検出。skill-lintで潜在バグ3件を発見&lt;br&gt;&lt;a href="https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/"&gt;https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;マークアップ言語LLMONに対応したGranite 4.1 3B/8B実験版が公開。命令とデータの分離で間接プロンプトインジェクションを抑止&lt;br&gt;&lt;a href="https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"&gt;https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;BoxがGemini 4 Hydrogenを自社ベンチマークで評価。スコア79%でGemini 3.8 Flashを上回り処理時間は半分以下&lt;br&gt;&lt;a href="https://blog.box.com/gemini-4-hydrogen-brings-accuracy-and-speed-data-heavy-enterprise-work"&gt;https://blog.box.com/gemini-4-hydrogen-brings-accuracy-and-speed-data-heavy-enterprise-work&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、社内で数百体のOpenClaw永続エージェントを運用するセキュリティ対策を解説。サンドボックスとAuto-reviewを併用&lt;br&gt;&lt;a href="https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai"&gt;https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、高速モデルGemini 4 Hydrogenを全ユーザーに提供開始。上位のArgon並みの知能で入力100万トークン$1.50&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"&gt;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、日常のコーディングとエージェント型ワークフロー向けの高速モデルGemini 4 Hydrogenを開発者向けに提供開始&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/"&gt;https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;GoogleがGoogle検索にGemini 4 Hydrogenを全世界の全ユーザー向けに導入。検索史上最大のモデルアップグレード&lt;br&gt;&lt;a href="https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"&gt;https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google DeepMind、高速モデルGemini 4 Hydrogenを全ユーザーに提供開始。上位のArgonを指標で上回る&lt;br&gt;&lt;a href="https://deepmind.google/blog/introducing-gemini-4-hydrogen/"&gt;https://deepmind.google/blog/introducing-gemini-4-hydrogen/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、Gemini in Chrome の使い方を紹介。ツールバーからサイドパネルを開き、別タブなしで要約や製品比較ができる&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;J.Crewが、Claude Codeで構築したAIスタイリスト「Style Advisor」を公開。コーディネート一式で買い物できる&lt;br&gt;&lt;a href="https://claude.com/resources/articles/j-crew-style-advisor-with-claude"&gt;https://claude.com/resources/articles/j-crew-style-advisor-with-claude&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
