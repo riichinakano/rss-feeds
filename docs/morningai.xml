@@ -6,7 +6,26 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 20 Nov 2026 17:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 01:58:22 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月21日 10:58)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261121T015822Z</guid>
+      <pubDate>Sat, 21 Nov 2026 01:58:22 +0000</pubDate>
+      <description>&lt;p&gt;OpenAI、CodexのUltrafastの使いどころを解説。完成形が未定の作業で小刻みな試行に向き、ツール待ちが長い作業では効果が限定的&lt;br&gt;&lt;a href="https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast"&gt;https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、約10年かけて Gemini で統一した Duplex を Tasks in Gemini に搭載。店舗への電話を代行できる&lt;br&gt;&lt;a href="https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/"&gt;https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DeepMind の研究者がAGIから超知能ASIへの4つの経路を整理し、進展をモデル化・計測・予測する体制づくりを提言した&lt;br&gt;&lt;a href="https://institute.deepmind.com/essays/what-comes-after-agi/"&gt;https://institute.deepmind.com/essays/what-comes-after-agi/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、米国で検索とGeminiアプリのConnected Appsを拡充。AlbertsonsやTargetで食料品の注文から決済までできる&lt;br&gt;&lt;a href="https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/"&gt;https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thinking MachinesのInkling 2 Mini、Intelligence Index 20でQwen3.8 27B並み。アクティブパラメータは約5分の1&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/inkling-2-mini"&gt;https://artificialanalysis.ai/articles/inkling-2-mini&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thinking Machines Lab、ローカル向けループ型MoE「Inkling 2 Mini」を公開。アクティブ3Bで同クラス最高性能&lt;br&gt;&lt;a href="https://huggingface.co/blog/inkling2mini"&gt;https://huggingface.co/blog/inkling2mini&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hebbiaが金融リサーチでGPT‑6 Astraを試験。出典の引用と資料作成の両方で首位、資料要件の97.9%を満たした&lt;br&gt;&lt;a href="https://openai.com/business/customer-stories/hebbia"&gt;https://openai.com/business/customer-stories/hebbia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thinking Machines Lab、ループ型「Inkling 2 Mini」をオープンウェイト公開。100B未満で首位、ノートPCで動作&lt;br&gt;&lt;a href="https://thinkingmachines.ai/news/inkling-2-mini/"&gt;https://thinkingmachines.ai/news/inkling-2-mini/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google の Agent Anomaly Detection、AWS Lambda や Microsoft Foundry など Google Cloud 外のエージェントも監視できる&lt;br&gt;&lt;a href="https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/"&gt;https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、創薬化学の推論ベンチマーク「MedChemBench」を公開。GPT‑6 Astraも化合物選択と物性予測は得点約半分&lt;br&gt;&lt;a href="https://openai.com/index/introducing-medchembench"&gt;https://openai.com/index/introducing-medchembench&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、敵対的蒸留への対策を公表。GPT‑6.2 Astraで推論抽出攻撃の成功率を54.0%から0.2%に低減&lt;br&gt;&lt;a href="https://openai.com/index/combatting-adversarial-distillation"&gt;https://openai.com/index/combatting-adversarial-distillation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vals AI、AIモデルの不正や報酬ハッキングの事例を追跡する「Vals Misalignment Incidents」を公開&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/misalignment-incidents"&gt;https://www.vals.ai/blogs/misalignment-incidents&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、Agents APIのtime awarenessと非同期function toolで期限内に結果を届けるエージェントの作り方&lt;br&gt;&lt;a href="https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents"&gt;https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月21日 2:28)</title>
       <link>https://morningaiapp.com</link>
@@ -209,22 +228,6 @@
 &lt;p&gt;Google DeepMind、高速モデルGemini 4 Hydrogenを全ユーザーに提供開始。上位のArgonを指標で上回る&lt;br&gt;&lt;a href="https://deepmind.google/blog/introducing-gemini-4-hydrogen/"&gt;https://deepmind.google/blog/introducing-gemini-4-hydrogen/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google、Gemini in Chrome の使い方を紹介。ツールバーからサイドパネルを開き、別タブなしで要約や製品比較ができる&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;J.Crewが、Claude Codeで構築したAIスタイリスト「Style Advisor」を公開。コーディネート一式で買い物できる&lt;br&gt;&lt;a href="https://claude.com/resources/articles/j-crew-style-advisor-with-claude"&gt;https://claude.com/resources/articles/j-crew-style-advisor-with-claude&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月13日 2:18)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261112T171842Z</guid>
-      <pubDate>Thu, 12 Nov 2026 17:18:42 +0000</pubDate>
-      <description>&lt;p&gt;Anthropic、スタートアップ8社の事例からSlackのClaude Tagを最初に入れるべき5用途をまとめた導入ガイドを公開&lt;br&gt;&lt;a href="https://claude.com/resources/articles/claude-tag-guide-for-startups"&gt;https://claude.com/resources/articles/claude-tag-guide-for-startups&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;a16z、AIはインディー開発者・ツール職人・世界構築スタジオというゲーム業界の3つの典型像をすべて後押しすると主張&lt;br&gt;&lt;a href="https://a16z.com/gamings-next-origin-stories/"&gt;https://a16z.com/gamings-next-origin-stories/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Box依頼のHarris Poll調査、AIを使う米国従業員の61%が任せる作業の拡大を望まず。57%は選択肢の多さで利用意欲が低下&lt;br&gt;&lt;a href="https://blog.box.com/knowledge-workers-want-better-ai-less-complexity"&gt;https://blog.box.com/knowledge-workers-want-better-ai-less-complexity&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hugging Face、TRELLIS.2の形状系DiTのみLoRAで微調整する手順を公開。靴のF-scoreが0.276から0.803に向上&lt;br&gt;&lt;a href="https://huggingface.co/blog/3d-lora-finetuning"&gt;https://huggingface.co/blog/3d-lora-finetuning&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;CodeRabbitの年間経常収益が1年余りで1,000万ドルから1億ドルに成長、顧客は2万社超&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/coderabbit-100-million-arr"&gt;https://www.coderabbit.ai/ja/blog/coderabbit-100-million-arr&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claude の interactive connectors が拡張、ツールを会話の横や全画面で開き Claude が直接変更できる&lt;br&gt;&lt;a href="https://claude.com/resources/articles/interactive-connectors-full-tool"&gt;https://claude.com/resources/articles/interactive-connectors-full-tool&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Dify、Gartner初のAIエージェント管理Magic QuadrantでNiche Playerに選出。構築・統制・運用を一体で支える&lt;br&gt;&lt;a href="https://dify.ai/blog/dify-recgonized-gartner-magic-quadrant-ai-agent-management-platform?utm_source=website&amp;amp;utm_medium=launch_blog&amp;amp;utm_campaign=gartner_2026&amp;amp;utm_content=homepage_banner"&gt;https://dify.ai/blog/dify-recgonized-gartner-magic-quadrant-ai-agent-management-platform?utm_source=website&amp;amp;utm_medium=launch_blog&amp;amp;utm_campaign=gartner_2026&amp;amp;utm_content=homepage_banner&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIがパリ平和フォーラムで子ども向けAIの安全憲章に署名。AIが子どもに与える影響の研究に200万ドルを拠出&lt;br&gt;&lt;a href="https://openai.com/index/children-first-declaration"&gt;https://openai.com/index/children-first-declaration&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;旅行予約のHoliday Extras、Codexでメインアプリを2週間で作り直し予約転換率が32.5%向上&lt;br&gt;&lt;a href="https://openai.com/business/customer-stories/holidays-extras-codex"&gt;https://openai.com/business/customer-stories/holidays-extras-codex&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;DifyがGartner初のAIエージェント管理Magic QuadrantでNiche Playerに選出。構築から統制・運用まで一体で支える方針&lt;br&gt;&lt;a href="https://dify.ai/blog/dify-recgonized-gartner-magic-quadrant-ai-agent-management-platform"&gt;https://dify.ai/blog/dify-recgonized-gartner-magic-quadrant-ai-agent-management-platform&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
