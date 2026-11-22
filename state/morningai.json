@@ -1,5 +1,6 @@
 {
   "seen": [
+    "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
     "https://sakana.ai/applied-research-lab/",
     "https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast",
     "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
@@ -432,6 +433,19 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261122T165114Z",
+      "title": "Morning AI(2026年11月23日 1:51)",
+      "date": "2026-11-22T16:51:14.992703+00:00",
+      "items": [
+        {
+          "title": "OpenRouter、推論プロバイダーのデータ侵害・ポリシー違反を受け3社を除外。125エンドポイントをZDR対象から外した",
+          "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261121T163400Z",
       "title": "Morning AI(2026年11月22日 1:34)",
@@ -1214,43 +1228,6 @@
         {
           "title": "Google、GeminiのPersonal IntelligenceにGoogle Wallet連携を追加。米国の全ユーザーが支出データに基づく家計相談を利用できる",
           "link": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261113T165408Z",
-      "title": "Morning AI(2026年11月14日 1:54)",
-      "date": "2026-11-13T16:54:08.133189+00:00",
-      "items": [
-        {
-          "title": "CodeRabbit SecureのDeep Scan、OSSで1,200件超の脆弱性を発見。初回スキャンを最大1,000ドル分無料で提供",
-          "link": "https://www.coderabbit.ai/ja/blog/coderabbit-secure-deep-scan-open-source",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAIが「ChatGPT Wallet」を発表。エージェントが実際のカード情報を使わず、購入ごとのセキュリティチェックを経て支払える",
-          "link": "https://openai.com/index/introducing-chatgpt-wallet",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Hugging Face、llama.cppとggmlのライブラリv1.0.0を公開。API・ABIの非互換はメジャーバージョン更新で明示",
-          "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "a16z、フロンティアモデルの進化が創薬の「Eroomの法則」に対抗すると分析。AIで自社医薬品を開発する垂直統合型企業に最も期待",
-          "link": "https://a16z.com/big-pharma-can-rival-big-software/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "DeepMind、衛星画像SatWeaveとAI降水データPARDIGを公開。PARDIGはIMERG-Finalを全降水強度で上回る",
-          "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
           "label": null,
           "extra": []
         }
