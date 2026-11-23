@@ -6,7 +6,15 @@
     <description>アートアジェンダ 展覧会 の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/artagenda.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 20 Nov 2026 17:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 20:51:29 +0000</lastBuildDate>
+    <item>
+      <title>アートアジェンダ 展覧会(2026年11月24日 5:51)</title>
+      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
+      <guid isPermaLink="false">artagenda-20261123T205129Z</guid>
+      <pubDate>Mon, 23 Nov 2026 20:51:29 +0000</pubDate>
+      <description>&lt;p&gt;[12/15〜2027/3/28] 「Digital×北斎 with チャールズ・ラング・フリーア寄贈コレクション」展&lt;br&gt;NTTインターコミュニケーション・センター［ICC］｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/7589"&gt;https://www.artagenda.jp/exhibition/detail/7589&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2027/1/8〜2027/2/25] 髙橋伸行 つむじとへそのお 隔離の海を突き抜けて&lt;br&gt;清須市はるひ美術館｜愛知県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12985"&gt;https://www.artagenda.jp/exhibition/detail/12985&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>アートアジェンダ 展覧会(2026年11月21日 2:30)</title>
       <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
@@ -132,14 +140,6 @@
       <pubDate>Tue, 10 Nov 2026 16:46:45 +0000</pubDate>
       <description>&lt;p&gt;[12/1〜2027/3/22] 開館50周年記念プレ企画 コレクション2：歴史化する現代&lt;br&gt;国立国際美術館｜大阪府&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12965"&gt;https://www.artagenda.jp/exhibition/detail/12965&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[2027/1/16〜2027/3/14] 特別展 現代美術における墨表現 －墨と和紙の世界：町田久美・浅見貴子・新恵美佐子・荒井…&lt;br&gt;奈良県立美術館｜奈良県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12914"&gt;https://www.artagenda.jp/exhibition/detail/12914&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>アートアジェンダ 展覧会(2026年11月10日 4:28)</title>
-      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
-      <guid isPermaLink="false">artagenda-20261109T192830Z</guid>
-      <pubDate>Mon, 09 Nov 2026 19:28:30 +0000</pubDate>
-      <description>&lt;p&gt;[12/2〜12/25] 第73回日本伝統工芸展&lt;br&gt;島根県立美術館｜島根県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12967"&gt;https://www.artagenda.jp/exhibition/detail/12967&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2027/3/6〜2027/5/16] 世界遺産の歩き方展&lt;br&gt;寺田倉庫G1ビル｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12964"&gt;https://www.artagenda.jp/exhibition/detail/12964&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

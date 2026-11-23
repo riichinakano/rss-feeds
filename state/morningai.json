@@ -1,5 +1,22 @@
 {
   "seen": [
+    "https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security",
+    "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
+    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
+    "https://claude.com/resources/articles/linked-billing-on-claude-platform",
+    "https://www.aboutamazon.com/new/aws/what-is-physical-ai-aws-trainium-robots",
+    "https://www.aboutamazon.com/news/aws/aws-ceo-ai-safety-engineering",
+    "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "https://huggingface.co/blog/allenai/robotrack",
+    "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "https://a16z.com/announcement/investing-in-embo/",
+    "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/",
+    "https://a16z.com/welcome-to-the-b2a-economy-how-agents-buy/",
+    "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization",
+    "https://huggingface.co/blog/agentic-evals",
+    "https://www.coderabbit.ai/ja/blog/how-i-learned-to-stop-worrying-and-trust-agentic-code",
     "https://openai.com/index/perplexity-and-intelligence",
     "https://www.coderabbit.ai/ja/blog/fable-5-2-vs-gpt-6-2-astra-sol",
     "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
@@ -435,6 +452,115 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261123T204925Z",
+      "title": "Morning AI(2026年11月24日 5:49)",
+      "date": "2026-11-23T20:49:25.291805+00:00",
+      "items": [
+        {
+          "title": "OpenAI、脅威モデルとSECURITY.mdを使うCodex Securityのエージェント型セキュリティレビュー運用法を解説",
+          "link": "https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、社内法務チーム向けAI活用ウェビナーを公開。ビジネス文脈の連携や再利用できるワークフロー、外部弁護士の活用を議論",
+          "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic、ゼロデータ保持と両立する不正利用検知「Enterprise Frontier Safeguards」を100社超の顧客と開発",
+          "link": "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Gemini Canvasの4つの使い方を紹介。Webアプリやミニゲームの作成、PDFからのクイズ作成などに使える",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Claude Platformがlinked billingをベータ公開。APIキーを共有せずClaude API利用料を顧客に直接請求",
+          "link": "https://claude.com/resources/articles/linked-billing-on-claude-platform",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Runway、ロボット向けモデルPraxis-1をTrainium3で高速化。次の動作までの待ち時間を104ミリ秒に短縮",
+          "link": "https://www.aboutamazon.com/new/aws/what-is-physical-ai-aws-trainium-robots",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "AWS、AIの安全性はモデルへの信頼でなく封じ込めや独立した監視などの設計で確保すべきと主張。FirecrackerとNitroを例示",
+          "link": "https://www.aboutamazon.com/news/aws/aws-ceo-ai-safety-engineering",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google Research、Transformerの残差接続を一般化するDeepCrossAttentionを発表。同品質に最大3倍速く到達",
+          "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Ai2、ロボット操作向け点追跡ベンチマークRoboTrack-Benchと追跡モデルを公開。主要トラッカーは軒並みスコア低下",
+          "link": "https://huggingface.co/blog/allenai/robotrack",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、検索のAI ModeにGoogle Walletを接続可能に。DriveとGeminiアプリも今後数週間で対応",
+          "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google DeepMind、Gemini 4エージェントとLean形式検証で量子回路を改良。核融合計算コストを11.8分の1に削減",
+          "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16z、Danijar Hafner率いるEmboの資金調達をリード。インターネット動画で学ぶ世界モデルでロボットの頭脳を開発",
+          "link": "https://a16z.com/announcement/investing-in-embo/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Semantic governance policiesでAgentDojoの攻撃成功率を48.7%から0.9%に低減",
+          "link": "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "a16z、4つのAIエージェントで11,307回の購買テストを実施。総コストや返品条件、エージェントが読めるサイトが選ばれる鍵と分析",
+          "link": "https://a16z.com/welcome-to-the-b2a-economy-how-agents-buy/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "AmazonがDecartの推論最適化技術DOSを買い取り、共同創業者3人とチームを迎え入れる契約を締結",
+          "link": "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Hugging Face、エージェント評価の作り方と公開範囲の決め方を解説。raman-labを例に採点器を壊して確かめる手順を示した",
+          "link": "https://huggingface.co/blog/agentic-evals",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "CodeRabbit、LeadDev調査で47%のチームがエージェントに自己レビューさせる中、レビュー専用のハーネスが必要と主張",
+          "link": "https://www.coderabbit.ai/ja/blog/how-i-learned-to-stop-worrying-and-trust-agentic-code",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261123T012419Z",
       "title": "Morning AI(2026年11月23日 10:24)",
@@ -1169,25 +1295,6 @@
         {
           "title": "Dify、AIエージェント管理プラットフォームの5つの中核領域と選定法を解説。チェック数より必須要件を実証で確かめるよう提言",
           "link": "https://dify.ai/blog/ai-agent-management-platform",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261116T004608Z",
-      "title": "Morning AI(2026年11月16日 9:46)",
-      "date": "2026-11-16T00:46:08.836583+00:00",
-      "items": [
-        {
-          "title": "OpenAIが「OpenAI science blog」を開設。AIを使った研究成果や手法、その検証方法と限界、研究者の視点を発信",
-          "link": "https://openai.com/index/our-new-blog-for-science",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "物理学者Nathaniel CraigとGPT‑6 Astra、50年以上未解決だった標準模型の非摂動的な格子定義の候補を提案",
-          "link": "https://openai.com/index/step-toward-defining-the-standard-model",
           "label": null,
           "extra": []
         }

@@ -6,7 +6,30 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Nov 2026 01:24:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 20:49:25 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月24日 5:49)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261123T204925Z</guid>
+      <pubDate>Mon, 23 Nov 2026 20:49:25 +0000</pubDate>
+      <description>&lt;p&gt;OpenAI、脅威モデルとSECURITY.mdを使うCodex Securityのエージェント型セキュリティレビュー運用法を解説&lt;br&gt;&lt;a href="https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security"&gt;https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、社内法務チーム向けAI活用ウェビナーを公開。ビジネス文脈の連携や再利用できるワークフロー、外部弁護士の活用を議論&lt;br&gt;&lt;a href="https://openai.com/business/learn/connected-intelligence-for-in-house-legal"&gt;https://openai.com/business/learn/connected-intelligence-for-in-house-legal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic、ゼロデータ保持と両立する不正利用検知「Enterprise Frontier Safeguards」を100社超の顧客と開発&lt;br&gt;&lt;a href="https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards"&gt;https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、Gemini Canvasの4つの使い方を紹介。Webアプリやミニゲームの作成、PDFからのクイズ作成などに使える&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude Platformがlinked billingをベータ公開。APIキーを共有せずClaude API利用料を顧客に直接請求&lt;br&gt;&lt;a href="https://claude.com/resources/articles/linked-billing-on-claude-platform"&gt;https://claude.com/resources/articles/linked-billing-on-claude-platform&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Runway、ロボット向けモデルPraxis-1をTrainium3で高速化。次の動作までの待ち時間を104ミリ秒に短縮&lt;br&gt;&lt;a href="https://www.aboutamazon.com/new/aws/what-is-physical-ai-aws-trainium-robots"&gt;https://www.aboutamazon.com/new/aws/what-is-physical-ai-aws-trainium-robots&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AWS、AIの安全性はモデルへの信頼でなく封じ込めや独立した監視などの設計で確保すべきと主張。FirecrackerとNitroを例示&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/aws/aws-ceo-ai-safety-engineering"&gt;https://www.aboutamazon.com/news/aws/aws-ceo-ai-safety-engineering&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google Research、Transformerの残差接続を一般化するDeepCrossAttentionを発表。同品質に最大3倍速く到達&lt;br&gt;&lt;a href="https://research.google/blog/supercharging-transformer-residual-connections/"&gt;https://research.google/blog/supercharging-transformer-residual-connections/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ai2、ロボット操作向け点追跡ベンチマークRoboTrack-Benchと追跡モデルを公開。主要トラッカーは軒並みスコア低下&lt;br&gt;&lt;a href="https://huggingface.co/blog/allenai/robotrack"&gt;https://huggingface.co/blog/allenai/robotrack&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、検索のAI ModeにGoogle Walletを接続可能に。DriveとGeminiアプリも今後数週間で対応&lt;br&gt;&lt;a href="https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"&gt;https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google DeepMind、Gemini 4エージェントとLean形式検証で量子回路を改良。核融合計算コストを11.8分の1に削減&lt;br&gt;&lt;a href="https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"&gt;https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16z、Danijar Hafner率いるEmboの資金調達をリード。インターネット動画で学ぶ世界モデルでロボットの頭脳を開発&lt;br&gt;&lt;a href="https://a16z.com/announcement/investing-in-embo/"&gt;https://a16z.com/announcement/investing-in-embo/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、Semantic governance policiesでAgentDojoの攻撃成功率を48.7%から0.9%に低減&lt;br&gt;&lt;a href="https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/"&gt;https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a16z、4つのAIエージェントで11,307回の購買テストを実施。総コストや返品条件、エージェントが読めるサイトが選ばれる鍵と分析&lt;br&gt;&lt;a href="https://a16z.com/welcome-to-the-b2a-economy-how-agents-buy/"&gt;https://a16z.com/welcome-to-the-b2a-economy-how-agents-buy/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AmazonがDecartの推論最適化技術DOSを買い取り、共同創業者3人とチームを迎え入れる契約を締結&lt;br&gt;&lt;a href="https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization"&gt;https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、エージェント評価の作り方と公開範囲の決め方を解説。raman-labを例に採点器を壊して確かめる手順を示した&lt;br&gt;&lt;a href="https://huggingface.co/blog/agentic-evals"&gt;https://huggingface.co/blog/agentic-evals&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CodeRabbit、LeadDev調査で47%のチームがエージェントに自己レビューさせる中、レビュー専用のハーネスが必要と主張&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/how-i-learned-to-stop-worrying-and-trust-agentic-code"&gt;https://www.coderabbit.ai/ja/blog/how-i-learned-to-stop-worrying-and-trust-agentic-code&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月23日 10:24)</title>
       <link>https://morningaiapp.com</link>
@@ -192,14 +215,6 @@
 &lt;p&gt;LVMHのメディア部門がOpenAIと戦略的提携。ChatGPT Enterpriseを導入し、ChatGPTで記事を出典リンク付きで提供&lt;br&gt;&lt;a href="https://openai.com/index/lvmh-media-division-partnership"&gt;https://openai.com/index/lvmh-media-division-partnership&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sakana AI、6つの金融資格試験から日本語金融ベンチマーク「JFinBench」を構築。最良のオープンウェイトモデルも12ポイント差&lt;br&gt;&lt;a href="https://sakana.ai/jfinbench/"&gt;https://sakana.ai/jfinbench/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Dify、AIエージェント管理プラットフォームの5つの中核領域と選定法を解説。チェック数より必須要件を実証で確かめるよう提言&lt;br&gt;&lt;a href="https://dify.ai/blog/ai-agent-management-platform"&gt;https://dify.ai/blog/ai-agent-management-platform&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月16日 9:46)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261116T004608Z</guid>
-      <pubDate>Mon, 16 Nov 2026 00:46:08 +0000</pubDate>
-      <description>&lt;p&gt;OpenAIが「OpenAI science blog」を開設。AIを使った研究成果や手法、その検証方法と限界、研究者の視点を発信&lt;br&gt;&lt;a href="https://openai.com/index/our-new-blog-for-science"&gt;https://openai.com/index/our-new-blog-for-science&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;物理学者Nathaniel CraigとGPT‑6 Astra、50年以上未解決だった標準模型の非摂動的な格子定義の候補を提案&lt;br&gt;&lt;a href="https://openai.com/index/step-toward-defining-the-standard-model"&gt;https://openai.com/index/step-toward-defining-the-standard-model&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
