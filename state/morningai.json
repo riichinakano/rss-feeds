@@ -1,5 +1,7 @@
 {
   "seen": [
+    "https://openai.com/index/perplexity-and-intelligence",
+    "https://www.coderabbit.ai/ja/blog/fable-5-2-vs-gpt-6-2-astra-sol",
     "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
     "https://sakana.ai/applied-research-lab/",
     "https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast",
@@ -433,6 +435,25 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261123T012419Z",
+      "title": "Morning AI(2026年11月23日 10:24)",
+      "date": "2026-11-23T01:24:19.230384+00:00",
+      "items": [
+        {
+          "title": "OpenAIのJakub Pachocki氏、パープレキシティを業界共通の指標とし安全のための開発上限を設けるよう提案。社内測定値も公開",
+          "link": "https://openai.com/index/perplexity-and-intelligence",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "CodeRabbitがFable 5.2とGPT-6.2 Astra・Solをコードレビューで比較。検出最多はFable、nitpick最少は低推論のSol",
+          "link": "https://www.coderabbit.ai/ja/blog/fable-5-2-vs-gpt-6-2-astra-sol",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261122T165114Z",
       "title": "Morning AI(2026年11月23日 1:51)",
@@ -1167,67 +1188,6 @@
         {
           "title": "物理学者Nathaniel CraigとGPT‑6 Astra、50年以上未解決だった標準模型の非摂動的な格子定義の候補を提案",
           "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261114T011736Z",
-      "title": "Morning AI(2026年11月14日 10:17)",
-      "date": "2026-11-14T01:17:36.919295+00:00",
-      "items": [
-        {
-          "title": "Shield、GPT‑6 AstraでAPIのない古いポータル作業をエージェントに任せる。従来モデルより平均35-40%高速",
-          "link": "https://openai.com/business/customer-stories/shield",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Defense Factory、AIエージェントが脆弱性を調査して修正パッチを用意。エンジニアはCodexで調整しマージ前にレビューできる",
-          "link": "https://openai.com/daybreak/defense-factory/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google Researchが/teamworkとGemini 4で数学や化学の未解決問題に成果。Antigravityで外部研究者にも提供",
-          "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "CloudflareがAIエージェント向けブラウザKitesurfをApache 2.0でオープンソース化。自分のアカウントにデプロイできる",
-          "link": "https://blog.cloudflare.com/kitesurf-open-source/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Claude Managed Agents、セルフホスト版をプライベートベータで提供開始。サービス全体を自社クラウドやオンプレミスで運用できる",
-          "link": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Anthropic、AI安全性評価の作り方を提言。測る構成概念の事前定義やグレーダーの人間判断での検証、不確実性の報告を重視",
-          "link": "https://www.anthropic.com/research/building-strong-safety-evaluations",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Hugging Face、SimReady CentralのアセットとAIエージェントでIsaac Simに缶のピック＆プレースを構築する手順",
-          "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Hugging Face、誤った前提の質問への対応を測る「XYBench」を公開。5モデルとも誤解の指摘で人間を下回った",
-          "link": "https://huggingface.co/blog/allenai/xybench",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、GeminiのPersonal IntelligenceにGoogle Wallet連携を追加。米国の全ユーザーが支出データに基づく家計相談を利用できる",
-          "link": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
           "label": null,
           "extra": []
         }
