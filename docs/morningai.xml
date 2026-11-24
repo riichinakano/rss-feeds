@@ -6,7 +6,19 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Nov 2026 20:49:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:08:20 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月24日 14:08)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261124T050820Z</guid>
+      <pubDate>Tue, 24 Nov 2026 05:08:20 +0000</pubDate>
+      <description>&lt;p&gt;OpenAIとCisco、稼働中のLinuxをパッチ適用や再起動を待たずにeBPFで守るオープンソースのランタイム「Shirudo」を公開&lt;br&gt;&lt;a href="https://openai.com/index/introducing-shirudo"&gt;https://openai.com/index/introducing-shirudo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Richpanel、AIサポートエージェントの導入準備をOpenAIのモデルで自動化。30日以内に自動化率50%を保証&lt;br&gt;&lt;a href="https://openai.com/business/customer-stories/richpanel-ai-customer-support"&gt;https://openai.com/business/customer-stories/richpanel-ai-customer-support&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Z.aiがLoop Transformerを初採用したGLM-5.4を公開。750B規模で2T〜3Tパラメータ級の知能に到達&lt;br&gt;&lt;a href="https://z.ai/blog/glm-5.4"&gt;https://z.ai/blog/glm-5.4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NVIDIA取締役会、ジェンセン・フアン氏を社長兼CEOに即日復帰させた。全会一致で決め、国家安全保障上のリスクはないと判断&lt;br&gt;&lt;a href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"&gt;https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic、企業顧客58社への聞き取りで、AIの価値が最も高いのは役割の拡大や配置転換で組織を作り直した企業と分析&lt;br&gt;&lt;a href="https://www.anthropic.com/research/working-with-ai"&gt;https://www.anthropic.com/research/working-with-ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、Gemini 4 Hydrogenで作られた6作品を紹介。3Dの街並みや鯉の池、Carbonと組み合わせた例も&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/"&gt;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月24日 5:49)</title>
       <link>https://morningaiapp.com</link>
@@ -192,29 +204,6 @@
 &lt;p&gt;Vals AI、10代を診るセラピスト10人への聞き取りで、10代がAIに薬の自己調整や虐待かどうかの判断まで相談する実態を報告&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/teens-ai-therapists"&gt;https://www.vals.ai/blogs/teens-ai-therapists&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Claude Code チーム、コードの約90%を Claude が書く中での検証ループの作り方を解説。E2E・プロパティ・差分テストを推奨&lt;br&gt;&lt;a href="https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"&gt;https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;GoogleがGeminiアプリ（Android/iOS）で地域の話し方に合わせた音声66種を提供開始、Gemini Liveや回答の読み上げでも使える&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月17日 4:11)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261116T191151Z</guid>
-      <pubDate>Mon, 16 Nov 2026 19:11:51 +0000</pubDate>
-      <description>&lt;p&gt;OpenAI、外部の評価機関4社に内部モデルへの深いアクセスを与えて安全性を独立評価する「組み込み型評価」を開始&lt;br&gt;&lt;a href="https://openai.com/index/our-first-phase-of-embedded-assessments"&gt;https://openai.com/index/our-first-phase-of-embedded-assessments&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIが科学者のChatGPT利用を調査。AIなしでは同じ作業に1.9倍の時間がかかり、98%が発見の加速を予想&lt;br&gt;&lt;a href="https://openai.com/index/science-at-the-frontier"&gt;https://openai.com/index/science-at-the-frontier&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、AI生成物も判別するCSAM画像分類器を審査済み組織に無償提供。既存ツールよりフラグ画像を48%削減&lt;br&gt;&lt;a href="https://openai.com/index/strengthening-online-child-safety"&gt;https://openai.com/index/strengthening-online-child-safety&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、研究者へのChatGPT無料提供を最大20万人に拡大。11月23日から先着順で5万件のChatGPT Plusグラントを受付&lt;br&gt;&lt;a href="https://openai.com/index/expanding-chatgpt-for-academic-researchers"&gt;https://openai.com/index/expanding-chatgpt-for-academic-researchers&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenRouter、Hugging Face Inference Providersのチャット推論を担う。160モデルが対象&lt;br&gt;&lt;a href="https://openrouter.ai/blog/announcements/hugging-face-inference-providers/"&gt;https://openrouter.ai/blog/announcements/hugging-face-inference-providers/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hugging Face、Inference Providersの言語モデル呼び出しをOpenRouter経由に。失敗時は別プロバイダーで再試行&lt;br&gt;&lt;a href="https://huggingface.co/blog/openrouter"&gt;https://huggingface.co/blog/openrouter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;CodeRabbit創業者Harjot GillとOpenCodeのRyan Vogelが対談、AIコード時代の課題は生成でなく何をマージするかの判断&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/the-merge-ryan-vogel-deciding-what-to-keep"&gt;https://www.coderabbit.ai/ja/blog/the-merge-ryan-vogel-deciding-what-to-keep&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、GKE上で待機中のエージェントをAgent SubstrateとAXで退避する手法を解説。2プロンプト/時ならノード費用40%削減&lt;br&gt;&lt;a href="https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/"&gt;https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、ChatGPT for Healthcareにコンピューター操作エージェントと20以上の医療プラグインを追加。臨床検索も改善&lt;br&gt;&lt;a href="https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"&gt;https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、医療向けcomputer-useエージェントを提供開始。GPT‑6 Astraは325タスクの99%で安全と評価&lt;br&gt;&lt;a href="https://openai.com/index/advancing-computer-use-for-healthcare-teams"&gt;https://openai.com/index/advancing-computer-use-for-healthcare-teams&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;a16z、Opus 4.5/4.6以降のAIでゼロデイ多発時代が再来と指摘。継続的なレッドチームとAIネイティブな防御への移行を提言&lt;br&gt;&lt;a href="https://a16z.com/the-dream-of-the-1990s-is-alive-again-in-cybersecurity/"&gt;https://a16z.com/the-dream-of-the-1990s-is-alive-again-in-cybersecurity/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;DoorDash、配送ロボットDotの運転AIをAWS上の大規模シミュレーションで検証。実機投入前に数百万マイル相当の走行でテスト&lt;br&gt;&lt;a href="https://www.aboutamazon.com/stories/doordash-aws-autonomous-delivery-robot"&gt;https://www.aboutamazon.com/stories/doordash-aws-autonomous-delivery-robot&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic、AIによる脆弱性発見の高速化を受け開示期限を90日から30日に短縮。高・重大以外は45日&lt;br&gt;&lt;a href="https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines"&gt;https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIとThe King’s Trustが100万ポンドの提携を開始。NEETを優先し英国の若者最大2万5,000人のAIスキルを育成&lt;br&gt;&lt;a href="https://openai.com/index/the-kings-trust-and-openai"&gt;https://openai.com/index/the-kings-trust-and-openai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;LVMHのメディア部門がOpenAIと戦略的提携。ChatGPT Enterpriseを導入し、ChatGPTで記事を出典リンク付きで提供&lt;br&gt;&lt;a href="https://openai.com/index/lvmh-media-division-partnership"&gt;https://openai.com/index/lvmh-media-division-partnership&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sakana AI、6つの金融資格試験から日本語金融ベンチマーク「JFinBench」を構築。最良のオープンウェイトモデルも12ポイント差&lt;br&gt;&lt;a href="https://sakana.ai/jfinbench/"&gt;https://sakana.ai/jfinbench/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Dify、AIエージェント管理プラットフォームの5つの中核領域と選定法を解説。チェック数より必須要件を実証で確かめるよう提言&lt;br&gt;&lt;a href="https://dify.ai/blog/ai-agent-management-platform"&gt;https://dify.ai/blog/ai-agent-management-platform&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

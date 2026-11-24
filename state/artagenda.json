@@ -1,5 +1,11 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12920",
+    "https://www.artagenda.jp/exhibition/detail/11883",
+    "https://www.artagenda.jp/exhibition/detail/11885",
+    "https://www.artagenda.jp/exhibition/detail/11884",
+    "https://www.artagenda.jp/exhibition/detail/11952",
+    "https://www.artagenda.jp/exhibition/detail/11870",
     "https://www.artagenda.jp/exhibition/detail/12985",
     "https://www.artagenda.jp/exhibition/detail/7589",
     "https://www.artagenda.jp/exhibition/detail/11910",
@@ -493,15 +499,64 @@
     "https://www.artagenda.jp/exhibition/detail/12000",
     "https://www.artagenda.jp/exhibition/detail/12605",
     "https://www.artagenda.jp/exhibition/detail/12427",
-    "https://www.artagenda.jp/exhibition/detail/12111",
-    "https://www.artagenda.jp/exhibition/detail/11881",
-    "https://www.artagenda.jp/exhibition/detail/12395",
-    "https://www.artagenda.jp/exhibition/detail/12711",
-    "https://www.artagenda.jp/exhibition/detail/12775",
-    "https://www.artagenda.jp/exhibition/detail/12078",
-    "https://www.artagenda.jp/exhibition/detail/12712"
+    "https://www.artagenda.jp/exhibition/detail/12111"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261124T051028Z",
+      "title": "アートアジェンダ 展覧会(2026年11月24日 14:10)",
+      "date": "2026-11-24T05:10:28.349252+00:00",
+      "items": [
+        {
+          "title": "高橋和希原画展 YU-GI-OH! ART WORKS",
+          "link": "https://www.artagenda.jp/exhibition/detail/12920",
+          "label": "12/12〜2027/2/21",
+          "extra": [
+            "CREATIVE MUSEUM TOKYO｜東京都"
+          ]
+        },
+        {
+          "title": "第119回 ⽇展京都展",
+          "link": "https://www.artagenda.jp/exhibition/detail/11952",
+          "label": "12/19〜2027/1/16",
+          "extra": [
+            "京都市京セラ美術館｜京都府"
+          ]
+        },
+        {
+          "title": "企画展 古写経 祈りの美",
+          "link": "https://www.artagenda.jp/exhibition/detail/11883",
+          "label": "2027/1/5〜2027/1/31",
+          "extra": [
+            "徳川美術館｜愛知県"
+          ]
+        },
+        {
+          "title": "辰野登恵子 多次元の絵画",
+          "link": "https://www.artagenda.jp/exhibition/detail/11870",
+          "label": "2027/1/16〜2027/3/22",
+          "extra": [
+            "長野県立美術館｜長野県"
+          ]
+        },
+        {
+          "title": "企画展 大名もあそぶ",
+          "link": "https://www.artagenda.jp/exhibition/detail/11885",
+          "label": "2027/2/6〜2027/4/4",
+          "extra": [
+            "徳川美術館｜愛知県"
+          ]
+        },
+        {
+          "title": "特別展 尾張徳川家の雛まつり（2027年・第40回）",
+          "link": "https://www.artagenda.jp/exhibition/detail/11884",
+          "label": "2027/2/6〜2027/4/4",
+          "extra": [
+            "徳川美術館｜愛知県"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261123T205129Z",
       "title": "アートアジェンダ 展覧会(2026年11月24日 5:51)",
@@ -973,29 +1028,6 @@
           "label": "2027/1/30〜2027/3/28",
           "extra": [
             "ひろしま美術館｜広島県"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261110T164645Z",
-      "title": "アートアジェンダ 展覧会(2026年11月11日 1:46)",
-      "date": "2026-11-10T16:46:45.110857+00:00",
-      "items": [
-        {
-          "title": "開館50周年記念プレ企画 コレクション2：歴史化する現代",
-          "link": "https://www.artagenda.jp/exhibition/detail/12965",
-          "label": "12/1〜2027/3/22",
-          "extra": [
-            "国立国際美術館｜大阪府"
-          ]
-        },
-        {
-          "title": "特別展 現代美術における墨表現 －墨と和紙の世界：町田久美・浅見貴子・新恵美佐子・荒井…",
-          "link": "https://www.artagenda.jp/exhibition/detail/12914",
-          "label": "2027/1/16〜2027/3/14",
-          "extra": [
-            "奈良県立美術館｜奈良県"
           ]
         }
       ]
