@@ -1,5 +1,12 @@
 {
   "seen": [
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
+    "https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data",
+    "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "https://www.coderabbit.ai/ja/blog/how-we-build-a-security-harness-that-finds-real-vulnerabilities",
+    "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+    "https://www.aboutamazon.com/news/aws/werner-vogels-tech-predictions-2027",
+    "https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/",
     "https://openai.com/index/introducing-shirudo",
     "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
     "https://z.ai/blog/glm-5.4",
@@ -458,6 +465,55 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261124T195300Z",
+      "title": "Morning AI(2026年11月25日 4:53)",
+      "date": "2026-11-24T19:53:00.932215+00:00",
+      "items": [
+        {
+          "title": "Google、Gemini 4 Neonで開発者が作った3D地球やブラックホールのシェーダーなど5作品を紹介",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "KPMG、Enterprise Frontier Safeguardsでデータを自社管理下に留めたまま規制産業の案件にAI導入を加速できる",
+          "link": "https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Hugging Face、Microduckの歩行ポリシーを固定したままToFセンサーで障害物回避を学習し実機展開する手順を公開",
+          "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "CodeRabbit、エージェントによるセキュリティスキャンのハーネス設計を解説。確認した範囲を記録し、指摘は独立したモデルで検証",
+          "link": "https://www.coderabbit.ai/ja/blog/how-we-build-a-security-harness-that-finds-real-vulnerabilities",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Golden State との提携を拡大し Gemini を公式 AI パートナーに。球団はカスタム AI エージェントも構築",
+          "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Amazon CTO の Werner Vogels 氏が技術予測。AI エージェントによる常時の攻撃テストや手術不要の脳インターフェースの普及",
+          "link": "https://www.aboutamazon.com/news/aws/werner-vogels-tech-predictions-2027",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "GoogleとWomen in Film India、Google Flowで作ったAI短編5本をインド国際映画祭で初上映",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261124T050820Z",
       "title": "Morning AI(2026年11月24日 14:08)",
@@ -1204,37 +1260,6 @@
         {
           "title": "Revolut、Codexでコーディング時間を30–60%短縮。実装はAIに任せ、説明責任は人間が担う体制",
           "link": "https://openai.com/business/customer-stories/revolut",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261117T032426Z",
-      "title": "Morning AI(2026年11月17日 12:24)",
-      "date": "2026-11-17T03:24:26.477609+00:00",
-      "items": [
-        {
-          "title": "AlibabaがQwen4-Maxをリリース。Qwen3.8-Max比でトークン35%減、タスク当たりコストは約60%減",
-          "link": "https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Vals AI、10代を診るセラピスト10人への聞き取りで、10代がAIに薬の自己調整や虐待かどうかの判断まで相談する実態を報告",
-          "link": "https://www.vals.ai/blogs/teens-ai-therapists",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Claude Code チーム、コードの約90%を Claude が書く中での検証ループの作り方を解説。E2E・プロパティ・差分テストを推奨",
-          "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "GoogleがGeminiアプリ（Android/iOS）で地域の話し方に合わせた音声66種を提供開始、Gemini Liveや回答の読み上げでも使える",
-          "link": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
           "label": null,
           "extra": []
         }

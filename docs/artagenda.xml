@@ -6,7 +6,15 @@
     <description>アートアジェンダ 展覧会 の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/artagenda.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Nov 2026 05:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:55:09 +0000</lastBuildDate>
+    <item>
+      <title>アートアジェンダ 展覧会(2026年11月25日 4:55)</title>
+      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
+      <guid isPermaLink="false">artagenda-20261124T195509Z</guid>
+      <pubDate>Tue, 24 Nov 2026 19:55:09 +0000</pubDate>
+      <description>&lt;p&gt;[12/4〜2027/1/11] 企画展「冬景色 ―押絵羽子板とともに―」&lt;br&gt;鎌倉市鏑木清方記念美術館｜神奈川県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12650"&gt;https://www.artagenda.jp/exhibition/detail/12650&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2027/1/9〜2027/4/11] 【特別展】函館美術館コレクション 文字とアート －ポップ・アートから書まで&lt;br&gt;北海道立近代美術館｜北海道&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12175"&gt;https://www.artagenda.jp/exhibition/detail/12175&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>アートアジェンダ 展覧会(2026年11月24日 14:10)</title>
       <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
@@ -135,15 +143,6 @@
       <guid isPermaLink="false">artagenda-20261112T020915Z</guid>
       <pubDate>Thu, 12 Nov 2026 02:09:15 +0000</pubDate>
       <description>&lt;p&gt;[2027/1/23〜2027/3/28] 2027展示I 小林一三没後70年 小林一三のART愛 －著書に登場する文芸・美術作品&lt;br&gt;逸翁美術館｜大阪府&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/11788"&gt;https://www.artagenda.jp/exhibition/detail/11788&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>アートアジェンダ 展覧会(2026年11月12日 1:53)</title>
-      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
-      <guid isPermaLink="false">artagenda-20261111T165303Z</guid>
-      <pubDate>Wed, 11 Nov 2026 16:53:03 +0000</pubDate>
-      <description>&lt;p&gt;[11/22〜12/2] 100点のアートクレヨン画展2026&lt;br&gt;日比谷OKUROJI｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12971"&gt;https://www.artagenda.jp/exhibition/detail/12971&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[12/1〜2027/1/11] 所蔵品展 慈愛の心Ⅳ～ 捨 ～&lt;br&gt;浜松市秋野不矩美術館｜静岡県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12204"&gt;https://www.artagenda.jp/exhibition/detail/12204&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2027/1/30〜2027/3/28] マリメッコ展 模様のちから Marimekko: Art of Printmaking ーBeauty, Dream, Love&lt;br&gt;ひろしま美術館｜広島県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/11734"&gt;https://www.artagenda.jp/exhibition/detail/11734&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
