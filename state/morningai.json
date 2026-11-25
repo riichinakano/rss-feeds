@@ -1,5 +1,11 @@
 {
   "seen": [
+    "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+    "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "https://www.anthropic.com/research/migrating-api-to-rust",
+    "https://blog.cloudflare.com/search-for-agents/",
+    "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
     "https://www.vals.ai/blogs/teen-chatbot-reasoning-traces",
     "https://thinkingmachines.ai/news/training-a-scalable-forecasting-agent/",
     "https://sakana.ai/namazu-small/",
@@ -478,6 +484,49 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261125T185649Z",
+      "title": "Morning AI(2026年11月26日 3:56)",
+      "date": "2026-11-25T18:56:49.654291+00:00",
+      "items": [
+        {
+          "title": "Google Research、隠れた動機を正解に置くマルチエージェント評価を公開。12のLLMはユーザー越しだと動機推定の精度が低下",
+          "link": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Hugging Face、エージェントの実験でInkling 2 MiniをRTX PRO 6000 1枚で190.6 tok/sに高速化",
+          "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "DeepMind、Google Antigravity向けMass Spec Skillsを公開。軽量モデルでもMS/MSから約97%の精度で分子を同定",
+          "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Anthropic、本番システムを検証器にしてMessages APIをPythonからRustへ移行。リクエストあたりCPUを約70%削減",
+          "link": "https://www.anthropic.com/research/migrating-api-to-rust",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Cloudflare、Search for Agentsを開始。トグル1つでサイトを索引化し、自ドメインでエージェントに検索を公開",
+          "link": "https://blog.cloudflare.com/search-for-agents/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "IBM ResearchのCUGAでヒンディー語などの音声エージェントを構築。多言語埋め込みで英語の資料1つから回答できる",
+          "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261125T035650Z",
       "title": "Morning AI(2026年11月25日 12:56)",
@@ -1218,91 +1267,6 @@
         {
           "title": "NVIDIAがSC26で科学計算向けGPU「Rubin HPC」を発表。5万超のCUDAコアとデータ移動の強化でシミュレーションを加速",
           "link": "https://blogs.nvidia.com/blog/rubin-hpc/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261118T024433Z",
-      "title": "Morning AI(2026年11月18日 11:44)",
-      "date": "2026-11-18T02:44:33.178990+00:00",
-      "items": [
-        {
-          "title": "Anthropic、Claude Docsのローンチ前にClaudeで2週間カオスループを回し、20億リクエスト中サーバーエラー60件に抑えた",
-          "link": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "ElevenLabs、日本の音声AIラボKotobaを買収へ。日本語音声モデルKotoを取り込み、日本でのAIエージェント普及を加速",
-          "link": "https://elevenlabs.io/blog/kotoba",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Together AIのHassan El-Mghari、エージェント時代は機能を絞りアイデアを5語で説明できるアプリを作るべきと提言",
-          "link": "https://www.coderabbit.ai/ja/blog/ai-feature-bloat-why-shipping-less-is-better",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google DeepMind、AlphaGenomeで90億通りすべてのDNA一塩基変化の影響を予測し疾患原因の変異探しを効率化",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAIが営業向け「ChatGPT for Sales」を発表。Salesプラグインと30超のパートナープラグインで顧客情報を集約",
-          "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Microsoft、初の音声対音声モデル「MAI Realtime 1」を発表。音声1分あたり$0.01からで企業向け音声エージェントに対応",
-          "link": "https://microsoft.ai/news/introducing-mai-realtime-1/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Microsoft AI、MAI Image 2.7を公開。Artificial Analysisの画像編集で1位、競合モデルの約5分の1のコスト",
-          "link": "https://microsoft.ai/news/introducing-mai-image-2-7/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Microsoft、企業が自社のAzure環境でMAIモデルを導入・カスタマイズできるMAI Licensed Weightsを発表",
-          "link": "https://microsoft.ai/news/introducing-mai-licensed-weights/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、Gemini 4 Carbonで開発者が作った5作品を紹介。草花52,000本の草原や1,048,576粒子シミュレーション",
-          "link": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Artificial Analysis評価でOpenAIのGPT-6.2 Astraが2位に。上回るのはClaude Fable 5.2のみ",
-          "link": "https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAIが法務向けAstra for Lawを更新し、Harvey LAB-AAで首位。ChatGPT Enterpriseの全顧客が利用を申請できる",
-          "link": "https://openai.com/index/astra-law-6-2",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAIが「GPT-6.2 Astra」と「GPT-6.2 Sol」を公開。Astraは入出力価格を20%下げ、専門業務の評価で最高記録",
-          "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "SpaceXSIの経理チーム、5つのGrok Botに経理業務を1つずつ丸ごと任せる。文書化と約3週間のオンボーディングで育成",
-          "link": "https://x.ai/news/grok-bot-accounting",
           "label": null,
           "extra": []
         }

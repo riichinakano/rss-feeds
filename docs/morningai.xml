@@ -6,7 +6,19 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Nov 2026 03:56:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:56:49 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月26日 3:56)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261125T185649Z</guid>
+      <pubDate>Wed, 25 Nov 2026 18:56:49 +0000</pubDate>
+      <description>&lt;p&gt;Google Research、隠れた動機を正解に置くマルチエージェント評価を公開。12のLLMはユーザー越しだと動機推定の精度が低下&lt;br&gt;&lt;a href="https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/"&gt;https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face、エージェントの実験でInkling 2 MiniをRTX PRO 6000 1枚で190.6 tok/sに高速化&lt;br&gt;&lt;a href="https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"&gt;https://huggingface.co/blog/inkling-2-mini-inference-hillclimb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DeepMind、Google Antigravity向けMass Spec Skillsを公開。軽量モデルでもMS/MSから約97%の精度で分子を同定&lt;br&gt;&lt;a href="https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/"&gt;https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic、本番システムを検証器にしてMessages APIをPythonからRustへ移行。リクエストあたりCPUを約70%削減&lt;br&gt;&lt;a href="https://www.anthropic.com/research/migrating-api-to-rust"&gt;https://www.anthropic.com/research/migrating-api-to-rust&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cloudflare、Search for Agentsを開始。トグル1つでサイトを索引化し、自ドメインでエージェントに検索を公開&lt;br&gt;&lt;a href="https://blog.cloudflare.com/search-for-agents/"&gt;https://blog.cloudflare.com/search-for-agents/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;IBM ResearchのCUGAでヒンディー語などの音声エージェントを構築。多言語埋め込みで英語の資料1つから回答できる&lt;br&gt;&lt;a href="https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"&gt;https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月25日 12:56)</title>
       <link>https://morningaiapp.com</link>
@@ -193,25 +205,6 @@
 &lt;p&gt;Dify、AIエージェントの計画から廃止までのライフサイクル管理を解説。リリース前のオーナー任命と影響度に応じた監督を重視&lt;br&gt;&lt;a href="https://dify.ai/blog/ai-agent-lifecycle-management"&gt;https://dify.ai/blog/ai-agent-lifecycle-management&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft、Ignite 2026でCopilot WorkspacesやAutopilotを含む新しいCopilotを発表&lt;br&gt;&lt;a href="https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/"&gt;https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;NVIDIAがSC26で科学計算向けGPU「Rubin HPC」を発表。5万超のCUDAコアとデータ移動の強化でシミュレーションを加速&lt;br&gt;&lt;a href="https://blogs.nvidia.com/blog/rubin-hpc/"&gt;https://blogs.nvidia.com/blog/rubin-hpc/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月18日 11:44)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261118T024433Z</guid>
-      <pubDate>Wed, 18 Nov 2026 02:44:33 +0000</pubDate>
-      <description>&lt;p&gt;Anthropic、Claude Docsのローンチ前にClaudeで2週間カオスループを回し、20億リクエスト中サーバーエラー60件に抑えた&lt;br&gt;&lt;a href="https://claude.dev/blog/chaos-loop-claude-docs-launch/"&gt;https://claude.dev/blog/chaos-loop-claude-docs-launch/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ElevenLabs、日本の音声AIラボKotobaを買収へ。日本語音声モデルKotoを取り込み、日本でのAIエージェント普及を加速&lt;br&gt;&lt;a href="https://elevenlabs.io/blog/kotoba"&gt;https://elevenlabs.io/blog/kotoba&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Together AIのHassan El-Mghari、エージェント時代は機能を絞りアイデアを5語で説明できるアプリを作るべきと提言&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/ai-feature-bloat-why-shipping-less-is-better"&gt;https://www.coderabbit.ai/ja/blog/ai-feature-bloat-why-shipping-less-is-better&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google DeepMind、AlphaGenomeで90億通りすべてのDNA一塩基変化の影響を予測し疾患原因の変異探しを効率化&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/"&gt;https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIが営業向け「ChatGPT for Sales」を発表。Salesプラグインと30超のパートナープラグインで顧客情報を集約&lt;br&gt;&lt;a href="https://openai.com/index/introducing-chatgpt-for-sales"&gt;https://openai.com/index/introducing-chatgpt-for-sales&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Microsoft、初の音声対音声モデル「MAI Realtime 1」を発表。音声1分あたり$0.01からで企業向け音声エージェントに対応&lt;br&gt;&lt;a href="https://microsoft.ai/news/introducing-mai-realtime-1/"&gt;https://microsoft.ai/news/introducing-mai-realtime-1/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Microsoft AI、MAI Image 2.7を公開。Artificial Analysisの画像編集で1位、競合モデルの約5分の1のコスト&lt;br&gt;&lt;a href="https://microsoft.ai/news/introducing-mai-image-2-7/"&gt;https://microsoft.ai/news/introducing-mai-image-2-7/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Microsoft、企業が自社のAzure環境でMAIモデルを導入・カスタマイズできるMAI Licensed Weightsを発表&lt;br&gt;&lt;a href="https://microsoft.ai/news/introducing-mai-licensed-weights/"&gt;https://microsoft.ai/news/introducing-mai-licensed-weights/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、Gemini 4 Carbonで開発者が作った5作品を紹介。草花52,000本の草原や1,048,576粒子シミュレーション&lt;br&gt;&lt;a href="https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/"&gt;https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Artificial Analysis評価でOpenAIのGPT-6.2 Astraが2位に。上回るのはClaude Fable 5.2のみ&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol"&gt;https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIが法務向けAstra for Lawを更新し、Harvey LAB-AAで首位。ChatGPT Enterpriseの全顧客が利用を申請できる&lt;br&gt;&lt;a href="https://openai.com/index/astra-law-6-2"&gt;https://openai.com/index/astra-law-6-2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIが「GPT-6.2 Astra」と「GPT-6.2 Sol」を公開。Astraは入出力価格を20%下げ、専門業務の評価で最高記録&lt;br&gt;&lt;a href="https://openai.com/index/introducing-gpt-6-2-astra-sol"&gt;https://openai.com/index/introducing-gpt-6-2-astra-sol&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;SpaceXSIの経理チーム、5つのGrok Botに経理業務を1つずつ丸ごと任せる。文書化と約3週間のオンボーディングで育成&lt;br&gt;&lt;a href="https://x.ai/news/grok-bot-accounting"&gt;https://x.ai/news/grok-bot-accounting&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,10 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/13078",
+    "https://www.artagenda.jp/exhibition/detail/12986",
+    "https://www.artagenda.jp/exhibition/detail/12975",
+    "https://www.artagenda.jp/exhibition/detail/12976",
+    "https://www.artagenda.jp/exhibition/detail/11726",
     "https://www.artagenda.jp/exhibition/detail/13066",
     "https://www.artagenda.jp/exhibition/detail/12424",
     "https://www.artagenda.jp/exhibition/detail/13063",
@@ -61,7 +66,6 @@
     "https://www.artagenda.jp/exhibition/detail/12177",
     "https://www.artagenda.jp/exhibition/detail/12382",
     "https://www.artagenda.jp/exhibition/detail/12180",
-    "https://www.artagenda.jp/exhibition/detail/12986",
     "https://www.artagenda.jp/exhibition/detail/13032",
     "https://www.artagenda.jp/exhibition/detail/13013",
     "https://www.artagenda.jp/exhibition/detail/13012",
@@ -495,13 +499,48 @@
     "https://www.artagenda.jp/exhibition/detail/11837",
     "https://www.artagenda.jp/exhibition/detail/12229",
     "https://www.artagenda.jp/exhibition/detail/11509",
-    "https://www.artagenda.jp/exhibition/detail/12668",
-    "https://www.artagenda.jp/exhibition/detail/12654",
-    "https://www.artagenda.jp/exhibition/detail/12661",
-    "https://www.artagenda.jp/exhibition/detail/12791",
-    "https://www.artagenda.jp/exhibition/detail/12000"
+    "https://www.artagenda.jp/exhibition/detail/12668"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261125T185857Z",
+      "title": "アートアジェンダ 展覧会(2026年11月26日 3:58)",
+      "date": "2026-11-25T18:58:57.643569+00:00",
+      "items": [
+        {
+          "title": "企画展 彫る漆",
+          "link": "https://www.artagenda.jp/exhibition/detail/11726",
+          "label": "12/5〜2027/1/17",
+          "extra": [
+            "根津美術館｜東京都"
+          ]
+        },
+        {
+          "title": "夢二郷土美術館 本館企画展「創立60周年記念 THE 夢二郷土美術館 COLLECTION」",
+          "link": "https://www.artagenda.jp/exhibition/detail/12976",
+          "label": "12/11〜2027/3/14",
+          "extra": [
+            "夢二郷土美術館 本館｜岡山県"
+          ]
+        },
+        {
+          "title": "特別陳列 春日若宮おん祭の信仰と美術",
+          "link": "https://www.artagenda.jp/exhibition/detail/13078",
+          "label": "12/12〜2027/1/17",
+          "extra": [
+            "奈良国立博物館｜奈良県"
+          ]
+        },
+        {
+          "title": "夢二郷土美術館創立60周年 夢二生家企画展「雪の朝、花の暮」",
+          "link": "https://www.artagenda.jp/exhibition/detail/12975",
+          "label": "12/16〜2027/2/28",
+          "extra": [
+            "夢二郷土美術館 夢二生家記念館・少年山荘｜岡山県"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261125T035902Z",
       "title": "アートアジェンダ 展覧会(2026年11月25日 12:59)",
@@ -973,53 +1012,6 @@
           "label": "2027/9/11〜2027/12/12",
           "extra": [
             "東京都美術館｜東京都"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261112T172052Z",
-      "title": "アートアジェンダ 展覧会(2026年11月13日 2:20)",
-      "date": "2026-11-12T17:20:52.815580+00:00",
-      "items": [
-        {
-          "title": "関口雄揮展－箱根百景－",
-          "link": "https://www.artagenda.jp/exhibition/detail/12911",
-          "label": "11/12〜2027/3/17",
-          "extra": [
-            "箱根・芦ノ湖成川美術館｜神奈川県"
-          ]
-        },
-        {
-          "title": "収蔵名作展 日本画の煌めき",
-          "link": "https://www.artagenda.jp/exhibition/detail/12912",
-          "label": "11/12〜2027/3/17",
-          "extra": [
-            "箱根・芦ノ湖成川美術館｜神奈川県"
-          ]
-        },
-        {
-          "title": "山本丘人セレクション展－春夏秋冬を描く－",
-          "link": "https://www.artagenda.jp/exhibition/detail/12913",
-          "label": "11/12〜2027/3/17",
-          "extra": [
-            "箱根・芦ノ湖成川美術館｜神奈川県"
-          ]
-        },
-        {
-          "title": "エッシャー 無限のつくりかた",
-          "link": "https://www.artagenda.jp/exhibition/detail/12969",
-          "label": "2027/7/2〜2027/9/26",
-          "extra": [
-            "CREATIVE MUSEUM TOKYO｜東京都"
-          ]
-        },
-        {
-          "title": "北欧の巨匠 ガッレン＝カッレラ──フィンランドの自然と神話（仮称）",
-          "link": "https://www.artagenda.jp/exhibition/detail/12963",
-          "label": "2027/10/8〜2028/1/23",
-          "extra": [
-            "三菱一号館美術館｜東京都"
           ]
         }
       ]
