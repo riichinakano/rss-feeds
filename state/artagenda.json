@@ -1,5 +1,6 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/13066",
     "https://www.artagenda.jp/exhibition/detail/12424",
     "https://www.artagenda.jp/exhibition/detail/13063",
     "https://www.artagenda.jp/exhibition/detail/12900",
@@ -498,10 +499,24 @@
     "https://www.artagenda.jp/exhibition/detail/12654",
     "https://www.artagenda.jp/exhibition/detail/12661",
     "https://www.artagenda.jp/exhibition/detail/12791",
-    "https://www.artagenda.jp/exhibition/detail/12000",
-    "https://www.artagenda.jp/exhibition/detail/12605"
+    "https://www.artagenda.jp/exhibition/detail/12000"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261125T035902Z",
+      "title": "アートアジェンダ 展覧会(2026年11月25日 12:59)",
+      "date": "2026-11-25T03:59:02.767669+00:00",
+      "items": [
+        {
+          "title": "Osaka Directory 15 Supported by RICHARD MILLE 乾 真裕子",
+          "link": "https://www.artagenda.jp/exhibition/detail/13066",
+          "label": "2027/1/23〜2027/2/21",
+          "extra": [
+            "大阪中之島美術館｜大阪府"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261124T195509Z",
       "title": "アートアジェンダ 展覧会(2026年11月25日 4:55)",
@@ -1005,21 +1020,6 @@
           "label": "2027/10/8〜2028/1/23",
           "extra": [
             "三菱一号館美術館｜東京都"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261112T020915Z",
-      "title": "アートアジェンダ 展覧会(2026年11月12日 11:09)",
-      "date": "2026-11-12T02:09:15.899112+00:00",
-      "items": [
-        {
-          "title": "2027展示I 小林一三没後70年 小林一三のART愛 －著書に登場する文芸・美術作品",
-          "link": "https://www.artagenda.jp/exhibition/detail/11788",
-          "label": "2027/1/23〜2027/3/28",
-          "extra": [
-            "逸翁美術館｜大阪府"
           ]
         }
       ]

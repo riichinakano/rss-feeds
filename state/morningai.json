@@ -1,5 +1,18 @@
 {
   "seen": [
+    "https://www.vals.ai/blogs/teen-chatbot-reasoning-traces",
+    "https://thinkingmachines.ai/news/training-a-scalable-forecasting-agent/",
+    "https://sakana.ai/namazu-small/",
+    "https://developers.openai.com/blog/production-monitoring-with-codex",
+    "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/",
+    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "https://claude.dev/blog/the-work-after-you-open-a-pr/",
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+    "https://openai.com/business/customer-stories/ifood",
+    "https://openai.com/business/customer-stories/intentful-dots",
+    "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
     "https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data",
     "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
@@ -465,6 +478,91 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261125T035650Z",
+      "title": "Morning AI(2026年11月25日 12:56)",
+      "date": "2026-11-25T03:56:50.296708+00:00",
+      "items": [
+        {
+          "title": "Vals AI、チャットボットの推論トレースを分析。10代の危険に気づいても支援を計画したのは50%で、推論では安全性を判定できない",
+          "link": "https://www.vals.ai/blogs/teen-chatbot-reasoning-traces",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Mantic、Tinkerで学習したInkling 2 SmallでFable 5.2 (medium)並みの予測精度をコスト15分の1で実現",
+          "link": "https://thinkingmachines.ai/news/training-a-scalable-forecasting-agent/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Sakana AI、LLM「Sakana Namazu Small」を発表。25ベンチマーク平均で約4倍規模のNemotron 3 Superを上回る",
+          "link": "https://sakana.ai/namazu-small/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、本番障害の調査にCodexを組み込む手順を解説。読み取り専用で監視基盤に接続し、人間の承認を経て修正を適用",
+          "link": "https://developers.openai.com/blog/production-monitoring-with-codex",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Clay、CodexとChatGPTのプラグインで営業担当者に顧客データを提供。GPT‑6 Solを主力にAstraとLunaを使い分け",
+          "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google、Agent Retrievalのmanaged ingestionでPDFや動画を取り込みコード不要で検索する方法を解説",
+          "link": "https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenAI、GPT‑6 が専用の生物学モデルなしでタンパク質を設計できると報告。GPT‑6.2 の設計は5つの標的すべてで結合の兆候",
+          "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "claude.dev、管理者権限なしでClaude Shipの/shipと/stewardにPRのCI失敗やコンフリクト対応を任せる方法",
+          "link": "https://claude.dev/blog/the-work-after-you-open-a-pr/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Google DeepMind、LLMが日常的な質問に毎回正答できるかを測るHumanity’s First ExamをKaggleで公開",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "iFood、コーディングエージェントをAPIで非同期実行する社内基盤を構築。15,000のリポジトリに展開",
+          "link": "https://openai.com/business/customer-stories/ifood",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Intentful、ChatGPTのdotで約300サイトの調査から提案書作成までを数日から数時間に短縮。重要な連絡も先回りで通知",
+          "link": "https://openai.com/business/customer-stories/intentful-dots",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "アマチュア天文家2人がCodexとAstraで公開望遠鏡データから系外惑星候補を発見、SETI研究所が2つの信号を独立に検出",
+          "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Claude、MCPサーバーがツールと一緒にスキルを配布できるSkills over MCPをパブリックベータで公開",
+          "link": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261124T195300Z",
       "title": "Morning AI(2026年11月25日 4:53)",
@@ -1205,61 +1303,6 @@
         {
           "title": "SpaceXSIの経理チーム、5つのGrok Botに経理業務を1つずつ丸ごと任せる。文書化と約3週間のオンボーディングで育成",
           "link": "https://x.ai/news/grok-bot-accounting",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261117T180458Z",
-      "title": "Morning AI(2026年11月18日 3:04)",
-      "date": "2026-11-17T18:04:58.056071+00:00",
-      "items": [
-        {
-          "title": "Google、電話や買い物などを Gemini に任せられる機能を日米などで無料提供。新モデル Gemini 4 Hydrogen を使用",
-          "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Claude、常駐型エージェントの設計指針を公開。イベント受信箱・タイマー・メモリ・権限・送信箱の5要素で構成",
-          "link": "https://claude.com/resources/articles/building-always-on-agents",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、Androidビルド基盤ABFSをオープンソース化。チェックアウトを約36分から8秒未満、フルビルドを約80分から2分強に短縮",
-          "link": "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Vals AI、フロンティアAIモデルは自律兵器の標的指定をほぼ拒否せず、「ゲームだ」と伝えるだけで拒否も突破できると報告",
-          "link": "https://www.vals.ai/blogs/autonomous-warfare",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Boring Company、トンネル掘削コストを1マイル1,000万ドル未満に削減。400万〜500万ドルへの低減とhyperloop実現が次の目標",
-          "link": "https://a16z.com/the-boring-company-the-future-underground/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、チリ政府と「OpenAI for Chile」で覚書。行政のAI導入、公務員の研修、スタートアップ支援を検討",
-          "link": "https://openai.com/index/introducing-openai-for-chile",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、DaybreakでNATOや欧州・ウクライナのサイバー防衛機関に先端AIを提供。NATOは月最大3,000億トークンを使用",
-          "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Revolut、Codexでコーディング時間を30–60%短縮。実装はAIに任せ、説明責任は人間が担う体制",
-          "link": "https://openai.com/business/customer-stories/revolut",
           "label": null,
           "extra": []
         }

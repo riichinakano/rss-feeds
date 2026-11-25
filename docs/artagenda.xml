@@ -6,7 +6,14 @@
     <description>アートアジェンダ 展覧会 の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/artagenda.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Nov 2026 19:55:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:59:02 +0000</lastBuildDate>
+    <item>
+      <title>アートアジェンダ 展覧会(2026年11月25日 12:59)</title>
+      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
+      <guid isPermaLink="false">artagenda-20261125T035902Z</guid>
+      <pubDate>Wed, 25 Nov 2026 03:59:02 +0000</pubDate>
+      <description>&lt;p&gt;[2027/1/23〜2027/2/21] Osaka Directory 15 Supported by RICHARD MILLE 乾 真裕子&lt;br&gt;大阪中之島美術館｜大阪府&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/13066"&gt;https://www.artagenda.jp/exhibition/detail/13066&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>アートアジェンダ 展覧会(2026年11月25日 4:55)</title>
       <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
@@ -136,13 +143,6 @@
 &lt;p&gt;[11/12〜2027/3/17] 山本丘人セレクション展－春夏秋冬を描く－&lt;br&gt;箱根・芦ノ湖成川美術館｜神奈川県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12913"&gt;https://www.artagenda.jp/exhibition/detail/12913&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[2027/7/2〜2027/9/26] エッシャー 無限のつくりかた&lt;br&gt;CREATIVE MUSEUM TOKYO｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12969"&gt;https://www.artagenda.jp/exhibition/detail/12969&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[2027/10/8〜2028/1/23] 北欧の巨匠 ガッレン＝カッレラ──フィンランドの自然と神話（仮称）&lt;br&gt;三菱一号館美術館｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12963"&gt;https://www.artagenda.jp/exhibition/detail/12963&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>アートアジェンダ 展覧会(2026年11月12日 11:09)</title>
-      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
-      <guid isPermaLink="false">artagenda-20261112T020915Z</guid>
-      <pubDate>Thu, 12 Nov 2026 02:09:15 +0000</pubDate>
-      <description>&lt;p&gt;[2027/1/23〜2027/3/28] 2027展示I 小林一三没後70年 小林一三のART愛 －著書に登場する文芸・美術作品&lt;br&gt;逸翁美術館｜大阪府&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/11788"&gt;https://www.artagenda.jp/exhibition/detail/11788&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,26 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Nov 2026 19:53:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:56:50 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月25日 12:56)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261125T035650Z</guid>
+      <pubDate>Wed, 25 Nov 2026 03:56:50 +0000</pubDate>
+      <description>&lt;p&gt;Vals AI、チャットボットの推論トレースを分析。10代の危険に気づいても支援を計画したのは50%で、推論では安全性を判定できない&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/teen-chatbot-reasoning-traces"&gt;https://www.vals.ai/blogs/teen-chatbot-reasoning-traces&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mantic、Tinkerで学習したInkling 2 SmallでFable 5.2 (medium)並みの予測精度をコスト15分の1で実現&lt;br&gt;&lt;a href="https://thinkingmachines.ai/news/training-a-scalable-forecasting-agent/"&gt;https://thinkingmachines.ai/news/training-a-scalable-forecasting-agent/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sakana AI、LLM「Sakana Namazu Small」を発表。25ベンチマーク平均で約4倍規模のNemotron 3 Superを上回る&lt;br&gt;&lt;a href="https://sakana.ai/namazu-small/"&gt;https://sakana.ai/namazu-small/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、本番障害の調査にCodexを組み込む手順を解説。読み取り専用で監視基盤に接続し、人間の承認を経て修正を適用&lt;br&gt;&lt;a href="https://developers.openai.com/blog/production-monitoring-with-codex"&gt;https://developers.openai.com/blog/production-monitoring-with-codex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Clay、CodexとChatGPTのプラグインで営業担当者に顧客データを提供。GPT‑6 Solを主力にAstraとLunaを使い分け&lt;br&gt;&lt;a href="https://openai.com/business/customer-stories/clay-plugins-openai"&gt;https://openai.com/business/customer-stories/clay-plugins-openai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google、Agent Retrievalのmanaged ingestionでPDFや動画を取り込みコード不要で検索する方法を解説&lt;br&gt;&lt;a href="https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/"&gt;https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、GPT‑6 が専用の生物学モデルなしでタンパク質を設計できると報告。GPT‑6.2 の設計は5つの標的すべてで結合の兆候&lt;br&gt;&lt;a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"&gt;https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;claude.dev、管理者権限なしでClaude Shipの/shipと/stewardにPRのCI失敗やコンフリクト対応を任せる方法&lt;br&gt;&lt;a href="https://claude.dev/blog/the-work-after-you-open-a-pr/"&gt;https://claude.dev/blog/the-work-after-you-open-a-pr/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google DeepMind、LLMが日常的な質問に毎回正答できるかを測るHumanity’s First ExamをKaggleで公開&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/"&gt;https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;iFood、コーディングエージェントをAPIで非同期実行する社内基盤を構築。15,000のリポジトリに展開&lt;br&gt;&lt;a href="https://openai.com/business/customer-stories/ifood"&gt;https://openai.com/business/customer-stories/ifood&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Intentful、ChatGPTのdotで約300サイトの調査から提案書作成までを数日から数時間に短縮。重要な連絡も先回りで通知&lt;br&gt;&lt;a href="https://openai.com/business/customer-stories/intentful-dots"&gt;https://openai.com/business/customer-stories/intentful-dots&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;アマチュア天文家2人がCodexとAstraで公開望遠鏡データから系外惑星候補を発見、SETI研究所が2つの信号を独立に検出&lt;br&gt;&lt;a href="https://openai.com/index/searching-for-distant-planets-with-astra"&gt;https://openai.com/index/searching-for-distant-planets-with-astra&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude、MCPサーバーがツールと一緒にスキルを配布できるSkills over MCPをパブリックベータで公開&lt;br&gt;&lt;a href="https://claude.com/resources/articles/skills-over-mcp-tasks-and-more"&gt;https://claude.com/resources/articles/skills-over-mcp-tasks-and-more&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月25日 4:53)</title>
       <link>https://morningaiapp.com</link>
@@ -193,20 +212,6 @@
 &lt;p&gt;OpenAIが法務向けAstra for Lawを更新し、Harvey LAB-AAで首位。ChatGPT Enterpriseの全顧客が利用を申請できる&lt;br&gt;&lt;a href="https://openai.com/index/astra-law-6-2"&gt;https://openai.com/index/astra-law-6-2&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;OpenAIが「GPT-6.2 Astra」と「GPT-6.2 Sol」を公開。Astraは入出力価格を20%下げ、専門業務の評価で最高記録&lt;br&gt;&lt;a href="https://openai.com/index/introducing-gpt-6-2-astra-sol"&gt;https://openai.com/index/introducing-gpt-6-2-astra-sol&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;SpaceXSIの経理チーム、5つのGrok Botに経理業務を1つずつ丸ごと任せる。文書化と約3週間のオンボーディングで育成&lt;br&gt;&lt;a href="https://x.ai/news/grok-bot-accounting"&gt;https://x.ai/news/grok-bot-accounting&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月18日 3:04)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261117T180458Z</guid>
-      <pubDate>Tue, 17 Nov 2026 18:04:58 +0000</pubDate>
-      <description>&lt;p&gt;Google、電話や買い物などを Gemini に任せられる機能を日米などで無料提供。新モデル Gemini 4 Hydrogen を使用&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claude、常駐型エージェントの設計指針を公開。イベント受信箱・タイマー・メモリ・権限・送信箱の5要素で構成&lt;br&gt;&lt;a href="https://claude.com/resources/articles/building-always-on-agents"&gt;https://claude.com/resources/articles/building-always-on-agents&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、Androidビルド基盤ABFSをオープンソース化。チェックアウトを約36分から8秒未満、フルビルドを約80分から2分強に短縮&lt;br&gt;&lt;a href="https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/"&gt;https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Vals AI、フロンティアAIモデルは自律兵器の標的指定をほぼ拒否せず、「ゲームだ」と伝えるだけで拒否も突破できると報告&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/autonomous-warfare"&gt;https://www.vals.ai/blogs/autonomous-warfare&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Boring Company、トンネル掘削コストを1マイル1,000万ドル未満に削減。400万〜500万ドルへの低減とhyperloop実現が次の目標&lt;br&gt;&lt;a href="https://a16z.com/the-boring-company-the-future-underground/"&gt;https://a16z.com/the-boring-company-the-future-underground/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、チリ政府と「OpenAI for Chile」で覚書。行政のAI導入、公務員の研修、スタートアップ支援を検討&lt;br&gt;&lt;a href="https://openai.com/index/introducing-openai-for-chile"&gt;https://openai.com/index/introducing-openai-for-chile&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、DaybreakでNATOや欧州・ウクライナのサイバー防衛機関に先端AIを提供。NATOは月最大3,000億トークンを使用&lt;br&gt;&lt;a href="https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"&gt;https://openai.com/index/strengthening-nato-allied-cyber-defences-ai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Revolut、Codexでコーディング時間を30–60%短縮。実装はAIに任せ、説明責任は人間が担う体制&lt;br&gt;&lt;a href="https://openai.com/business/customer-stories/revolut"&gt;https://openai.com/business/customer-stories/revolut&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
