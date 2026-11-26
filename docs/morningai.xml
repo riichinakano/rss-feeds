@@ -6,7 +6,18 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Nov 2026 18:56:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:22:44 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月26日 12:22)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261126T032244Z</guid>
+      <pubDate>Thu, 26 Nov 2026 03:22:44 +0000</pubDate>
+      <description>&lt;p&gt;CodeRabbit、Jira連携でPRにリンクされた課題の受け入れ条件を踏まえてレビュー。実装と要件のずれを指摘できる&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/your-jira-ticket-belongs-in-the-code-review"&gt;https://www.coderabbit.ai/ja/blog/your-jira-ticket-belongs-in-the-code-review&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Artificial Analysis、言語モデルのヒューマノイド操作を測るAA-Robotics-Sim v0.1を公開。首位はGPT-6.2 Astraの71.0&lt;br&gt;&lt;a href="https://artificialanalysis.ai/articles/aa-robotics-sim"&gt;https://artificialanalysis.ai/articles/aa-robotics-sim&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenRouter、自社MCPサーバーをコネクタに追加しClaudeから画像モデル74種で画像を生成する方法を解説&lt;br&gt;&lt;a href="https://openrouter.ai/blog/tutorials/can-claude-generate-images/"&gt;https://openrouter.ai/blog/tutorials/can-claude-generate-images/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ai2、科学者17人への聞き取りをもとに、研究用AIエージェントの用途や評価基準は科学者と共に決めるべきと提言&lt;br&gt;&lt;a href="https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"&gt;https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub、Copilot appのセッションを会話・変更・worktreeごとVS Codeで引き継ぐ手順を解説&lt;br&gt;&lt;a href="https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"&gt;https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月26日 3:56)</title>
       <link>https://morningaiapp.com</link>
@@ -191,20 +202,6 @@
 &lt;p&gt;Google DeepMind、Genie 4をGoogle AI Ultra加入者に提供開始。プレイ中にプロンプトで世界を即時に編集できる&lt;br&gt;&lt;a href="https://deepmind.google/blog/genie-4-is-now-available/"&gt;https://deepmind.google/blog/genie-4-is-now-available/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Hugging Face、Transformersで180BのMoEを32GBのMac上で実行。SSDからエキスパートを流しStrataとの差は約6%&lt;br&gt;&lt;a href="https://huggingface.co/blog/moe-expert-streaming"&gt;https://huggingface.co/blog/moe-expert-streaming&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google、低メモリ端末向けに再設計したGeminiアプリをAndroid（Go edition）端末で提供開始&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月19日 2:44)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261118T174453Z</guid>
-      <pubDate>Wed, 18 Nov 2026 17:44:53 +0000</pubDate>
-      <description>&lt;p&gt;CodeRabbit、実行中のアプリをテストしPRのバグや回帰を見つけるCodeRabbit Verifyをパブリックベータ公開。期間中は無料&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/introducing-coderabbit-verify"&gt;https://www.coderabbit.ai/ja/blog/introducing-coderabbit-verify&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Reson8、0.5Bの音声認識モデル「Rumble-2-Flash」をApache 2.0で公開。3〜60倍大きいモデルと競う精度&lt;br&gt;&lt;a href="https://huggingface.co/blog/rumble-2-flash"&gt;https://huggingface.co/blog/rumble-2-flash&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;IBMとConfluent、時系列基盤モデルをFlinkの組み込み関数として提供。GPU不要のCPU上でSQLから予測・異常検知できる&lt;br&gt;&lt;a href="https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"&gt;https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;a16z、Boltzの1億1000万ドルのSeries Aに追加出資。分子モデルをmolecular tokens単位の従量課金で提供&lt;br&gt;&lt;a href="https://a16z.com/announcement/investing-in-boltz/"&gt;https://a16z.com/announcement/investing-in-boltz/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIとLe Groupe Figaroが提携。Le Figaroの最新記事とアーカイブをChatGPTで要約・抜粋と元記事リンク付きで表示&lt;br&gt;&lt;a href="https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"&gt;https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Dify、AIエージェントの計画から廃止までのライフサイクル管理を解説。リリース前のオーナー任命と影響度に応じた監督を重視&lt;br&gt;&lt;a href="https://dify.ai/blog/ai-agent-lifecycle-management"&gt;https://dify.ai/blog/ai-agent-lifecycle-management&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Microsoft、Ignite 2026でCopilot WorkspacesやAutopilotを含む新しいCopilotを発表&lt;br&gt;&lt;a href="https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/"&gt;https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIAがSC26で科学計算向けGPU「Rubin HPC」を発表。5万超のCUDAコアとデータ移動の強化でシミュレーションを加速&lt;br&gt;&lt;a href="https://blogs.nvidia.com/blog/rubin-hpc/"&gt;https://blogs.nvidia.com/blog/rubin-hpc/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

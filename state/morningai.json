@@ -1,5 +1,10 @@
 {
   "seen": [
+    "https://www.coderabbit.ai/ja/blog/your-jira-ticket-belongs-in-the-code-review",
+    "https://artificialanalysis.ai/articles/aa-robotics-sim",
+    "https://openrouter.ai/blog/tutorials/can-claude-generate-images/",
+    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
     "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
     "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
     "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
@@ -484,6 +489,43 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261126T032244Z",
+      "title": "Morning AI(2026年11月26日 12:22)",
+      "date": "2026-11-26T03:22:44.615910+00:00",
+      "items": [
+        {
+          "title": "CodeRabbit、Jira連携でPRにリンクされた課題の受け入れ条件を踏まえてレビュー。実装と要件のずれを指摘できる",
+          "link": "https://www.coderabbit.ai/ja/blog/your-jira-ticket-belongs-in-the-code-review",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Artificial Analysis、言語モデルのヒューマノイド操作を測るAA-Robotics-Sim v0.1を公開。首位はGPT-6.2 Astraの71.0",
+          "link": "https://artificialanalysis.ai/articles/aa-robotics-sim",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "OpenRouter、自社MCPサーバーをコネクタに追加しClaudeから画像モデル74種で画像を生成する方法を解説",
+          "link": "https://openrouter.ai/blog/tutorials/can-claude-generate-images/",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "Ai2、科学者17人への聞き取りをもとに、研究用AIエージェントの用途や評価基準は科学者と共に決めるべきと提言",
+          "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "label": null,
+          "extra": []
+        },
+        {
+          "title": "GitHub、Copilot appのセッションを会話・変更・worktreeごとVS Codeで引き継ぐ手順を解説",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261125T185649Z",
       "title": "Morning AI(2026年11月26日 3:56)",
@@ -1212,61 +1254,6 @@
         {
           "title": "Google、低メモリ端末向けに再設計したGeminiアプリをAndroid（Go edition）端末で提供開始",
           "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261118T174453Z",
-      "title": "Morning AI(2026年11月19日 2:44)",
-      "date": "2026-11-18T17:44:53.455832+00:00",
-      "items": [
-        {
-          "title": "CodeRabbit、実行中のアプリをテストしPRのバグや回帰を見つけるCodeRabbit Verifyをパブリックベータ公開。期間中は無料",
-          "link": "https://www.coderabbit.ai/ja/blog/introducing-coderabbit-verify",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Reson8、0.5Bの音声認識モデル「Rumble-2-Flash」をApache 2.0で公開。3〜60倍大きいモデルと競う精度",
-          "link": "https://huggingface.co/blog/rumble-2-flash",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "IBMとConfluent、時系列基盤モデルをFlinkの組み込み関数として提供。GPU不要のCPU上でSQLから予測・異常検知できる",
-          "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "a16z、Boltzの1億1000万ドルのSeries Aに追加出資。分子モデルをmolecular tokens単位の従量課金で提供",
-          "link": "https://a16z.com/announcement/investing-in-boltz/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAIとLe Groupe Figaroが提携。Le Figaroの最新記事とアーカイブをChatGPTで要約・抜粋と元記事リンク付きで表示",
-          "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Dify、AIエージェントの計画から廃止までのライフサイクル管理を解説。リリース前のオーナー任命と影響度に応じた監督を重視",
-          "link": "https://dify.ai/blog/ai-agent-lifecycle-management",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Microsoft、Ignite 2026でCopilot WorkspacesやAutopilotを含む新しいCopilotを発表",
-          "link": "https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "NVIDIAがSC26で科学計算向けGPU「Rubin HPC」を発表。5万超のCUDAコアとデータ移動の強化でシミュレーションを加速",
-          "link": "https://blogs.nvidia.com/blog/rubin-hpc/",
           "label": null,
           "extra": []
         }
