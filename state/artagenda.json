@@ -1,5 +1,11 @@
 {
   "seen": [
+    "https://www.artagenda.jp/exhibition/detail/12916",
+    "https://www.artagenda.jp/exhibition/detail/11805",
+    "https://www.artagenda.jp/exhibition/detail/11975",
+    "https://www.artagenda.jp/exhibition/detail/12382",
+    "https://www.artagenda.jp/exhibition/detail/12103",
+    "https://www.artagenda.jp/exhibition/detail/12350",
     "https://www.artagenda.jp/exhibition/detail/13078",
     "https://www.artagenda.jp/exhibition/detail/12986",
     "https://www.artagenda.jp/exhibition/detail/12975",
@@ -64,7 +70,6 @@
     "https://www.artagenda.jp/exhibition/detail/12544",
     "https://www.artagenda.jp/exhibition/detail/12607",
     "https://www.artagenda.jp/exhibition/detail/12177",
-    "https://www.artagenda.jp/exhibition/detail/12382",
     "https://www.artagenda.jp/exhibition/detail/12180",
     "https://www.artagenda.jp/exhibition/detail/13032",
     "https://www.artagenda.jp/exhibition/detail/13013",
@@ -168,11 +173,9 @@
     "https://www.artagenda.jp/exhibition/detail/12302",
     "https://www.artagenda.jp/exhibition/detail/12814",
     "https://www.artagenda.jp/exhibition/detail/11802",
-    "https://www.artagenda.jp/exhibition/detail/12916",
     "https://www.artagenda.jp/exhibition/detail/11614",
     "https://www.artagenda.jp/exhibition/detail/12728",
     "https://www.artagenda.jp/exhibition/detail/11936",
-    "https://www.artagenda.jp/exhibition/detail/11805",
     "https://www.artagenda.jp/exhibition/detail/12926",
     "https://www.artagenda.jp/exhibition/detail/12927",
     "https://www.artagenda.jp/exhibition/detail/12928",
@@ -458,7 +461,6 @@
     "https://www.artagenda.jp/exhibition/detail/11815",
     "https://www.artagenda.jp/exhibition/detail/11983",
     "https://www.artagenda.jp/exhibition/detail/11821",
-    "https://www.artagenda.jp/exhibition/detail/11975",
     "https://www.artagenda.jp/exhibition/detail/10183",
     "https://www.artagenda.jp/exhibition/detail/11911",
     "https://www.artagenda.jp/exhibition/detail/11739",
@@ -497,11 +499,32 @@
     "https://www.artagenda.jp/exhibition/detail/11780",
     "https://www.artagenda.jp/exhibition/detail/12172",
     "https://www.artagenda.jp/exhibition/detail/11837",
-    "https://www.artagenda.jp/exhibition/detail/12229",
-    "https://www.artagenda.jp/exhibition/detail/11509",
-    "https://www.artagenda.jp/exhibition/detail/12668"
+    "https://www.artagenda.jp/exhibition/detail/12229"
   ],
   "digests": [
+    {
+      "guid": "artagenda-20261126T184928Z",
+      "title": "アートアジェンダ 展覧会(2026年11月27日 3:49)",
+      "date": "2026-11-26T18:49:28.448992+00:00",
+      "items": [
+        {
+          "title": "特別企画展 歌舞音曲の美術",
+          "link": "https://www.artagenda.jp/exhibition/detail/12103",
+          "label": "12/12〜2027/1/24",
+          "extra": [
+            "大和文華館｜奈良県"
+          ]
+        },
+        {
+          "title": "［特集展示］重なりあうまなざし 美術でたどるアメリカと日本",
+          "link": "https://www.artagenda.jp/exhibition/detail/12350",
+          "label": "2027/1/16〜2027/2/7",
+          "extra": [
+            "福島県立美術館｜福島県"
+          ]
+        }
+      ]
+    },
     {
       "guid": "artagenda-20261125T185857Z",
       "title": "アートアジェンダ 展覧会(2026年11月26日 3:58)",
@@ -989,29 +1012,6 @@
           "label": "2027/4/24〜2027/6/20",
           "extra": [
             "九州国立博物館｜福岡県"
-          ]
-        }
-      ]
-    },
-    {
-      "guid": "artagenda-20261114T153111Z",
-      "title": "アートアジェンダ 展覧会(2026年11月15日 0:31)",
-      "date": "2026-11-14T15:31:11.827623+00:00",
-      "items": [
-        {
-          "title": "企画展「正月の風物詩－年越し･歳取りの芸能や美術」",
-          "link": "https://www.artagenda.jp/exhibition/detail/11979",
-          "label": "2027/1/1〜2027/3/22",
-          "extra": [
-            "大倉集古館｜東京都"
-          ]
-        },
-        {
-          "title": "レンブラントからモネ、ゴッホ ハマー美術館展",
-          "link": "https://www.artagenda.jp/exhibition/detail/12977",
-          "label": "2027/9/11〜2027/12/12",
-          "extra": [
-            "東京都美術館｜東京都"
           ]
         }
       ]

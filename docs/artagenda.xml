@@ -6,7 +6,15 @@
     <description>アートアジェンダ 展覧会 の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/artagenda.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Nov 2026 18:58:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:49:28 +0000</lastBuildDate>
+    <item>
+      <title>アートアジェンダ 展覧会(2026年11月27日 3:49)</title>
+      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
+      <guid isPermaLink="false">artagenda-20261126T184928Z</guid>
+      <pubDate>Thu, 26 Nov 2026 18:49:28 +0000</pubDate>
+      <description>&lt;p&gt;[12/12〜2027/1/24] 特別企画展 歌舞音曲の美術&lt;br&gt;大和文華館｜奈良県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12103"&gt;https://www.artagenda.jp/exhibition/detail/12103&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2027/1/16〜2027/2/7] ［特集展示］重なりあうまなざし 美術でたどるアメリカと日本&lt;br&gt;福島県立美術館｜福島県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12350"&gt;https://www.artagenda.jp/exhibition/detail/12350&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>アートアジェンダ 展覧会(2026年11月26日 3:58)</title>
       <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
@@ -134,14 +142,6 @@
 &lt;p&gt;[2027/1/10〜2027/4/4] ねずみくんのチョッキ あそべる！ミュージアム&lt;br&gt;麻布台ヒルズ ギャラリー｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/13012"&gt;https://www.artagenda.jp/exhibition/detail/13012&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[2027/1/23〜2027/3/14] 特別展 札幌美術展 わたしと世界のはかり方 往還する抽象絵画&lt;br&gt;札幌芸術の森美術館｜北海道&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12986"&gt;https://www.artagenda.jp/exhibition/detail/12986&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[2027/4/24〜2027/6/20] 特別展 弘法大師空海 ―高野山の至宝と信仰のひろがり―&lt;br&gt;九州国立博物館｜福岡県&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12979"&gt;https://www.artagenda.jp/exhibition/detail/12979&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>アートアジェンダ 展覧会(2026年11月15日 0:31)</title>
-      <link>https://www.artagenda.jp/exhibition/index?sort=1</link>
-      <guid isPermaLink="false">artagenda-20261114T153111Z</guid>
-      <pubDate>Sat, 14 Nov 2026 15:31:11 +0000</pubDate>
-      <description>&lt;p&gt;[2027/1/1〜2027/3/22] 企画展「正月の風物詩－年越し･歳取りの芸能や美術」&lt;br&gt;大倉集古館｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/11979"&gt;https://www.artagenda.jp/exhibition/detail/11979&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2027/9/11〜2027/12/12] レンブラントからモネ、ゴッホ ハマー美術館展&lt;br&gt;東京都美術館｜東京都&lt;br&gt;&lt;a href="https://www.artagenda.jp/exhibition/detail/12977"&gt;https://www.artagenda.jp/exhibition/detail/12977&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
