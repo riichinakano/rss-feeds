@@ -1,5 +1,6 @@
 {
   "seen": [
+    "https://huggingface.co/blog/video-trainium3",
     "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx",
     "https://x.com/trq212/status/2125675533761671405",
     "https://openrouter.ai/blog/insights/is-jevons-paradox-holding/",
@@ -496,6 +497,19 @@
     "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
   ],
   "digests": [
+    {
+      "guid": "morningai-20261127T183931Z",
+      "title": "Morning AI(2026年11月28日 3:39)",
+      "date": "2026-11-27T18:39:31.672222+00:00",
+      "items": [
+        {
+          "title": "Hugging Face、AWS Trainium3 の半分で LTX-2.5 を最適化し、音声付き10秒動画を22〜23秒で生成",
+          "link": "https://huggingface.co/blog/video-trainium3",
+          "label": null,
+          "extra": []
+        }
+      ]
+    },
     {
       "guid": "morningai-20261127T032921Z",
       "title": "Morning AI(2026年11月27日 12:29)",
@@ -1074,79 +1088,6 @@
         {
           "title": "Sakana AIがSecurity Research Groupを設立。セキュリティを上流で作り込む品質と捉え、AIによる集合的防御を研究",
           "link": "https://sakana.ai/security-research-group/",
-          "label": null,
-          "extra": []
-        }
-      ]
-    },
-    {
-      "guid": "morningai-20261120T020031Z",
-      "title": "Morning AI(2026年11月20日 11:00)",
-      "date": "2026-11-20T02:00:31.149027+00:00",
-      "items": [
-        {
-          "title": "OpenAI、Daybreak Redで監督付きセキュリティ調査を行う隔離環境の構築ガイドを公開。安全制御や調査の監視方法も解説",
-          "link": "https://openai.com/business/learn/deploying-daybreak-red",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、Daybreak Blueのオンボーディングを解説するデモ動画を公開。セットアップ体験と使い始め方を紹介",
-          "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、PR scansの製品デモ動画を公開。プルリクエストのワークフローでスキャン結果を確認する流れを紹介",
-          "link": "https://openai.com/business/learn/pr-scans-demo",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、Codex Security Pluginのデモ動画を公開。使い始めから結果の確認までの流れを紹介",
-          "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Vals AI、AIモデルの不正や報酬ハッキングを記録する「Vals Misalignment Incidents」を公開。外部からも事例を報告できる",
-          "link": "https://www.vals.ai/blogs/model-behavior-report",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、GPT-Live音声エージェントを地域の利用者に合わせる手法を解説。音声選びとセッション指示を分けて設計し、実際の発話で検証",
-          "link": "https://developers.openai.com/blog/prompting-multilingual-voice-agents",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google Quantum AI、量子の文脈依存性を最大105量子ビットで実証。古典戦略を上回り、ランダム回路では見逃す誤差も検出",
-          "link": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Gemini、他のAIアシスタントから好み設定とチャット履歴を取り込める。ZIPのアップロードで会話を続きから再開できる",
-          "link": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "MicrosoftのPyPIパッケージagent-framework 1.26.1と1.26.2が侵害され、認証情報を盗むコードが混入",
-          "link": "https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "Google、Chromeのauto browse向け合成Web環境「mirror dimension」を構築。攻撃テスト候補は手作業の30倍超",
-          "link": "https://blog.google/security/mirror-dimension-for-agents/",
-          "label": null,
-          "extra": []
-        },
-        {
-          "title": "OpenAI、ChatGPTの性能劣化をCodexで調査・修正する「Performance Factory」を構築。3か月余りで1,700件超を調査",
-          "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
           "label": null,
           "extra": []
         }

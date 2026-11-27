@@ -6,7 +6,14 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 27 Nov 2026 03:29:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:39:31 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月28日 3:39)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261127T183931Z</guid>
+      <pubDate>Fri, 27 Nov 2026 18:39:31 +0000</pubDate>
+      <description>&lt;p&gt;Hugging Face、AWS Trainium3 の半分で LTX-2.5 を最適化し、音声付き10秒動画を22〜23秒で生成&lt;br&gt;&lt;a href="https://huggingface.co/blog/video-trainium3"&gt;https://huggingface.co/blog/video-trainium3&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月27日 12:29)</title>
       <link>https://morningaiapp.com</link>
@@ -166,23 +173,6 @@
 &lt;p&gt;Hugging Face、ハーネス内RLでQwen3.8-27BのLoRAを学習するレシピ公開。piのTerminal-Bench 2.1は39%→55%&lt;br&gt;&lt;a href="https://huggingface.co/blog/harness-adapters-at-scale"&gt;https://huggingface.co/blog/harness-adapters-at-scale&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;AnthropicがNasdaqでのIPOを1株83ドルで完了。同時に行った私募と合わせて約1,195億ドルを調達&lt;br&gt;&lt;a href="https://www.anthropic.com/news/ipo-close"&gt;https://www.anthropic.com/news/ipo-close&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sakana AIがSecurity Research Groupを設立。セキュリティを上流で作り込む品質と捉え、AIによる集合的防御を研究&lt;br&gt;&lt;a href="https://sakana.ai/security-research-group/"&gt;https://sakana.ai/security-research-group/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月20日 11:00)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261120T020031Z</guid>
-      <pubDate>Fri, 20 Nov 2026 02:00:31 +0000</pubDate>
-      <description>&lt;p&gt;OpenAI、Daybreak Redで監督付きセキュリティ調査を行う隔離環境の構築ガイドを公開。安全制御や調査の監視方法も解説&lt;br&gt;&lt;a href="https://openai.com/business/learn/deploying-daybreak-red"&gt;https://openai.com/business/learn/deploying-daybreak-red&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、Daybreak Blueのオンボーディングを解説するデモ動画を公開。セットアップ体験と使い始め方を紹介&lt;br&gt;&lt;a href="https://openai.com/business/learn/daybreak-blue-onboarding-demo"&gt;https://openai.com/business/learn/daybreak-blue-onboarding-demo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、PR scansの製品デモ動画を公開。プルリクエストのワークフローでスキャン結果を確認する流れを紹介&lt;br&gt;&lt;a href="https://openai.com/business/learn/pr-scans-demo"&gt;https://openai.com/business/learn/pr-scans-demo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、Codex Security Pluginのデモ動画を公開。使い始めから結果の確認までの流れを紹介&lt;br&gt;&lt;a href="https://openai.com/business/learn/codex-security-plugin-demo"&gt;https://openai.com/business/learn/codex-security-plugin-demo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Vals AI、AIモデルの不正や報酬ハッキングを記録する「Vals Misalignment Incidents」を公開。外部からも事例を報告できる&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/model-behavior-report"&gt;https://www.vals.ai/blogs/model-behavior-report&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、GPT-Live音声エージェントを地域の利用者に合わせる手法を解説。音声選びとセッション指示を分けて設計し、実際の発話で検証&lt;br&gt;&lt;a href="https://developers.openai.com/blog/prompting-multilingual-voice-agents"&gt;https://developers.openai.com/blog/prompting-multilingual-voice-agents&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google Quantum AI、量子の文脈依存性を最大105量子ビットで実証。古典戦略を上回り、ランダム回路では見逃す誤差も検出&lt;br&gt;&lt;a href="https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/"&gt;https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Gemini、他のAIアシスタントから好み設定とチャット履歴を取り込める。ZIPのアップロードで会話を続きから再開できる&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;MicrosoftのPyPIパッケージagent-framework 1.26.1と1.26.2が侵害され、認証情報を盗むコードが混入&lt;br&gt;&lt;a href="https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer"&gt;https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、Chromeのauto browse向け合成Web環境「mirror dimension」を構築。攻撃テスト候補は手作業の30倍超&lt;br&gt;&lt;a href="https://blog.google/security/mirror-dimension-for-agents/"&gt;https://blog.google/security/mirror-dimension-for-agents/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI、ChatGPTの性能劣化をCodexで調査・修正する「Performance Factory」を構築。3か月余りで1,700件超を調査&lt;br&gt;&lt;a href="https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"&gt;https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
