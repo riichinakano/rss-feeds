@@ -6,7 +6,15 @@
     <description>Morning AI の新着まとめ</description>
     <language>ja</language>
     <atom:link href="https://riichinakano.github.io/rss-feeds/morningai.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 26 Nov 2026 18:47:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 03:29:21 +0000</lastBuildDate>
+    <item>
+      <title>Morning AI(2026年11月27日 12:29)</title>
+      <link>https://morningaiapp.com</link>
+      <guid isPermaLink="false">morningai-20261127T032921Z</guid>
+      <pubDate>Fri, 27 Nov 2026 03:29:21 +0000</pubDate>
+      <description>&lt;p&gt;SpaceX、現在有効なすべてのTrump AccountにクラスA普通株を1株ずつ拠出へ。マスクCEOも同数を個人で上乗せ&lt;br&gt;&lt;a href="https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx"&gt;https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thariq氏がAnthropicを離れOpenAIに移籍、Anthropicの元同僚を今後も応援すると表明&lt;br&gt;&lt;a href="https://x.com/trq212/status/2125675533761671405"&gt;https://x.com/trq212/status/2125675533761671405&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morning AI(2026年11月27日 3:47)</title>
       <link>https://morningaiapp.com</link>
@@ -175,18 +183,6 @@
 &lt;p&gt;MicrosoftのPyPIパッケージagent-framework 1.26.1と1.26.2が侵害され、認証情報を盗むコードが混入&lt;br&gt;&lt;a href="https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer"&gt;https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google、Chromeのauto browse向け合成Web環境「mirror dimension」を構築。攻撃テスト候補は手作業の30倍超&lt;br&gt;&lt;a href="https://blog.google/security/mirror-dimension-for-agents/"&gt;https://blog.google/security/mirror-dimension-for-agents/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;OpenAI、ChatGPTの性能劣化をCodexで調査・修正する「Performance Factory」を構築。3か月余りで1,700件超を調査&lt;br&gt;&lt;a href="https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"&gt;https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Morning AI(2026年11月20日 2:56)</title>
-      <link>https://morningaiapp.com</link>
-      <guid isPermaLink="false">morningai-20261119T175620Z</guid>
-      <pubDate>Thu, 19 Nov 2026 17:56:20 +0000</pubDate>
-      <description>&lt;p&gt;Vals AI、意思決定モデル9種にRollerCoaster Tycoon 2で遊園地を96週運営させ比較。首位はDecider V1.3の71点&lt;br&gt;&lt;a href="https://www.vals.ai/blogs/building-rctbench"&gt;https://www.vals.ai/blogs/building-rctbench&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、Mac版Geminiアプリでcomputer useを米国で提供開始。ローカルファイルやアプリ、Webをまたぐ作業を代行&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"&gt;https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;prompts.chat作者のFatih Kadir Akın、エージェントが書いたPRの問題はコードの良し悪しでなく文脈の欠如と指摘&lt;br&gt;&lt;a href="https://www.coderabbit.ai/ja/blog/ai-pull-requests-open-source-context-problem"&gt;https://www.coderabbit.ai/ja/blog/ai-pull-requests-open-source-context-problem&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google DeepMind、Genie 4をGemini APIとGoogle AI Studioで開発者に提供。音声付きの720p・24fpsの世界をリアルタイムに操作できる&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/"&gt;https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、TunixのマルチターンRLでGemma 4 E2Bを学習する手順を解説。100ステップで勝率9.4%が95%に向上&lt;br&gt;&lt;a href="https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/"&gt;https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google、Flow Music Sessions参加者がSpacesで作ったプラグインや楽器を公開。リミックスして試せる&lt;br&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-and-flow-music-session-artists/"&gt;https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-and-flow-music-session-artists/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
